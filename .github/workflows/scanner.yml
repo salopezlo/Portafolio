@@ -1,0 +1,37 @@
+name: Scanner de Oportunidades
+
+on:
+  # Corre de lunes a viernes a las 21:30 UTC = 4:30pm ET (cierre NYSE)
+  schedule:
+    - cron: '30 21 * * 1-5'
+  # También permite correrlo manualmente desde GitHub
+  workflow_dispatch:
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # necesario para hacer commit del JSON
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Correr scanner
+        env:
+          FMP_KEY: ${{ secrets.FMP_KEY }}
+          ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
+        run: python scanner.py
+
+      - name: Commit opportunities.json
+        run: |
+          git config --local user.email "scanner@portafolio"
+          git config --local user.name "Scanner Bot"
+          git add opportunities.json
+          git diff --staged --quiet || git commit -m "📊 Scanner $(date +'%Y-%m-%d %H:%M') UTC"
+          git push
