@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T00:22:00.612451",
+  "generated_at": "2026-06-01T23:16:20.045721",
   "market_date": "2026-06-01",
   "total_scanned": 49,
   "top5": [
@@ -8,66 +8,66 @@
       "name": "iShares Bitcoin Trust ETF",
       "risk": "etf",
       "score": {
-        "total": 4.1,
-        "tech": 2.4,
+        "total": 4.2,
+        "tech": 2.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 5.21,
-          "range52": 8.27,
-          "momentum": 7.695
+          "dip": 6.435,
+          "range52": 8.58,
+          "momentum": 7.875
         }
       },
       "price": {
         "ticker": "IBIT",
         "name": "iShares Bitcoin Trust ETF",
         "exchange": "NGM",
-        "price": 41.63,
-        "change_pct": -2.57,
-        "dip30": 10.42,
-        "range52pct": 17.3,
+        "price": 40.49,
+        "change_pct": -7.85,
+        "dip30": 12.87,
+        "range52pct": 14.2,
         "h52": 71.82,
         "l52": 35.3,
-        "mom5": -5.39,
-        "volume": 40077712,
+        "mom5": -5.75,
+        "volume": 53872822,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS IBIT PARA INVERSOR COLOMBIANO AGRESIVO\n\n## 📊 SITUACIÓN ACTUAL\nIBIT cotiza a $41.63 tras caída del 2.57% hoy. Está en el 17.3% del rango anual (cerca del piso), lo que indica Bitcoin se aleja significativamente de máximos históricos recientes.\n\n## 💼 NEGOCIO Y VENTAJA\nIBIT es un fondo que replica Bitcoin sin requerir tenencia directa de criptomonedas. Su ventaja: regulación por la SEC, custodia segura, acceso desde cualquier bróker colombiano sin complicaciones técnicas. Es la puerta más simple para exposición a Bitcoin institucional.\n\n## 📈 SEÑALES FINANCIERAS\n- **Score 4.1/10**: Señal débil. El mercado no ve momentum alcista inmediato.\n- **Caída 10.42% en 30 días**: Corrección natural tras movidas anteriores, no pánico generalizado.\n- **Posición 17.3% en rango anual**: Espacio para caer más (0% = mínimo histórico), pero también indica precios atractivos.\n- **Volatilidad implícita**: Típica de cripto; esperada para tu perfil agresivo.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación cripto en flux**: Cambios normativos pueden afectar valuación de Bitcoin abruptamente.\n2. **Ciclos volátiles extremos**: Caídas del 30-50% son posibles en correcciones; requiere estómago fuerte.\n3. **Concentración**: Tu cartera no debe depender solo de IBIT; necesita diversificación.\n\n## ⚡ SEÑAL DCA\n**COMPRA AHORA, NO ESPERES.** Con horizonte 20+ años y DCA, estos precios bajos son oportunidad. Invierte cuota fija mensual sistemática; ignora volatilidad diaria. El score 4.1 es bajo hoy, pero para DCA agresivo es irrelevante: compra en correcciones, no cuando suena \"seguro\".",
-      "updated_at": "2026-06-01T00:18:15.933763"
+      "narrative": "# ANÁLISIS: IBIT (iShares Bitcoin Trust ETF)\n\n📊 **SITUACIÓN ACTUAL**\nIBIT cotiza a $40.49 con caída del 7.85% intradía. Se encuentra en el 14.2% del rango anual, muy cerca del piso de 52 semanas, lo que indica presión vendedora significativa tras retroceso del 12.87% en 30 días.\n\n💼 **NEGOCIO Y VENTAJA**\nIBIT es un ETF que replica el precio del Bitcoin mediante un fondo fiduciario (spot Bitcoin). Su ventaja: acceso regulado en EE.UU. sin riesgos de custodia propia. Ideal para inversores que quieren exposición a Bitcoin dentro de cuentas de inversión tradicionales sin usar exchanges de criptomonedas.\n\n📈 **SEÑALES FINANCIERAS**\n- **Posición en rango anual (14.2%)**: Cercano al mínimo del año = potencial de rebote, pero riesgo de caída adicional si persiste presión.\n- **Caída reciente (-12.87% en 30d)**: Volatilidad típica de cripto; para DCA es irrelevante (compras sistemáticas neutralizan timing).\n- **Score de oportunidad (4.2/10)**: Bajo. Indica que hay mejores puntos de entrada o incertidumbre macro.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Volatilidad extrema**: Bitcoin puede caer 20-30% sin avisar; requiere estómago fuerte.\n2. **Riesgo regulatorio**: Cambios en normativa cripto (EE.UU./UE) pueden golpear valuación.\n3. **Correlación con tech/riesgo sistémico**: En crisis severas, Bitcoin no es refugio seguro como creencias antiguas sugieren.\n\n⚡ **SEÑAL DCA**\n**Compra ahora a través de DCA mensual (no de una sola vez).** La caída reciente no cambia el plan a 20 años. Continúa inversión automática; evita intentar \"picar el piso\". El score bajo refleja volatilidad, no debilidad fundamental del protocolo Bitcoin.",
+      "updated_at": "2026-06-01T23:12:57.082873"
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix, Inc.",
+      "ticker": "HD",
+      "name": "The Home Depot, Inc.",
       "risk": "speculative",
       "score": {
         "total": 4.1,
-        "tech": 2.4,
+        "tech": 2.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 5.8,
-          "range52": 8.14,
-          "momentum": 6.835
+          "dip": 5.74,
+          "range52": 8.43,
+          "momentum": 5.38
         }
       },
       "price": {
-        "ticker": "NFLX",
-        "name": "Netflix, Inc.",
-        "exchange": "NMS",
-        "price": 86.02,
-        "change_pct": -20.2,
-        "dip30": 11.6,
-        "range52pct": 18.6,
-        "h52": 134.12,
-        "l52": 75.01,
-        "mom5": -3.67,
-        "volume": 39793616,
+        "ticker": "HD",
+        "name": "The Home Depot, Inc.",
+        "exchange": "NYQ",
+        "price": 310.69,
+        "change_pct": -11.08,
+        "dip30": 11.48,
+        "range52pct": 15.7,
+        "h52": 426.75,
+        "l52": 289.1,
+        "mom5": -0.76,
+        "volume": 4463103,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: NFLX — Netflix, Inc.\n\n📊 **SITUACIÓN ACTUAL**\nNetflix cae 20.2% hoy tras resultados o evento corporativo. A $86.02, cotiza en el 18.6% del rango anual (muy cerca del piso de 52 semanas). La caída de 11.6% en 30 días sugiere presión sostenida, no panic puntual.\n\n💼 **NEGOCIO Y VENTAJA**\nPlataforma de streaming líder global con 250M+ suscriptores. Control de contenido original y algoritmo de recomendación superior crean barrera competitiva fuerte. Modelo de suscripción genera flujo de caja predecible. Debilidad: saturación en mercados desarrollados y competencia feroz (Amazon, Disney+).\n\n📈 **SEÑALES FINANCIERAS**\n- **Valoración**: P/E proyectado probablemente comprimido por pánico → oportunidad relativa\n- **Márgenes operativos**: Netflix mantiene 25%+ (sector). Sostenible aunque presionado\n- **Cash flow libre**: Empresa cash-generadora; financia inversión en contenido sin deuda excesiva\n- **Score 4.1/10**: Bajo; refleja volatilidad reciente y dudas sobre crecimiento de suscriptores\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Saturación de mercado**: Crecimiento de usuarios decreciente en occidente; depende de mercados emergentes volátiles\n2. **Presión de precios**: Compra compartida (password-sharing) bajo control; suscriptores pueden rechazar aumentos de tarifa\n3. **Competencia sin piedad**: Disney+, Amazon Prime y otros erosionan share; margen se contrae si pierde suscriptores\n\n⚡ **SEÑAL DCA**\n**SÍ, comprar ahora.** Perfil agresivo + 20 años permite capturar esta caída. Inicia acumulación mensual con DCA; si cae 15% más, aumenta posición. Netflix es negocio sólido de largo plazo, no especulativo. Volatilidad corto plazo ≠ valor destruido.",
-      "updated_at": "2026-06-01T00:19:15.516085"
+      "narrative": "# ANÁLISIS: HD (The Home Depot)\n\n## 📊 SITUACIÓN ACTUAL\nHD cae 11.08% hoy en volatilidad de corto plazo. Posicionado en el 15.7% del rango anual significa que está cerca del piso de 52 semanas, muy por debajo de máximos recientes. La corrección acumulada de 11.48% en 30 días sugiere pánico sectorial, no deterioro fundamental comprobado.\n\n## 💼 NEGOCIO Y VENTAJA\nHome Depot es el mayorista de construcción y mejora del hogar dominante en EE.UU. Su ventaja: red logística incomparable, fidelización de clientes profesionales (60%+ de ingresos) y márgenes resilientes. Beneficiario natural de cualquier recuperación inmobiliaria, aún con tasas de interés más normales.\n\n## 📈 SEÑALES FINANCIERAS\n- **Dividend yield ~2.3%**: Empresa madura que devuelve dinero. Refuerza estrategia DCA a largo plazo.\n- **Ratio P/E estimado ~20-22x**: Ligeramente bajo vs. histórico (~24x), refleja descuento temporal.\n- **FCF sólido**: Genera >$12B anuales. Capacidad de recompra y dividendos sin comprometer balance.\n- **Score 4.1/10**: Bajo, confirmando sobreventa técnica sin ruptura de modelo.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Ciclo inmobiliario**: Recesión residencial prolongada golpea demanda directamente (aunque profesionales son más estables).\n2. **Tipo de cambio**: Para inversor colombiano, apreciación del peso vs. dólar erosiona retornos.\n3. **Competencia e-commerce**: Amazon/minoristas en línea presionan tráfico de tienda física.\n\n## ⚡ SEÑAL DCA\n**COMPRA AHORA EN DOSIS PEQUEÑAS.** Caída de 11% en 30 días + posición baja en rango anual = oportunidad táctica para DCA. No es mínimo histórico, pero riesgo/recompensa favorable para inversor de 20+ años. Acumula mensualmente sin esperar fondo perfecto; la volatilidad es aliada, no enemiga.",
+      "updated_at": "2026-06-01T23:14:40.937614"
     },
     {
       "ticker": "COST",
@@ -75,32 +75,32 @@
       "risk": "speculative",
       "score": {
         "total": 4.1,
-        "tech": 2.4,
+        "tech": 2.5,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.305,
-          "range52": 5.55,
-          "momentum": 9.48
+          "dip": 6.77,
+          "range52": 5.96,
+          "momentum": 8.995000000000001
         }
       },
       "price": {
         "ticker": "COST",
         "name": "Costco Wholesale Corporation",
         "exchange": "NMS",
-        "price": 956.32,
-        "change_pct": -3.13,
-        "dip30": 12.61,
-        "range52pct": 44.5,
+        "price": 946.11,
+        "change_pct": -5.38,
+        "dip30": 13.54,
+        "range52pct": 40.4,
         "h52": 1096.5,
         "l52": 844.06,
-        "mom5": -8.96,
-        "volume": 7034527,
+        "mom5": -7.99,
+        "volume": 2809569,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS COST — COSTCO WHOLESALE CORPORATION\n\n📊 **SITUACIÓN ACTUAL**\nCOST cotiza a $956.32 tras caída diaria del 3.13%. Está en el 44.5% de su rango anual (cerca del centro), pero acumula retroceso de 12.61% en el último mes, señalando volatilidad reciente sin colapso estructural.\n\n💼 **NEGOCIO Y VENTAJA**\nCostco es el segundo minorista por membresía más grande del mundo. Su modelo genera ingresos recurrentes de ~$4.6B anuales en membresías (margen superior al 40%) independientemente de ventas. Barrera competitiva: lealtad extrema, volumen de compra que comprime costos, y base de clientes premium de alto poder adquisitivo.\n\n📈 **SEÑALES FINANCIERAS**\n- **P/E actual**: ~45-50x (premium histórico). Justificado por crecimiento consistente (~10-12% anual), pero limita margen de seguridad.\n- **ROE**: ~35%+ (excelente), refleja eficiencia operativa superior.\n- **Deuda**: bajo apalancamiento (<20% del capital). Solidez financiera confirmada.\n- **Crecimiento membresía**: +5% anual. Estable pero no explosivo.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Valoración estirada**: múltiplo elevado requiere crecimiento perfecto; decepción earnings causa caídas abruptas (como ahora).\n2. **Competencia e-commerce**: Amazon y Walmart+ presionan modelo de membresía tradicional.\n3. **Ciclo económico**: consumidor premium es sensible a recesión; márgenes comprimidos si inflación erosiona poder adquisitivo.\n\n⚡ **SEÑAL DCA**\n**Apropiado para DCA ahora**. Con caída del 12%, precio es menos punitivo. Perfil agresivo de 20+ años puede absorber volatilidad. Compra mensual pequeña mantiene disciplina, aprovechando cada caída. Evita timing perfecto; el negocio fundamentals permanece sólido. Score 4.1/10 refleja sobrevaloración, no debilidad.",
-      "updated_at": "2026-06-01T00:20:21.931664"
+      "narrative": "# ANÁLISIS: COST (Costco Wholesale)\n\n📊 **SITUACIÓN ACTUAL**\nCOST cae 5.38% hoy y acumula -13.54% en 30 días. Se posiciona en el 40% del rango anual (más cerca del piso que del techo), señalando debilidad técnica reciente después de meses de fortaleza.\n\n💼 **NEGOCIO Y VENTAJA**\nCostco es la cadena de membresía mayorista más grande globalmente. Su modelo genera ingresos recurrentes garantizados (membresías) + márgenes bajos pero rotación ultra-rápida. Esto crea un moat defensivo: bajísima competencia directa y cliente \"pegado\" por la membresía.\n\n📈 **SEÑALES FINANCIERAS**\n- **Valuación**: P/E ~50x (premium histórico, pero justificado por crecimiento consistente 8-10% anual)\n- **Rentabilidad**: ROE superior a 40%, retorna efectivo eficientemente\n- **Membresías**: crecimiento 6-7% anual con aumento de precios = ingresos predecibles\n- **Dividendo**: bajo (~0.6%), reinvierte ganancia en expansión\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Valuación extendida**: El P/E de 50x deja poco margen si crecimiento desacelera (riesgo real en recesión)\n2. **Saturación en mercados maduros**: EE.UU. y Canadá tienen cobertura densa; expansión internacional es lenta\n3. **Dependencia de consumidor estadounidense**: 80%+ ingresos en US; debilidad económica impacta membresías\n\n⚡ **SEÑAL DCA**\n**Sigue comprando, pero con cuotas pequeñas.** COST es empresarialmente sólida para 20+ años, pero el precio actual no ofrece descuento material. La caída -13.54% es corrección técnica, no oportunidad de deuda. Usa DCA mensual sin esperar \"fondo perfecto\"; el negocio justifica el precio a largo plazo.",
+      "updated_at": "2026-06-01T23:14:44.947508"
     },
     {
       "ticker": "SLV",
@@ -108,65 +108,65 @@
       "risk": "etf",
       "score": {
         "total": 4.0,
-        "tech": 2.1,
+        "tech": 2.2,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.945,
-          "range52": 5.25,
-          "momentum": 5.805
+          "dip": 7.36,
+          "range52": 5.33,
+          "momentum": 5.505
         }
       },
       "price": {
         "ticker": "SLV",
         "name": "iShares Silver Trust",
         "exchange": "PCX",
-        "price": 68.33,
-        "change_pct": -4.08,
-        "dip30": 13.89,
-        "range52pct": 47.5,
+        "price": 67.67,
+        "change_pct": -8.09,
+        "dip30": 14.72,
+        "range52pct": 46.7,
         "h52": 109.83,
         "l52": 30.72,
-        "mom5": -1.61,
-        "volume": 16139554,
+        "mom5": -1.01,
+        "volume": 15550335,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: SLV (iShares Silver Trust)\n\n📊 **SITUACIÓN ACTUAL**\nSLV cotiza a $68.33 en caída del 4.08% hoy, acumulando pérdida del 13.89% en 30 días. Se posiciona al 47.5% de su rango anual, justo en zona media sin claridad de dirección.\n\n💼 **NEGOCIO Y VENTAJA**\nSLV es un fondo que replica el precio de la plata física mediante depósitos de metal en bóveda. Para inversores colombianos ofrece exposición a commodity sin costos de almacenamiento. Su ventaja: liquidez alta y comisiones bajas (0.30% anual).\n\n📈 **SEÑALES FINANCIERAS**\n- **Volatilidad extrema**: Caída 13.89% en mes refleja sensibilidad a tasas de interés y ciclos económicos\n- **Score bajo (4.0/10)**: Señal clara de oportunidad débil en corto plazo; el mercado no ve catalizadores inmediatos\n- **Posición neutral (47.5%)**: Sin soporte técnico definido; podría caer más si cede ese nivel\n- **Inversión de riesgo alto**: Plata no genera flujos; ganancia solo por apreciación\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Dependencia de tasas de interés**: Cada alza de Fed debilita la plata; si suben más tasas globales, cae más\n2. **Demanda industrial frágil**: Recesión económica golpea fuerte (70% uso industrial); no es refugio seguro como oro\n3. **Correlación con riesgo sistémico**: En crisis de liquidez, se vende primero para generar efectivo\n\n⚡ **SEÑAL DCA**\n**Espera a $60-62 antes de iniciar aportes.** El score bajo y tendencia negativa no justifican entrar ahora. Con horizonte de 20 años, puedes permitirte esperar una corrección del 10-15% más para anclar posición con mejor promedio. Cuando llegues a ese nivel, SLV será buena candidata para DCA mensual pequeño (no concentrado).",
-      "updated_at": "2026-06-01T00:18:11.671413"
+      "narrative": "# ANÁLISIS: SLV (iShares Silver Trust)\n\n## 📊 SITUACIÓN ACTUAL\nSLV cotiza a $67.67 tras caída del 8.09% hoy, acumulando retroceso de 14.72% en 30 días. Se ubica en el 46.7% del rango anual (cercano al punto medio), indicando que no está en mínimos históricos ni en máximos.\n\n## 💼 NEGOCIO Y VENTAJA\nSLV es un fondo que replica el precio de la plata física. Su ventaja es proporcionar exposición a este metal sin costos de almacenamiento, con liquidez superior a poseer plata directa. Relevante como cobertura inflacionaria y diversificador en portafolios.\n\n## 📈 SEÑALES FINANCIERAS\n- **Volatilidad extrema**: 14.72% en un mes refleja activo muy sensible a ciclos de riesgo global y tasas de interés.\n- **Score 4.0/10 bajo**: Sugiere desalineación entre precio y fundamentales; momento especulativo más que atractivo.\n- **Posición en rango**: Al 46.7% no hay sobreventa clara; hay espacio potencial a la baja antes de zona crítica.\n- **Correlación con dólar**: La fortaleza del USD recientemente presiona plata; factor temporal importante.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Dólar fuerte**: Mientras USD se mantenga elevado, presión a la baja en precios de metales preciosos.\n2. **Tasas de interés altas**: Reducen demanda especulativa; plata sufre si se mantienen tasas restrictivas.\n3. **Volatilidad sin catalizadores claros**: Movimientos violentos dificultan timing, incluso para DCA disciplinado.\n\n## ⚡ SEÑAL DCA\n**Espera corrección mayor antes de iniciar posición**. Score 4.0/10 + caída reciente no garantizan suelo. Para DCA agresivo, mejor entrada sería en 40-45% del rango anual. Continúa monitoreando; no es urgente.",
+      "updated_at": "2026-06-01T23:12:53.516235"
     },
     {
-      "ticker": "HD",
-      "name": "The Home Depot, Inc.",
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
       "risk": "speculative",
       "score": {
         "total": 4.0,
-        "tech": 2.0,
+        "tech": 2.2,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 4.82,
-          "range52": 7.959999999999999,
-          "momentum": 4.465
+          "dip": 5.76,
+          "range52": 7.090000000000001,
+          "momentum": 5.8
         }
       },
       "price": {
-        "ticker": "HD",
-        "name": "The Home Depot, Inc.",
-        "exchange": "NYQ",
-        "price": 317.14,
-        "change_pct": -5.94,
-        "dip30": 9.64,
-        "range52pct": 20.4,
-        "h52": 426.75,
-        "l52": 289.1,
-        "mom5": 1.07,
-        "volume": 3340594,
+        "ticker": "META",
+        "name": "Meta Platforms, Inc.",
+        "exchange": "NMS",
+        "price": 600.47,
+        "change_pct": -12.79,
+        "dip30": 11.52,
+        "range52pct": 29.1,
+        "h52": 796.25,
+        "l52": 520.26,
+        "mom5": -1.6,
+        "volume": 27528175,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: The Home Depot (HD)\n\n📊 SITUACIÓN ACTUAL\nHD cotiza a $317.14 tras caída del 5.94% hoy, ubicándose en el 20.4% del rango anual (muy cerca del mínimo de 52 semanas). En 30 días ha retrocedido 9.64%, señalizando presión vendedora sostenida.\n\n💼 NEGOCIO Y VENTAJA\nLíder indiscutible en distribución de materiales de construcción y mejora del hogar en Norteamérica. Posee ecosistema integrado (tiendas físicas, e-commerce, servicios profesionales) que genera economías de escala. Su ventaja: acceso privilegiado a proveedores, poder de negociación y cliente cautivo en sector esencial.\n\n📈 SEÑALES FINANCIERAS\n- **Rentabilidad sobre patrimonio (ROE)**: ~450% (extraordinario), refleja capital eficiente\n- **Margen operativo**: ~14-15%, saludable pero presionado por competencia de Amazon\n- **Dividend yield**: ~2.2%, con histórico de alzas anuales (29 años consecutivos)\n- **Relación Precio/Ganancias**: ~22x (moderado para su calidad, pero en nivel alto del ciclo)\n\n⚠️ RIESGOS PRINCIPALES\n1. **Ciclo inmobiliario**: sensible a tasas de interés y construcción residencial (vulnerable ante alza de hipotecas)\n2. **Presión digital**: Amazon y plataformas especializadas erosionan márgenes en categorías clave\n3. **Valuación**: el precio actual sigue siendo exigente; podría caer más si economía se desacelera\n\n⚡ SEÑAL DCA\n**COMPRA PARCIAL AGRESIVA**: A este nivel (~20% del rango anual) es momento de iniciar acumulación mensual. Para inversor agresivo a 20 años, las correcciones son aliadas. Espere dosis pequeñas en caídas, no un bombazo único.",
-      "updated_at": "2026-06-01T00:20:17.056737"
+      "narrative": "# ANÁLISIS META PLATFORMS (META) - Perfil Agresivo | DCA 20+ años\n\n## 📊 SITUACIÓN ACTUAL\nMETA cae 12.79% en una sesión tras resultados decepcionantes. Está en el percentil 29 del rango anual (muy cerca del piso de 52 semanas), indicando posible sobreventa técnica después de corrección del 11.52% en 30 días.\n\n## 💼 NEGOCIO Y VENTAJA\nMeta domina publicidad digital mediante Facebook, Instagram y WhatsApp (3.2 mil millones de usuarios). Su fortaleza: captura datos masivos para segmentación publicitaria sin rival. El riesgo latente: dependencia publicitaria (97% ingresos) en entorno regulatorio hostil.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/E actual:** ~30-32x (premium pero justificado vs histórico de 25x pre-IA)\n- **Margen operativo:** 37-40% (saludable; mejora por eficiencia de costos)\n- **FCF (flujo libre):** $65-70 mil millones anuales (abundante para reinversión/recompras)\n- **Growth esperado:** 13-18% anual próximos 3 años (sólido para tech mega-cap)\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación antitrust:** UE/EE.UU. presionan separación de apps; impacto multimillonario potencial\n2. **Fatiga publicitaria:** Inflación en CPM (precio por mil impresiones) insostenible; margen compresión\n3. **Dependencia IA:** Inversión masiva en capex de data centers (~$60B proximo quinquenio) con ROI incierto\n\n## ⚡ SEÑAL DCA\n**COMPRA INMEDIATA.** Para DCA agresivo a 20+ años, esta caída es *exactamente el escenario esperado*. Precio en percentil 29 + FCF robusto + crecimiento visible = oportunidad, no alarma. Acumula mensualmente sin esperar; evita timing el fondo. El riesgo regulatorio ya está parcialmente en precio.\n\n---\n*Score 4/10 refleja volatilidad/regulación, no calidad fundamental.*",
+      "updated_at": "2026-06-01T23:13:24.074055"
     }
   ],
   "by_risk": {
@@ -176,33 +176,33 @@
         "name": "iShares Bitcoin Trust ETF",
         "risk": "etf",
         "score": {
-          "total": 4.1,
-          "tech": 2.4,
+          "total": 4.2,
+          "tech": 2.6,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 5.21,
-            "range52": 8.27,
-            "momentum": 7.695
+            "dip": 6.435,
+            "range52": 8.58,
+            "momentum": 7.875
           }
         },
         "price": {
           "ticker": "IBIT",
           "name": "iShares Bitcoin Trust ETF",
           "exchange": "NGM",
-          "price": 41.63,
-          "change_pct": -2.57,
-          "dip30": 10.42,
-          "range52pct": 17.3,
+          "price": 40.49,
+          "change_pct": -7.85,
+          "dip30": 12.87,
+          "range52pct": 14.2,
           "h52": 71.82,
           "l52": 35.3,
-          "mom5": -5.39,
-          "volume": 40077712,
+          "mom5": -5.75,
+          "volume": 53872822,
           "market_cap": 0
         },
         "fundamentals": {},
-        "narrative": "# ANÁLISIS IBIT PARA INVERSOR COLOMBIANO AGRESIVO\n\n## 📊 SITUACIÓN ACTUAL\nIBIT cotiza a $41.63 tras caída del 2.57% hoy. Está en el 17.3% del rango anual (cerca del piso), lo que indica Bitcoin se aleja significativamente de máximos históricos recientes.\n\n## 💼 NEGOCIO Y VENTAJA\nIBIT es un fondo que replica Bitcoin sin requerir tenencia directa de criptomonedas. Su ventaja: regulación por la SEC, custodia segura, acceso desde cualquier bróker colombiano sin complicaciones técnicas. Es la puerta más simple para exposición a Bitcoin institucional.\n\n## 📈 SEÑALES FINANCIERAS\n- **Score 4.1/10**: Señal débil. El mercado no ve momentum alcista inmediato.\n- **Caída 10.42% en 30 días**: Corrección natural tras movidas anteriores, no pánico generalizado.\n- **Posición 17.3% en rango anual**: Espacio para caer más (0% = mínimo histórico), pero también indica precios atractivos.\n- **Volatilidad implícita**: Típica de cripto; esperada para tu perfil agresivo.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación cripto en flux**: Cambios normativos pueden afectar valuación de Bitcoin abruptamente.\n2. **Ciclos volátiles extremos**: Caídas del 30-50% son posibles en correcciones; requiere estómago fuerte.\n3. **Concentración**: Tu cartera no debe depender solo de IBIT; necesita diversificación.\n\n## ⚡ SEÑAL DCA\n**COMPRA AHORA, NO ESPERES.** Con horizonte 20+ años y DCA, estos precios bajos son oportunidad. Invierte cuota fija mensual sistemática; ignora volatilidad diaria. El score 4.1 es bajo hoy, pero para DCA agresivo es irrelevante: compra en correcciones, no cuando suena \"seguro\".",
-        "updated_at": "2026-06-01T00:18:15.933763"
+        "narrative": "# ANÁLISIS: IBIT (iShares Bitcoin Trust ETF)\n\n📊 **SITUACIÓN ACTUAL**\nIBIT cotiza a $40.49 con caída del 7.85% intradía. Se encuentra en el 14.2% del rango anual, muy cerca del piso de 52 semanas, lo que indica presión vendedora significativa tras retroceso del 12.87% en 30 días.\n\n💼 **NEGOCIO Y VENTAJA**\nIBIT es un ETF que replica el precio del Bitcoin mediante un fondo fiduciario (spot Bitcoin). Su ventaja: acceso regulado en EE.UU. sin riesgos de custodia propia. Ideal para inversores que quieren exposición a Bitcoin dentro de cuentas de inversión tradicionales sin usar exchanges de criptomonedas.\n\n📈 **SEÑALES FINANCIERAS**\n- **Posición en rango anual (14.2%)**: Cercano al mínimo del año = potencial de rebote, pero riesgo de caída adicional si persiste presión.\n- **Caída reciente (-12.87% en 30d)**: Volatilidad típica de cripto; para DCA es irrelevante (compras sistemáticas neutralizan timing).\n- **Score de oportunidad (4.2/10)**: Bajo. Indica que hay mejores puntos de entrada o incertidumbre macro.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Volatilidad extrema**: Bitcoin puede caer 20-30% sin avisar; requiere estómago fuerte.\n2. **Riesgo regulatorio**: Cambios en normativa cripto (EE.UU./UE) pueden golpear valuación.\n3. **Correlación con tech/riesgo sistémico**: En crisis severas, Bitcoin no es refugio seguro como creencias antiguas sugieren.\n\n⚡ **SEÑAL DCA**\n**Compra ahora a través de DCA mensual (no de una sola vez).** La caída reciente no cambia el plan a 20 años. Continúa inversión automática; evita intentar \"picar el piso\". El score bajo refleja volatilidad, no debilidad fundamental del protocolo Bitcoin.",
+        "updated_at": "2026-06-01T23:12:57.082873"
       },
       {
         "ticker": "SLV",
@@ -210,98 +210,65 @@
         "risk": "etf",
         "score": {
           "total": 4.0,
-          "tech": 2.1,
+          "tech": 2.2,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 6.945,
-            "range52": 5.25,
-            "momentum": 5.805
+            "dip": 7.36,
+            "range52": 5.33,
+            "momentum": 5.505
           }
         },
         "price": {
           "ticker": "SLV",
           "name": "iShares Silver Trust",
           "exchange": "PCX",
-          "price": 68.33,
-          "change_pct": -4.08,
-          "dip30": 13.89,
-          "range52pct": 47.5,
+          "price": 67.67,
+          "change_pct": -8.09,
+          "dip30": 14.72,
+          "range52pct": 46.7,
           "h52": 109.83,
           "l52": 30.72,
-          "mom5": -1.61,
-          "volume": 16139554,
+          "mom5": -1.01,
+          "volume": 15550335,
           "market_cap": 0
         },
         "fundamentals": {},
-        "narrative": "# ANÁLISIS: SLV (iShares Silver Trust)\n\n📊 **SITUACIÓN ACTUAL**\nSLV cotiza a $68.33 en caída del 4.08% hoy, acumulando pérdida del 13.89% en 30 días. Se posiciona al 47.5% de su rango anual, justo en zona media sin claridad de dirección.\n\n💼 **NEGOCIO Y VENTAJA**\nSLV es un fondo que replica el precio de la plata física mediante depósitos de metal en bóveda. Para inversores colombianos ofrece exposición a commodity sin costos de almacenamiento. Su ventaja: liquidez alta y comisiones bajas (0.30% anual).\n\n📈 **SEÑALES FINANCIERAS**\n- **Volatilidad extrema**: Caída 13.89% en mes refleja sensibilidad a tasas de interés y ciclos económicos\n- **Score bajo (4.0/10)**: Señal clara de oportunidad débil en corto plazo; el mercado no ve catalizadores inmediatos\n- **Posición neutral (47.5%)**: Sin soporte técnico definido; podría caer más si cede ese nivel\n- **Inversión de riesgo alto**: Plata no genera flujos; ganancia solo por apreciación\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Dependencia de tasas de interés**: Cada alza de Fed debilita la plata; si suben más tasas globales, cae más\n2. **Demanda industrial frágil**: Recesión económica golpea fuerte (70% uso industrial); no es refugio seguro como oro\n3. **Correlación con riesgo sistémico**: En crisis de liquidez, se vende primero para generar efectivo\n\n⚡ **SEÑAL DCA**\n**Espera a $60-62 antes de iniciar aportes.** El score bajo y tendencia negativa no justifican entrar ahora. Con horizonte de 20 años, puedes permitirte esperar una corrección del 10-15% más para anclar posición con mejor promedio. Cuando llegues a ese nivel, SLV será buena candidata para DCA mensual pequeño (no concentrado).",
-        "updated_at": "2026-06-01T00:18:11.671413"
-      },
-      {
-        "ticker": "XLE",
-        "name": "State Street Energy Select Sector SPDR ETF",
-        "risk": "etf",
-        "score": {
-          "total": 3.8,
-          "tech": 1.6,
-          "fund": 5.0,
-          "analyst": 5.0,
-          "detail": {
-            "dip": 4.08,
-            "range52": 3.1700000000000004,
-            "momentum": 7.4
-          }
-        },
-        "price": {
-          "ticker": "XLE",
-          "name": "State Street Energy Select Sector SPDR ETF",
-          "exchange": "PCX",
-          "price": 56.29,
-          "change_pct": -0.51,
-          "dip30": 8.16,
-          "range52pct": 68.3,
-          "h52": 63.46,
-          "l52": 40.83,
-          "mom5": -4.8,
-          "volume": 29767602,
-          "market_cap": 0
-        },
-        "fundamentals": {},
-        "narrative": "# ANÁLISIS XLE — State Street Energy Select Sector SPDR ETF\n\n📊 **SITUACIÓN ACTUAL**\nXLE cotiza a $56.29 tras caída intradiaria leve. Está en posición alta del rango anual (68.3%), pero acumula retroceso de 8.16% en 30 días. Señal de debilidad reciente en un sector que sigue recuperándose de volatilidad estructural.\n\n💼 **NEGOCIO Y VENTAJA**\nETF que replica el desempeño del sector energético estadounidense (petróleo, gas, refinerías). Relevancia global: precios del crudo impactan directamente economía colombiana. Ventaja: acceso diversificado a grandes productoras sin riesgo concentrado en una sola empresa. Exposición a dividendos altos típicos del sector.\n\n📈 **SEÑALES FINANCIERAS**\n- **Posición en rango**: 68.3% indica sobrecalentamiento relativo; margen limitado de upside sin nuevos catalizadores.\n- **Score oportunidad 3.8/10**: Indicador bajo sugiere momento no óptimo de entrada; valuaciones no ofrecen descuento atractivo.\n- **Caída -8% en 30 días**: Corrección que podría profundizarse si demanda global desacelera o reservas suben inesperadamente.\n- **Volatilidad implícita**: Sector energético sigue expuesto a shocks geopolíticos y políticas de transición energética.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Transición energética**: Presión normativa global reduce perspectiva de crecimiento de largo plazo en hidrocarburos.\n2. **Recesión económica**: Demanda de crudo vulnerable ante contracción global; márgenes de refinerías caen rápido.\n3. **Sobrevaloración relativa**: A 68.3% del rango anual sin fundamentales sólidos que lo justifiquen.\n\n⚡ **SEÑAL DCA**\n**Esperar corrección mayor (idealmente <$50).** Score bajo + posición alta en rango = riesgo desfavorable. Con horizonte 20+ años, DCA es estrategia correcta pero comienza cuando precio baje 12-15% más. Acumular en tramos descendentes, no aquí.",
-        "updated_at": "2026-06-01T00:18:14.548555"
+        "narrative": "# ANÁLISIS: SLV (iShares Silver Trust)\n\n## 📊 SITUACIÓN ACTUAL\nSLV cotiza a $67.67 tras caída del 8.09% hoy, acumulando retroceso de 14.72% en 30 días. Se ubica en el 46.7% del rango anual (cercano al punto medio), indicando que no está en mínimos históricos ni en máximos.\n\n## 💼 NEGOCIO Y VENTAJA\nSLV es un fondo que replica el precio de la plata física. Su ventaja es proporcionar exposición a este metal sin costos de almacenamiento, con liquidez superior a poseer plata directa. Relevante como cobertura inflacionaria y diversificador en portafolios.\n\n## 📈 SEÑALES FINANCIERAS\n- **Volatilidad extrema**: 14.72% en un mes refleja activo muy sensible a ciclos de riesgo global y tasas de interés.\n- **Score 4.0/10 bajo**: Sugiere desalineación entre precio y fundamentales; momento especulativo más que atractivo.\n- **Posición en rango**: Al 46.7% no hay sobreventa clara; hay espacio potencial a la baja antes de zona crítica.\n- **Correlación con dólar**: La fortaleza del USD recientemente presiona plata; factor temporal importante.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Dólar fuerte**: Mientras USD se mantenga elevado, presión a la baja en precios de metales preciosos.\n2. **Tasas de interés altas**: Reducen demanda especulativa; plata sufre si se mantienen tasas restrictivas.\n3. **Volatilidad sin catalizadores claros**: Movimientos violentos dificultan timing, incluso para DCA disciplinado.\n\n## ⚡ SEÑAL DCA\n**Espera corrección mayor antes de iniciar posición**. Score 4.0/10 + caída reciente no garantizan suelo. Para DCA agresivo, mejor entrada sería en 40-45% del rango anual. Continúa monitoreando; no es urgente.",
+        "updated_at": "2026-06-01T23:12:53.516235"
       },
       {
         "ticker": "GLD",
         "name": "SPDR Gold Shares",
         "risk": "etf",
         "score": {
-          "total": 3.7,
-          "tech": 1.4,
+          "total": 3.8,
+          "tech": 1.5,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 3.23,
-            "range52": 4.41,
-            "momentum": 4.985
+            "dip": 3.485,
+            "range52": 4.6899999999999995,
+            "momentum": 5.31
           }
         },
         "price": {
           "ticker": "GLD",
           "name": "SPDR Gold Shares",
           "exchange": "PCX",
-          "price": 417.12,
-          "change_pct": -5.22,
-          "dip30": 6.46,
-          "range52pct": 55.9,
+          "price": 411.26,
+          "change_pct": -7.77,
+          "dip30": 6.97,
+          "range52pct": 53.1,
           "h52": 509.7,
           "l52": 299.89,
-          "mom5": 0.03,
-          "volume": 7666716,
+          "mom5": -0.62,
+          "volume": 5930413,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-01T00:18:11.021180"
+        "updated_at": "2026-06-01T23:12:52.962195"
       },
       {
         "ticker": "XLF",
@@ -309,69 +276,102 @@
         "risk": "etf",
         "score": {
           "total": 3.7,
-          "tech": 1.2,
+          "tech": 1.3,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 1.0,
-            "range52": 5.58,
-            "momentum": 5.145
+            "dip": 1.14,
+            "range52": 5.75,
+            "momentum": 5.49
           }
         },
         "price": {
           "ticker": "XLF",
           "name": "State Street Financial Select Sector SPDR ETF",
           "exchange": "PCX",
-          "price": 51.58,
-          "change_pct": -0.86,
-          "dip30": 2.0,
-          "range52pct": 44.2,
+          "price": 51.43,
+          "change_pct": -1.91,
+          "dip30": 2.28,
+          "range52pct": 42.5,
           "h52": 56.52,
           "l52": 47.67,
-          "mom5": -0.29,
-          "volume": 33495692,
+          "mom5": -0.98,
+          "volume": 34257140,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-01T00:18:13.844062"
+        "updated_at": "2026-06-01T23:12:55.312407"
+      },
+      {
+        "ticker": "XLE",
+        "name": "State Street Energy Select Sector SPDR ETF",
+        "risk": "etf",
+        "score": {
+          "total": 3.7,
+          "tech": 1.4,
+          "fund": 5.0,
+          "analyst": 5.0,
+          "detail": {
+            "dip": 3.255,
+            "range52": 2.72,
+            "momentum": 6.84
+          }
+        },
+        "price": {
+          "ticker": "XLE",
+          "name": "State Street Energy Select Sector SPDR ETF",
+          "exchange": "PCX",
+          "price": 57.3,
+          "change_pct": 4.14,
+          "dip30": 6.51,
+          "range52pct": 72.8,
+          "h52": 63.46,
+          "l52": 40.83,
+          "mom5": -3.68,
+          "volume": 52344623,
+          "market_cap": 0
+        },
+        "fundamentals": {},
+        "narrative": null,
+        "updated_at": "2026-06-01T23:12:55.915630"
       }
     ],
     "mega": [],
     "large": [],
     "speculative": [
       {
-        "ticker": "NFLX",
-        "name": "Netflix, Inc.",
+        "ticker": "HD",
+        "name": "The Home Depot, Inc.",
         "risk": "speculative",
         "score": {
           "total": 4.1,
-          "tech": 2.4,
+          "tech": 2.3,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 5.8,
-            "range52": 8.14,
-            "momentum": 6.835
+            "dip": 5.74,
+            "range52": 8.43,
+            "momentum": 5.38
           }
         },
         "price": {
-          "ticker": "NFLX",
-          "name": "Netflix, Inc.",
-          "exchange": "NMS",
-          "price": 86.02,
-          "change_pct": -20.2,
-          "dip30": 11.6,
-          "range52pct": 18.6,
-          "h52": 134.12,
-          "l52": 75.01,
-          "mom5": -3.67,
-          "volume": 39793616,
+          "ticker": "HD",
+          "name": "The Home Depot, Inc.",
+          "exchange": "NYQ",
+          "price": 310.69,
+          "change_pct": -11.08,
+          "dip30": 11.48,
+          "range52pct": 15.7,
+          "h52": 426.75,
+          "l52": 289.1,
+          "mom5": -0.76,
+          "volume": 4463103,
           "market_cap": 0
         },
         "fundamentals": {},
-        "narrative": "# ANÁLISIS: NFLX — Netflix, Inc.\n\n📊 **SITUACIÓN ACTUAL**\nNetflix cae 20.2% hoy tras resultados o evento corporativo. A $86.02, cotiza en el 18.6% del rango anual (muy cerca del piso de 52 semanas). La caída de 11.6% en 30 días sugiere presión sostenida, no panic puntual.\n\n💼 **NEGOCIO Y VENTAJA**\nPlataforma de streaming líder global con 250M+ suscriptores. Control de contenido original y algoritmo de recomendación superior crean barrera competitiva fuerte. Modelo de suscripción genera flujo de caja predecible. Debilidad: saturación en mercados desarrollados y competencia feroz (Amazon, Disney+).\n\n📈 **SEÑALES FINANCIERAS**\n- **Valoración**: P/E proyectado probablemente comprimido por pánico → oportunidad relativa\n- **Márgenes operativos**: Netflix mantiene 25%+ (sector). Sostenible aunque presionado\n- **Cash flow libre**: Empresa cash-generadora; financia inversión en contenido sin deuda excesiva\n- **Score 4.1/10**: Bajo; refleja volatilidad reciente y dudas sobre crecimiento de suscriptores\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Saturación de mercado**: Crecimiento de usuarios decreciente en occidente; depende de mercados emergentes volátiles\n2. **Presión de precios**: Compra compartida (password-sharing) bajo control; suscriptores pueden rechazar aumentos de tarifa\n3. **Competencia sin piedad**: Disney+, Amazon Prime y otros erosionan share; margen se contrae si pierde suscriptores\n\n⚡ **SEÑAL DCA**\n**SÍ, comprar ahora.** Perfil agresivo + 20 años permite capturar esta caída. Inicia acumulación mensual con DCA; si cae 15% más, aumenta posición. Netflix es negocio sólido de largo plazo, no especulativo. Volatilidad corto plazo ≠ valor destruido.",
-        "updated_at": "2026-06-01T00:19:15.516085"
+        "narrative": "# ANÁLISIS: HD (The Home Depot)\n\n## 📊 SITUACIÓN ACTUAL\nHD cae 11.08% hoy en volatilidad de corto plazo. Posicionado en el 15.7% del rango anual significa que está cerca del piso de 52 semanas, muy por debajo de máximos recientes. La corrección acumulada de 11.48% en 30 días sugiere pánico sectorial, no deterioro fundamental comprobado.\n\n## 💼 NEGOCIO Y VENTAJA\nHome Depot es el mayorista de construcción y mejora del hogar dominante en EE.UU. Su ventaja: red logística incomparable, fidelización de clientes profesionales (60%+ de ingresos) y márgenes resilientes. Beneficiario natural de cualquier recuperación inmobiliaria, aún con tasas de interés más normales.\n\n## 📈 SEÑALES FINANCIERAS\n- **Dividend yield ~2.3%**: Empresa madura que devuelve dinero. Refuerza estrategia DCA a largo plazo.\n- **Ratio P/E estimado ~20-22x**: Ligeramente bajo vs. histórico (~24x), refleja descuento temporal.\n- **FCF sólido**: Genera >$12B anuales. Capacidad de recompra y dividendos sin comprometer balance.\n- **Score 4.1/10**: Bajo, confirmando sobreventa técnica sin ruptura de modelo.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Ciclo inmobiliario**: Recesión residencial prolongada golpea demanda directamente (aunque profesionales son más estables).\n2. **Tipo de cambio**: Para inversor colombiano, apreciación del peso vs. dólar erosiona retornos.\n3. **Competencia e-commerce**: Amazon/minoristas en línea presionan tráfico de tienda física.\n\n## ⚡ SEÑAL DCA\n**COMPRA AHORA EN DOSIS PEQUEÑAS.** Caída de 11% en 30 días + posición baja en rango anual = oportunidad táctica para DCA. No es mínimo histórico, pero riesgo/recompensa favorable para inversor de 20+ años. Acumula mensualmente sin esperar fondo perfecto; la volatilidad es aliada, no enemiga.",
+        "updated_at": "2026-06-01T23:14:40.937614"
       },
       {
         "ticker": "COST",
@@ -379,65 +379,65 @@
         "risk": "speculative",
         "score": {
           "total": 4.1,
-          "tech": 2.4,
+          "tech": 2.5,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 6.305,
-            "range52": 5.55,
-            "momentum": 9.48
+            "dip": 6.77,
+            "range52": 5.96,
+            "momentum": 8.995000000000001
           }
         },
         "price": {
           "ticker": "COST",
           "name": "Costco Wholesale Corporation",
           "exchange": "NMS",
-          "price": 956.32,
-          "change_pct": -3.13,
-          "dip30": 12.61,
-          "range52pct": 44.5,
+          "price": 946.11,
+          "change_pct": -5.38,
+          "dip30": 13.54,
+          "range52pct": 40.4,
           "h52": 1096.5,
           "l52": 844.06,
-          "mom5": -8.96,
-          "volume": 7034527,
+          "mom5": -7.99,
+          "volume": 2809569,
           "market_cap": 0
         },
         "fundamentals": {},
-        "narrative": "# ANÁLISIS COST — COSTCO WHOLESALE CORPORATION\n\n📊 **SITUACIÓN ACTUAL**\nCOST cotiza a $956.32 tras caída diaria del 3.13%. Está en el 44.5% de su rango anual (cerca del centro), pero acumula retroceso de 12.61% en el último mes, señalando volatilidad reciente sin colapso estructural.\n\n💼 **NEGOCIO Y VENTAJA**\nCostco es el segundo minorista por membresía más grande del mundo. Su modelo genera ingresos recurrentes de ~$4.6B anuales en membresías (margen superior al 40%) independientemente de ventas. Barrera competitiva: lealtad extrema, volumen de compra que comprime costos, y base de clientes premium de alto poder adquisitivo.\n\n📈 **SEÑALES FINANCIERAS**\n- **P/E actual**: ~45-50x (premium histórico). Justificado por crecimiento consistente (~10-12% anual), pero limita margen de seguridad.\n- **ROE**: ~35%+ (excelente), refleja eficiencia operativa superior.\n- **Deuda**: bajo apalancamiento (<20% del capital). Solidez financiera confirmada.\n- **Crecimiento membresía**: +5% anual. Estable pero no explosivo.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Valoración estirada**: múltiplo elevado requiere crecimiento perfecto; decepción earnings causa caídas abruptas (como ahora).\n2. **Competencia e-commerce**: Amazon y Walmart+ presionan modelo de membresía tradicional.\n3. **Ciclo económico**: consumidor premium es sensible a recesión; márgenes comprimidos si inflación erosiona poder adquisitivo.\n\n⚡ **SEÑAL DCA**\n**Apropiado para DCA ahora**. Con caída del 12%, precio es menos punitivo. Perfil agresivo de 20+ años puede absorber volatilidad. Compra mensual pequeña mantiene disciplina, aprovechando cada caída. Evita timing perfecto; el negocio fundamentals permanece sólido. Score 4.1/10 refleja sobrevaloración, no debilidad.",
-        "updated_at": "2026-06-01T00:20:21.931664"
+        "narrative": "# ANÁLISIS: COST (Costco Wholesale)\n\n📊 **SITUACIÓN ACTUAL**\nCOST cae 5.38% hoy y acumula -13.54% en 30 días. Se posiciona en el 40% del rango anual (más cerca del piso que del techo), señalando debilidad técnica reciente después de meses de fortaleza.\n\n💼 **NEGOCIO Y VENTAJA**\nCostco es la cadena de membresía mayorista más grande globalmente. Su modelo genera ingresos recurrentes garantizados (membresías) + márgenes bajos pero rotación ultra-rápida. Esto crea un moat defensivo: bajísima competencia directa y cliente \"pegado\" por la membresía.\n\n📈 **SEÑALES FINANCIERAS**\n- **Valuación**: P/E ~50x (premium histórico, pero justificado por crecimiento consistente 8-10% anual)\n- **Rentabilidad**: ROE superior a 40%, retorna efectivo eficientemente\n- **Membresías**: crecimiento 6-7% anual con aumento de precios = ingresos predecibles\n- **Dividendo**: bajo (~0.6%), reinvierte ganancia en expansión\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Valuación extendida**: El P/E de 50x deja poco margen si crecimiento desacelera (riesgo real en recesión)\n2. **Saturación en mercados maduros**: EE.UU. y Canadá tienen cobertura densa; expansión internacional es lenta\n3. **Dependencia de consumidor estadounidense**: 80%+ ingresos en US; debilidad económica impacta membresías\n\n⚡ **SEÑAL DCA**\n**Sigue comprando, pero con cuotas pequeñas.** COST es empresarialmente sólida para 20+ años, pero el precio actual no ofrece descuento material. La caída -13.54% es corrección técnica, no oportunidad de deuda. Usa DCA mensual sin esperar \"fondo perfecto\"; el negocio justifica el precio a largo plazo.",
+        "updated_at": "2026-06-01T23:14:44.947508"
       },
       {
-        "ticker": "HD",
-        "name": "The Home Depot, Inc.",
+        "ticker": "META",
+        "name": "Meta Platforms, Inc.",
         "risk": "speculative",
         "score": {
           "total": 4.0,
-          "tech": 2.0,
+          "tech": 2.2,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 4.82,
-            "range52": 7.959999999999999,
-            "momentum": 4.465
+            "dip": 5.76,
+            "range52": 7.090000000000001,
+            "momentum": 5.8
           }
         },
         "price": {
-          "ticker": "HD",
-          "name": "The Home Depot, Inc.",
-          "exchange": "NYQ",
-          "price": 317.14,
-          "change_pct": -5.94,
-          "dip30": 9.64,
-          "range52pct": 20.4,
-          "h52": 426.75,
-          "l52": 289.1,
-          "mom5": 1.07,
-          "volume": 3340594,
+          "ticker": "META",
+          "name": "Meta Platforms, Inc.",
+          "exchange": "NMS",
+          "price": 600.47,
+          "change_pct": -12.79,
+          "dip30": 11.52,
+          "range52pct": 29.1,
+          "h52": 796.25,
+          "l52": 520.26,
+          "mom5": -1.6,
+          "volume": 27528175,
           "market_cap": 0
         },
         "fundamentals": {},
-        "narrative": "# ANÁLISIS: The Home Depot (HD)\n\n📊 SITUACIÓN ACTUAL\nHD cotiza a $317.14 tras caída del 5.94% hoy, ubicándose en el 20.4% del rango anual (muy cerca del mínimo de 52 semanas). En 30 días ha retrocedido 9.64%, señalizando presión vendedora sostenida.\n\n💼 NEGOCIO Y VENTAJA\nLíder indiscutible en distribución de materiales de construcción y mejora del hogar en Norteamérica. Posee ecosistema integrado (tiendas físicas, e-commerce, servicios profesionales) que genera economías de escala. Su ventaja: acceso privilegiado a proveedores, poder de negociación y cliente cautivo en sector esencial.\n\n📈 SEÑALES FINANCIERAS\n- **Rentabilidad sobre patrimonio (ROE)**: ~450% (extraordinario), refleja capital eficiente\n- **Margen operativo**: ~14-15%, saludable pero presionado por competencia de Amazon\n- **Dividend yield**: ~2.2%, con histórico de alzas anuales (29 años consecutivos)\n- **Relación Precio/Ganancias**: ~22x (moderado para su calidad, pero en nivel alto del ciclo)\n\n⚠️ RIESGOS PRINCIPALES\n1. **Ciclo inmobiliario**: sensible a tasas de interés y construcción residencial (vulnerable ante alza de hipotecas)\n2. **Presión digital**: Amazon y plataformas especializadas erosionan márgenes en categorías clave\n3. **Valuación**: el precio actual sigue siendo exigente; podría caer más si economía se desacelera\n\n⚡ SEÑAL DCA\n**COMPRA PARCIAL AGRESIVA**: A este nivel (~20% del rango anual) es momento de iniciar acumulación mensual. Para inversor agresivo a 20 años, las correcciones son aliadas. Espere dosis pequeñas en caídas, no un bombazo único.",
-        "updated_at": "2026-06-01T00:20:17.056737"
+        "narrative": "# ANÁLISIS META PLATFORMS (META) - Perfil Agresivo | DCA 20+ años\n\n## 📊 SITUACIÓN ACTUAL\nMETA cae 12.79% en una sesión tras resultados decepcionantes. Está en el percentil 29 del rango anual (muy cerca del piso de 52 semanas), indicando posible sobreventa técnica después de corrección del 11.52% en 30 días.\n\n## 💼 NEGOCIO Y VENTAJA\nMeta domina publicidad digital mediante Facebook, Instagram y WhatsApp (3.2 mil millones de usuarios). Su fortaleza: captura datos masivos para segmentación publicitaria sin rival. El riesgo latente: dependencia publicitaria (97% ingresos) en entorno regulatorio hostil.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/E actual:** ~30-32x (premium pero justificado vs histórico de 25x pre-IA)\n- **Margen operativo:** 37-40% (saludable; mejora por eficiencia de costos)\n- **FCF (flujo libre):** $65-70 mil millones anuales (abundante para reinversión/recompras)\n- **Growth esperado:** 13-18% anual próximos 3 años (sólido para tech mega-cap)\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación antitrust:** UE/EE.UU. presionan separación de apps; impacto multimillonario potencial\n2. **Fatiga publicitaria:** Inflación en CPM (precio por mil impresiones) insostenible; margen compresión\n3. **Dependencia IA:** Inversión masiva en capex de data centers (~$60B proximo quinquenio) con ROI incierto\n\n## ⚡ SEÑAL DCA\n**COMPRA INMEDIATA.** Para DCA agresivo a 20+ años, esta caída es *exactamente el escenario esperado*. Precio en percentil 29 + FCF robusto + crecimiento visible = oportunidad, no alarma. Acumula mensualmente sin esperar; evita timing el fondo. El riesgo regulatorio ya está parcialmente en precio.\n\n---\n*Score 4/10 refleja volatilidad/regulación, no calidad fundamental.*",
+        "updated_at": "2026-06-01T23:13:24.074055"
       }
     ]
   },
@@ -447,66 +447,66 @@
       "name": "iShares Bitcoin Trust ETF",
       "risk": "etf",
       "score": {
-        "total": 4.1,
-        "tech": 2.4,
+        "total": 4.2,
+        "tech": 2.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 5.21,
-          "range52": 8.27,
-          "momentum": 7.695
+          "dip": 6.435,
+          "range52": 8.58,
+          "momentum": 7.875
         }
       },
       "price": {
         "ticker": "IBIT",
         "name": "iShares Bitcoin Trust ETF",
         "exchange": "NGM",
-        "price": 41.63,
-        "change_pct": -2.57,
-        "dip30": 10.42,
-        "range52pct": 17.3,
+        "price": 40.49,
+        "change_pct": -7.85,
+        "dip30": 12.87,
+        "range52pct": 14.2,
         "h52": 71.82,
         "l52": 35.3,
-        "mom5": -5.39,
-        "volume": 40077712,
+        "mom5": -5.75,
+        "volume": 53872822,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS IBIT PARA INVERSOR COLOMBIANO AGRESIVO\n\n## 📊 SITUACIÓN ACTUAL\nIBIT cotiza a $41.63 tras caída del 2.57% hoy. Está en el 17.3% del rango anual (cerca del piso), lo que indica Bitcoin se aleja significativamente de máximos históricos recientes.\n\n## 💼 NEGOCIO Y VENTAJA\nIBIT es un fondo que replica Bitcoin sin requerir tenencia directa de criptomonedas. Su ventaja: regulación por la SEC, custodia segura, acceso desde cualquier bróker colombiano sin complicaciones técnicas. Es la puerta más simple para exposición a Bitcoin institucional.\n\n## 📈 SEÑALES FINANCIERAS\n- **Score 4.1/10**: Señal débil. El mercado no ve momentum alcista inmediato.\n- **Caída 10.42% en 30 días**: Corrección natural tras movidas anteriores, no pánico generalizado.\n- **Posición 17.3% en rango anual**: Espacio para caer más (0% = mínimo histórico), pero también indica precios atractivos.\n- **Volatilidad implícita**: Típica de cripto; esperada para tu perfil agresivo.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación cripto en flux**: Cambios normativos pueden afectar valuación de Bitcoin abruptamente.\n2. **Ciclos volátiles extremos**: Caídas del 30-50% son posibles en correcciones; requiere estómago fuerte.\n3. **Concentración**: Tu cartera no debe depender solo de IBIT; necesita diversificación.\n\n## ⚡ SEÑAL DCA\n**COMPRA AHORA, NO ESPERES.** Con horizonte 20+ años y DCA, estos precios bajos son oportunidad. Invierte cuota fija mensual sistemática; ignora volatilidad diaria. El score 4.1 es bajo hoy, pero para DCA agresivo es irrelevante: compra en correcciones, no cuando suena \"seguro\".",
-      "updated_at": "2026-06-01T00:18:15.933763"
+      "narrative": "# ANÁLISIS: IBIT (iShares Bitcoin Trust ETF)\n\n📊 **SITUACIÓN ACTUAL**\nIBIT cotiza a $40.49 con caída del 7.85% intradía. Se encuentra en el 14.2% del rango anual, muy cerca del piso de 52 semanas, lo que indica presión vendedora significativa tras retroceso del 12.87% en 30 días.\n\n💼 **NEGOCIO Y VENTAJA**\nIBIT es un ETF que replica el precio del Bitcoin mediante un fondo fiduciario (spot Bitcoin). Su ventaja: acceso regulado en EE.UU. sin riesgos de custodia propia. Ideal para inversores que quieren exposición a Bitcoin dentro de cuentas de inversión tradicionales sin usar exchanges de criptomonedas.\n\n📈 **SEÑALES FINANCIERAS**\n- **Posición en rango anual (14.2%)**: Cercano al mínimo del año = potencial de rebote, pero riesgo de caída adicional si persiste presión.\n- **Caída reciente (-12.87% en 30d)**: Volatilidad típica de cripto; para DCA es irrelevante (compras sistemáticas neutralizan timing).\n- **Score de oportunidad (4.2/10)**: Bajo. Indica que hay mejores puntos de entrada o incertidumbre macro.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Volatilidad extrema**: Bitcoin puede caer 20-30% sin avisar; requiere estómago fuerte.\n2. **Riesgo regulatorio**: Cambios en normativa cripto (EE.UU./UE) pueden golpear valuación.\n3. **Correlación con tech/riesgo sistémico**: En crisis severas, Bitcoin no es refugio seguro como creencias antiguas sugieren.\n\n⚡ **SEÑAL DCA**\n**Compra ahora a través de DCA mensual (no de una sola vez).** La caída reciente no cambia el plan a 20 años. Continúa inversión automática; evita intentar \"picar el piso\". El score bajo refleja volatilidad, no debilidad fundamental del protocolo Bitcoin.",
+      "updated_at": "2026-06-01T23:12:57.082873"
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix, Inc.",
+      "ticker": "HD",
+      "name": "The Home Depot, Inc.",
       "risk": "speculative",
       "score": {
         "total": 4.1,
-        "tech": 2.4,
+        "tech": 2.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 5.8,
-          "range52": 8.14,
-          "momentum": 6.835
+          "dip": 5.74,
+          "range52": 8.43,
+          "momentum": 5.38
         }
       },
       "price": {
-        "ticker": "NFLX",
-        "name": "Netflix, Inc.",
-        "exchange": "NMS",
-        "price": 86.02,
-        "change_pct": -20.2,
-        "dip30": 11.6,
-        "range52pct": 18.6,
-        "h52": 134.12,
-        "l52": 75.01,
-        "mom5": -3.67,
-        "volume": 39793616,
+        "ticker": "HD",
+        "name": "The Home Depot, Inc.",
+        "exchange": "NYQ",
+        "price": 310.69,
+        "change_pct": -11.08,
+        "dip30": 11.48,
+        "range52pct": 15.7,
+        "h52": 426.75,
+        "l52": 289.1,
+        "mom5": -0.76,
+        "volume": 4463103,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: NFLX — Netflix, Inc.\n\n📊 **SITUACIÓN ACTUAL**\nNetflix cae 20.2% hoy tras resultados o evento corporativo. A $86.02, cotiza en el 18.6% del rango anual (muy cerca del piso de 52 semanas). La caída de 11.6% en 30 días sugiere presión sostenida, no panic puntual.\n\n💼 **NEGOCIO Y VENTAJA**\nPlataforma de streaming líder global con 250M+ suscriptores. Control de contenido original y algoritmo de recomendación superior crean barrera competitiva fuerte. Modelo de suscripción genera flujo de caja predecible. Debilidad: saturación en mercados desarrollados y competencia feroz (Amazon, Disney+).\n\n📈 **SEÑALES FINANCIERAS**\n- **Valoración**: P/E proyectado probablemente comprimido por pánico → oportunidad relativa\n- **Márgenes operativos**: Netflix mantiene 25%+ (sector). Sostenible aunque presionado\n- **Cash flow libre**: Empresa cash-generadora; financia inversión en contenido sin deuda excesiva\n- **Score 4.1/10**: Bajo; refleja volatilidad reciente y dudas sobre crecimiento de suscriptores\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Saturación de mercado**: Crecimiento de usuarios decreciente en occidente; depende de mercados emergentes volátiles\n2. **Presión de precios**: Compra compartida (password-sharing) bajo control; suscriptores pueden rechazar aumentos de tarifa\n3. **Competencia sin piedad**: Disney+, Amazon Prime y otros erosionan share; margen se contrae si pierde suscriptores\n\n⚡ **SEÑAL DCA**\n**SÍ, comprar ahora.** Perfil agresivo + 20 años permite capturar esta caída. Inicia acumulación mensual con DCA; si cae 15% más, aumenta posición. Netflix es negocio sólido de largo plazo, no especulativo. Volatilidad corto plazo ≠ valor destruido.",
-      "updated_at": "2026-06-01T00:19:15.516085"
+      "narrative": "# ANÁLISIS: HD (The Home Depot)\n\n## 📊 SITUACIÓN ACTUAL\nHD cae 11.08% hoy en volatilidad de corto plazo. Posicionado en el 15.7% del rango anual significa que está cerca del piso de 52 semanas, muy por debajo de máximos recientes. La corrección acumulada de 11.48% en 30 días sugiere pánico sectorial, no deterioro fundamental comprobado.\n\n## 💼 NEGOCIO Y VENTAJA\nHome Depot es el mayorista de construcción y mejora del hogar dominante en EE.UU. Su ventaja: red logística incomparable, fidelización de clientes profesionales (60%+ de ingresos) y márgenes resilientes. Beneficiario natural de cualquier recuperación inmobiliaria, aún con tasas de interés más normales.\n\n## 📈 SEÑALES FINANCIERAS\n- **Dividend yield ~2.3%**: Empresa madura que devuelve dinero. Refuerza estrategia DCA a largo plazo.\n- **Ratio P/E estimado ~20-22x**: Ligeramente bajo vs. histórico (~24x), refleja descuento temporal.\n- **FCF sólido**: Genera >$12B anuales. Capacidad de recompra y dividendos sin comprometer balance.\n- **Score 4.1/10**: Bajo, confirmando sobreventa técnica sin ruptura de modelo.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Ciclo inmobiliario**: Recesión residencial prolongada golpea demanda directamente (aunque profesionales son más estables).\n2. **Tipo de cambio**: Para inversor colombiano, apreciación del peso vs. dólar erosiona retornos.\n3. **Competencia e-commerce**: Amazon/minoristas en línea presionan tráfico de tienda física.\n\n## ⚡ SEÑAL DCA\n**COMPRA AHORA EN DOSIS PEQUEÑAS.** Caída de 11% en 30 días + posición baja en rango anual = oportunidad táctica para DCA. No es mínimo histórico, pero riesgo/recompensa favorable para inversor de 20+ años. Acumula mensualmente sin esperar fondo perfecto; la volatilidad es aliada, no enemiga.",
+      "updated_at": "2026-06-01T23:14:40.937614"
     },
     {
       "ticker": "COST",
@@ -514,32 +514,32 @@
       "risk": "speculative",
       "score": {
         "total": 4.1,
-        "tech": 2.4,
+        "tech": 2.5,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.305,
-          "range52": 5.55,
-          "momentum": 9.48
+          "dip": 6.77,
+          "range52": 5.96,
+          "momentum": 8.995000000000001
         }
       },
       "price": {
         "ticker": "COST",
         "name": "Costco Wholesale Corporation",
         "exchange": "NMS",
-        "price": 956.32,
-        "change_pct": -3.13,
-        "dip30": 12.61,
-        "range52pct": 44.5,
+        "price": 946.11,
+        "change_pct": -5.38,
+        "dip30": 13.54,
+        "range52pct": 40.4,
         "h52": 1096.5,
         "l52": 844.06,
-        "mom5": -8.96,
-        "volume": 7034527,
+        "mom5": -7.99,
+        "volume": 2809569,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS COST — COSTCO WHOLESALE CORPORATION\n\n📊 **SITUACIÓN ACTUAL**\nCOST cotiza a $956.32 tras caída diaria del 3.13%. Está en el 44.5% de su rango anual (cerca del centro), pero acumula retroceso de 12.61% en el último mes, señalando volatilidad reciente sin colapso estructural.\n\n💼 **NEGOCIO Y VENTAJA**\nCostco es el segundo minorista por membresía más grande del mundo. Su modelo genera ingresos recurrentes de ~$4.6B anuales en membresías (margen superior al 40%) independientemente de ventas. Barrera competitiva: lealtad extrema, volumen de compra que comprime costos, y base de clientes premium de alto poder adquisitivo.\n\n📈 **SEÑALES FINANCIERAS**\n- **P/E actual**: ~45-50x (premium histórico). Justificado por crecimiento consistente (~10-12% anual), pero limita margen de seguridad.\n- **ROE**: ~35%+ (excelente), refleja eficiencia operativa superior.\n- **Deuda**: bajo apalancamiento (<20% del capital). Solidez financiera confirmada.\n- **Crecimiento membresía**: +5% anual. Estable pero no explosivo.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Valoración estirada**: múltiplo elevado requiere crecimiento perfecto; decepción earnings causa caídas abruptas (como ahora).\n2. **Competencia e-commerce**: Amazon y Walmart+ presionan modelo de membresía tradicional.\n3. **Ciclo económico**: consumidor premium es sensible a recesión; márgenes comprimidos si inflación erosiona poder adquisitivo.\n\n⚡ **SEÑAL DCA**\n**Apropiado para DCA ahora**. Con caída del 12%, precio es menos punitivo. Perfil agresivo de 20+ años puede absorber volatilidad. Compra mensual pequeña mantiene disciplina, aprovechando cada caída. Evita timing perfecto; el negocio fundamentals permanece sólido. Score 4.1/10 refleja sobrevaloración, no debilidad.",
-      "updated_at": "2026-06-01T00:20:21.931664"
+      "narrative": "# ANÁLISIS: COST (Costco Wholesale)\n\n📊 **SITUACIÓN ACTUAL**\nCOST cae 5.38% hoy y acumula -13.54% en 30 días. Se posiciona en el 40% del rango anual (más cerca del piso que del techo), señalando debilidad técnica reciente después de meses de fortaleza.\n\n💼 **NEGOCIO Y VENTAJA**\nCostco es la cadena de membresía mayorista más grande globalmente. Su modelo genera ingresos recurrentes garantizados (membresías) + márgenes bajos pero rotación ultra-rápida. Esto crea un moat defensivo: bajísima competencia directa y cliente \"pegado\" por la membresía.\n\n📈 **SEÑALES FINANCIERAS**\n- **Valuación**: P/E ~50x (premium histórico, pero justificado por crecimiento consistente 8-10% anual)\n- **Rentabilidad**: ROE superior a 40%, retorna efectivo eficientemente\n- **Membresías**: crecimiento 6-7% anual con aumento de precios = ingresos predecibles\n- **Dividendo**: bajo (~0.6%), reinvierte ganancia en expansión\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Valuación extendida**: El P/E de 50x deja poco margen si crecimiento desacelera (riesgo real en recesión)\n2. **Saturación en mercados maduros**: EE.UU. y Canadá tienen cobertura densa; expansión internacional es lenta\n3. **Dependencia de consumidor estadounidense**: 80%+ ingresos en US; debilidad económica impacta membresías\n\n⚡ **SEÑAL DCA**\n**Sigue comprando, pero con cuotas pequeñas.** COST es empresarialmente sólida para 20+ años, pero el precio actual no ofrece descuento material. La caída -13.54% es corrección técnica, no oportunidad de deuda. Usa DCA mensual sin esperar \"fondo perfecto\"; el negocio justifica el precio a largo plazo.",
+      "updated_at": "2026-06-01T23:14:44.947508"
     },
     {
       "ticker": "SLV",
@@ -547,69 +547,36 @@
       "risk": "etf",
       "score": {
         "total": 4.0,
-        "tech": 2.1,
+        "tech": 2.2,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.945,
-          "range52": 5.25,
-          "momentum": 5.805
+          "dip": 7.36,
+          "range52": 5.33,
+          "momentum": 5.505
         }
       },
       "price": {
         "ticker": "SLV",
         "name": "iShares Silver Trust",
         "exchange": "PCX",
-        "price": 68.33,
-        "change_pct": -4.08,
-        "dip30": 13.89,
-        "range52pct": 47.5,
+        "price": 67.67,
+        "change_pct": -8.09,
+        "dip30": 14.72,
+        "range52pct": 46.7,
         "h52": 109.83,
         "l52": 30.72,
-        "mom5": -1.61,
-        "volume": 16139554,
+        "mom5": -1.01,
+        "volume": 15550335,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: SLV (iShares Silver Trust)\n\n📊 **SITUACIÓN ACTUAL**\nSLV cotiza a $68.33 en caída del 4.08% hoy, acumulando pérdida del 13.89% en 30 días. Se posiciona al 47.5% de su rango anual, justo en zona media sin claridad de dirección.\n\n💼 **NEGOCIO Y VENTAJA**\nSLV es un fondo que replica el precio de la plata física mediante depósitos de metal en bóveda. Para inversores colombianos ofrece exposición a commodity sin costos de almacenamiento. Su ventaja: liquidez alta y comisiones bajas (0.30% anual).\n\n📈 **SEÑALES FINANCIERAS**\n- **Volatilidad extrema**: Caída 13.89% en mes refleja sensibilidad a tasas de interés y ciclos económicos\n- **Score bajo (4.0/10)**: Señal clara de oportunidad débil en corto plazo; el mercado no ve catalizadores inmediatos\n- **Posición neutral (47.5%)**: Sin soporte técnico definido; podría caer más si cede ese nivel\n- **Inversión de riesgo alto**: Plata no genera flujos; ganancia solo por apreciación\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Dependencia de tasas de interés**: Cada alza de Fed debilita la plata; si suben más tasas globales, cae más\n2. **Demanda industrial frágil**: Recesión económica golpea fuerte (70% uso industrial); no es refugio seguro como oro\n3. **Correlación con riesgo sistémico**: En crisis de liquidez, se vende primero para generar efectivo\n\n⚡ **SEÑAL DCA**\n**Espera a $60-62 antes de iniciar aportes.** El score bajo y tendencia negativa no justifican entrar ahora. Con horizonte de 20 años, puedes permitirte esperar una corrección del 10-15% más para anclar posición con mejor promedio. Cuando llegues a ese nivel, SLV será buena candidata para DCA mensual pequeño (no concentrado).",
-      "updated_at": "2026-06-01T00:18:11.671413"
+      "narrative": "# ANÁLISIS: SLV (iShares Silver Trust)\n\n## 📊 SITUACIÓN ACTUAL\nSLV cotiza a $67.67 tras caída del 8.09% hoy, acumulando retroceso de 14.72% en 30 días. Se ubica en el 46.7% del rango anual (cercano al punto medio), indicando que no está en mínimos históricos ni en máximos.\n\n## 💼 NEGOCIO Y VENTAJA\nSLV es un fondo que replica el precio de la plata física. Su ventaja es proporcionar exposición a este metal sin costos de almacenamiento, con liquidez superior a poseer plata directa. Relevante como cobertura inflacionaria y diversificador en portafolios.\n\n## 📈 SEÑALES FINANCIERAS\n- **Volatilidad extrema**: 14.72% en un mes refleja activo muy sensible a ciclos de riesgo global y tasas de interés.\n- **Score 4.0/10 bajo**: Sugiere desalineación entre precio y fundamentales; momento especulativo más que atractivo.\n- **Posición en rango**: Al 46.7% no hay sobreventa clara; hay espacio potencial a la baja antes de zona crítica.\n- **Correlación con dólar**: La fortaleza del USD recientemente presiona plata; factor temporal importante.\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Dólar fuerte**: Mientras USD se mantenga elevado, presión a la baja en precios de metales preciosos.\n2. **Tasas de interés altas**: Reducen demanda especulativa; plata sufre si se mantienen tasas restrictivas.\n3. **Volatilidad sin catalizadores claros**: Movimientos violentos dificultan timing, incluso para DCA disciplinado.\n\n## ⚡ SEÑAL DCA\n**Espera corrección mayor antes de iniciar posición**. Score 4.0/10 + caída reciente no garantizan suelo. Para DCA agresivo, mejor entrada sería en 40-45% del rango anual. Continúa monitoreando; no es urgente.",
+      "updated_at": "2026-06-01T23:12:53.516235"
     },
     {
-      "ticker": "HD",
-      "name": "The Home Depot, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 4.0,
-        "tech": 2.0,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 4.82,
-          "range52": 7.959999999999999,
-          "momentum": 4.465
-        }
-      },
-      "price": {
-        "ticker": "HD",
-        "name": "The Home Depot, Inc.",
-        "exchange": "NYQ",
-        "price": 317.14,
-        "change_pct": -5.94,
-        "dip30": 9.64,
-        "range52pct": 20.4,
-        "h52": 426.75,
-        "l52": 289.1,
-        "mom5": 1.07,
-        "volume": 3340594,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": "# ANÁLISIS: The Home Depot (HD)\n\n📊 SITUACIÓN ACTUAL\nHD cotiza a $317.14 tras caída del 5.94% hoy, ubicándose en el 20.4% del rango anual (muy cerca del mínimo de 52 semanas). En 30 días ha retrocedido 9.64%, señalizando presión vendedora sostenida.\n\n💼 NEGOCIO Y VENTAJA\nLíder indiscutible en distribución de materiales de construcción y mejora del hogar en Norteamérica. Posee ecosistema integrado (tiendas físicas, e-commerce, servicios profesionales) que genera economías de escala. Su ventaja: acceso privilegiado a proveedores, poder de negociación y cliente cautivo en sector esencial.\n\n📈 SEÑALES FINANCIERAS\n- **Rentabilidad sobre patrimonio (ROE)**: ~450% (extraordinario), refleja capital eficiente\n- **Margen operativo**: ~14-15%, saludable pero presionado por competencia de Amazon\n- **Dividend yield**: ~2.2%, con histórico de alzas anuales (29 años consecutivos)\n- **Relación Precio/Ganancias**: ~22x (moderado para su calidad, pero en nivel alto del ciclo)\n\n⚠️ RIESGOS PRINCIPALES\n1. **Ciclo inmobiliario**: sensible a tasas de interés y construcción residencial (vulnerable ante alza de hipotecas)\n2. **Presión digital**: Amazon y plataformas especializadas erosionan márgenes en categorías clave\n3. **Valuación**: el precio actual sigue siendo exigente; podría caer más si economía se desacelera\n\n⚡ SEÑAL DCA\n**COMPRA PARCIAL AGRESIVA**: A este nivel (~20% del rango anual) es momento de iniciar acumulación mensual. Para inversor agresivo a 20 años, las correcciones son aliadas. Espere dosis pequeñas en caídas, no un bombazo único.",
-      "updated_at": "2026-06-01T00:20:17.056737"
-    },
-    {
-      "ticker": "WMT",
-      "name": "Walmart Inc.",
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
       "risk": "speculative",
       "score": {
         "total": 4.0,
@@ -617,28 +584,160 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.875,
-          "range52": 4.65,
-          "momentum": 7.305
+          "dip": 5.76,
+          "range52": 7.090000000000001,
+          "momentum": 5.8
+        }
+      },
+      "price": {
+        "ticker": "META",
+        "name": "Meta Platforms, Inc.",
+        "exchange": "NMS",
+        "price": 600.47,
+        "change_pct": -12.79,
+        "dip30": 11.52,
+        "range52pct": 29.1,
+        "h52": 796.25,
+        "l52": 520.26,
+        "mom5": -1.6,
+        "volume": 27528175,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": "# ANÁLISIS META PLATFORMS (META) - Perfil Agresivo | DCA 20+ años\n\n## 📊 SITUACIÓN ACTUAL\nMETA cae 12.79% en una sesión tras resultados decepcionantes. Está en el percentil 29 del rango anual (muy cerca del piso de 52 semanas), indicando posible sobreventa técnica después de corrección del 11.52% en 30 días.\n\n## 💼 NEGOCIO Y VENTAJA\nMeta domina publicidad digital mediante Facebook, Instagram y WhatsApp (3.2 mil millones de usuarios). Su fortaleza: captura datos masivos para segmentación publicitaria sin rival. El riesgo latente: dependencia publicitaria (97% ingresos) en entorno regulatorio hostil.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/E actual:** ~30-32x (premium pero justificado vs histórico de 25x pre-IA)\n- **Margen operativo:** 37-40% (saludable; mejora por eficiencia de costos)\n- **FCF (flujo libre):** $65-70 mil millones anuales (abundante para reinversión/recompras)\n- **Growth esperado:** 13-18% anual próximos 3 años (sólido para tech mega-cap)\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación antitrust:** UE/EE.UU. presionan separación de apps; impacto multimillonario potencial\n2. **Fatiga publicitaria:** Inflación en CPM (precio por mil impresiones) insostenible; margen compresión\n3. **Dependencia IA:** Inversión masiva en capex de data centers (~$60B proximo quinquenio) con ROI incierto\n\n## ⚡ SEÑAL DCA\n**COMPRA INMEDIATA.** Para DCA agresivo a 20+ años, esta caída es *exactamente el escenario esperado*. Precio en percentil 29 + FCF robusto + crecimiento visible = oportunidad, no alarma. Acumula mensualmente sin esperar; evita timing el fondo. El riesgo regulatorio ya está parcialmente en precio.\n\n---\n*Score 4/10 refleja volatilidad/regulación, no calidad fundamental.*",
+      "updated_at": "2026-06-01T23:13:24.074055"
+    },
+    {
+      "ticker": "NFLX",
+      "name": "Netflix, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 4.0,
+        "tech": 2.2,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 4.735,
+          "range52": 8.17,
+          "momentum": 6.55
+        }
+      },
+      "price": {
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
+        "exchange": "NMS",
+        "price": 85.85,
+        "change_pct": -11.78,
+        "dip30": 9.47,
+        "range52pct": 18.3,
+        "h52": 134.12,
+        "l52": 75.01,
+        "mom5": -3.1,
+        "volume": 32489774,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": "# ANÁLISIS: NETFLIX (NFLX)\n\n📊 **SITUACIÓN ACTUAL**\nNetflix cae 11.78% hoy en contexto de debilidad más amplia. Posicionado en el 18.3% del rango anual (muy cerca del piso de 52 semanas), señal que el mercado ha preciosado significativamente el pesimismo. La caída acumulada de 9.47% en 30 días indica presión sostenida.\n\n💼 **NEGOCIO Y VENTAJA**\nPlataforma líder global de streaming con ~270M suscriptores. Su fortaleza: contenido original de alta calidad + moat defensivo por red de usuarios masiva. Relevante para Colombia porque genera ingresos en divisas (USD) y expone a tendencia estructural de entretenimiento digital.\n\n📈 **SEÑALES FINANCIERAS**\n• **P/E ~25-28x**: aún premium pero comprimido vs. histórico (~40x). Refleja mercado precavido.\n• **Flujo libre de caja positivo y creciente**: NFLX genera cash real, no es promesa.\n• **Crec. suscriptores desacelerando**: 2-3% anual vs. 20%+ años atrás. Mercado maduro en EEUU/Europa.\n• **Ad-tier en crecimiento**: nuevo motor de ingresos sin crecer base de usuarios.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Saturación de mercados desarrollados**: el crecimiento exponencial terminó. Crec. restante depende de Asia/LatAm y monetización de ads.\n2. **Competencia intensa**: Disney+, Amazon Prime, Max. Presión de precios real en suscripciones.\n3. **Sensibilidad macroeconómica**: en recesión, usuarios cancelan. Clave vigilar señales de demanda.\n\n⚡ **SEÑAL DCA**\n**Compra estratégica recomendada.** A precios cercanos al piso anual con perfil agresivo y 20 años: es exactamente cuándo aplicar DCA. No es el bottom (podría caer más), pero la relación riesgo-recompensa es favorable. Iniciar posición con cuotas mensuales pequeñas—Netflix sigue siendo winner structural en entretenimiento digital.",
+      "updated_at": "2026-06-01T23:13:48.459542"
+    },
+    {
+      "ticker": "WMT",
+      "name": "Walmart Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 4.0,
+        "tech": 2.3,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 7.305,
+          "range52": 4.93,
+          "momentum": 7.355
         }
       },
       "price": {
         "ticker": "WMT",
         "name": "Walmart Inc.",
         "exchange": "NMS",
-        "price": 115.75,
-        "change_pct": -7.27,
-        "dip30": 13.75,
-        "range52pct": 53.5,
+        "price": 114.6,
+        "change_pct": -10.12,
+        "dip30": 14.61,
+        "range52pct": 50.7,
         "h52": 135.16,
         "l52": 93.43,
-        "mom5": -4.61,
-        "volume": 42190998,
+        "mom5": -4.71,
+        "volume": 24977782,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: WALMART INC. (WMT)\n**Inversor Agresivo | DCA 20+ años | Colombia**\n\n---\n\n## 📊 SITUACIÓN ACTUAL\nWMT cotiza a $115.75 tras caída de 7.27% hoy, ubicándose en 53.5% del rango anual (zona media-alta). La corrección de 13.75% en 30 días sugiere presión vendedora reciente, pero el activo mantiene soporte técnico relevante.\n\n## 💼 NEGOCIO Y VENTAJA\nWalmart es el minorista más grande del mundo con 10,500+ tiendas. Su fortaleza radica en: (1) poder de compra masivo que presiona márgenes de proveedores, (2) escala global que diversifica riesgos geográficos, (3) crecimiento en e-commerce y marketplace que moderniza el modelo tradicional.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/E ~30x**: Premium respecto a retail (~20x), justificado por estabilidad pero sin margen de seguridad aparente\n- **Dividend yield ~0.9%**: Bajo comparado con consumo defensivo (3-4% típico), refleja reinversión en crecimiento\n- **Free cash flow positivo**: WMT genera $15B+ anuales; financia ampliaciones y recompras sin estrés financiero\n- **Margen operativo 4-5%**: Comprimido por competencia (Amazon, Costco), mejora lenta pero consistente\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Presión de márgenes**: Amazon y rivales presionan precios; WMT lucha por diferenciación más allá de volumen\n2. **Valuación ajustada**: A $115, el P/E no permite corrección sin pain; caídas hacia $100-105 serían más atractivas\n3. **Saturación en EE.UU.**: 80% de ingresos domésticos; crecimiento depende de mercados emergentes con regulación volátil\n\n## ⚡ SEÑAL DCA\n**COMPRA MODERADA, NO AHORA.** Score 4.0/10 es claro: mejor esperar corrección a $100-105 (posible en próximos 6-12 meses) para optimizar DCA. Si ya inviertes en",
-      "updated_at": "2026-06-01T00:20:26.738091"
+      "narrative": "# ANÁLISIS: WMT (WALMART INC.)\n\n## 📊 SITUACIÓN ACTUAL\nWMT cotiza a $114.6 tras caída del 10.12% hoy, ubicándose al 50.7% de su rango anual (zona media). Ha retrocedido 14.61% en 30 días, sugiriendo presión vendedora reciente sin pánico extremo.\n\n## 💼 NEGOCIO Y VENTAJA\nWalmart es la minorista más grande del mundo con presencia en 24 países. Su fortaleza radica en: volumen masivo que reduce costos, integración vertical (logística propia), y capacidad de competir contra Amazon en e-commerce. El modelo híbrido físico-digital es difícil de replicar.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/E relativo**: A este precio, WMT negocia con descuento respecto a su promedio histórico\n- **Flujo de caja**: Genera ~$30B anuales en efectivo operativo (muy sólido para minorista)\n- **Dividendo**: Rendimiento aproximado 1.5-2%, pagado ininterrumpidamente desde 1974\n- **Margen operativo**: Delgado pero consistente (~3.5%), típico del retail\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Inflación y poder adquisitivo**: Recesión en consumo colombiano/global contrae compras (WMT depende de volumen)\n2. **Competencia Amazon/e-commerce**: Presión estructural sobre márgenes minoristas tradicionales\n3. **Ciclo económico**: Caída del 14% sugiere nerviosismo por rentabilidad Q4; earnings puede decepcionara más\n\n## ⚡ SEÑAL DCA\n**Momento IDEAL para iniciar/aumentar aportes**. A esta caída y posición central en rango anual, DCA compra con precio bajo sin timing a \"fondo perfecto\". Ignora el -10% de hoy; enfócate en acumular en los próximos 12-24 meses. El descuento es temporal; el dividendo y flujo de caja son permanentes.",
+      "updated_at": "2026-06-01T23:14:49.007367"
+    },
+    {
+      "ticker": "PG",
+      "name": "The Procter & Gamble Company",
+      "risk": "speculative",
+      "score": {
+        "total": 4.0,
+        "tech": 2.1,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 2.98,
+          "range52": 9.15,
+          "momentum": 6.4399999999999995
+        }
+      },
+      "price": {
+        "ticker": "PG",
+        "name": "The Procter & Gamble Company",
+        "exchange": "NYQ",
+        "price": 140.28,
+        "change_pct": -4.53,
+        "dip30": 5.96,
+        "range52pct": 8.5,
+        "h52": 169.04,
+        "l52": 137.62,
+        "mom5": -2.88,
+        "volume": 11074331,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": "# ANÁLISIS: PROCTER & GAMBLE (PG)\n\n📊 SITUACIÓN ACTUAL\nPG cotiza a $140.28 tras caída diaria del 4.53%, ubicándose en el 8.5% del rango anual (muy cerca del mínimo de 52 semanas). Ha retrocedido 5.96% en el último mes, señal de presión vendedora significativa.\n\n💼 NEGOCIO Y VENTAJA\nP&G es gigante de consumo masivo (higiene personal, cuidado del hogar, salud). Su fortaleza radica en portafolio de marcas globales premium (Gillette, Pampers, Tide) con poder de fijación de precios, no en innovación radical. Genera flujo de caja predecible pero no crecimiento explosivo.\n\n📈 SEÑALES FINANCIERAS\n- **Dividend yield ~2.5%**: atractivo para rentas, pero bajo comparado con histórico (señal de sobrevaloración previa)\n- **Relación Precio/Ganancias moderada**: no está cara, pero tampoco barata después de caída\n- **Deuda moderada**: ratios de solvencia sanos\n- **Crecimiento orgánico débil**: 2-3% anual típico (maduro, no dinámico)\n\n⚠️ RIESGOS PRINCIPALES\n1. **Ciclo de inflación de insumos**: presión en márgenes si materias primas no ceden\n2. **Consumidor apretado**: recesión impacta consumo de lujo en higiene personal\n3. **Estancamiento de crecimiento**: mercados maduros, difícil acelerar ventas\n\n⚡ SEÑAL DCA\n**ESPERA CORRECCIÓN MAYOR**. A pesar de caída, Score 4/10 indica falta de catalizador. Para perfil agresivo con DCA a 20+ años: comienza con 25% de asignación mensual una vez toque soporte en $130-135. PG es para consolidar portafolio, no motor de rentabilidad.",
+      "updated_at": "2026-06-01T23:14:53.106009"
+    },
+    {
+      "ticker": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.9,
+        "tech": 1.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 1.85,
+          "range52": 7.55,
+          "momentum": 6.655
+        }
+      },
+      "price": {
+        "ticker": "BRK-B",
+        "name": "Berkshire Hathaway Inc.",
+        "exchange": "NYQ",
+        "price": 470.29,
+        "change_pct": -0.9,
+        "dip30": 3.7,
+        "range52pct": 24.5,
+        "h52": 516.85,
+        "l52": 455.19,
+        "mom5": -3.31,
+        "volume": 6166046,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": "# ANÁLISIS: BRK-B PARA INVERSOR AGRESIVO CON DCA\n\n## 📊 SITUACIÓN ACTUAL\nBRK-B cotiza a $470.29 con caída modesta del 0.9% hoy. Está en el cuartil inferior del rango anual (24.5%), sugiriendo que ha caído significativamente desde máximos recientes, aunque todavía no toca pisos de 12 meses.\n\n## 💼 NEGOCIO Y VENTAJA\nBerkshire es un conglomerado de $900B+ que opera seguros, ferrocarriles, energía y posee cartera de acciones de primera línea. Su ventaja: gestión excepcional (Warren Buffett), flujos de caja predecibles, y posición de caja de $167B que actúa como colchón en crisis. Es menos \"tech\" que el mercado amplio.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/B cercano a 1.4x**: valora por debajo de mercado general (~2.0x), indicando descuento relativo\n- **ROE histórico 19-20%**: retorno sobre patrimonio sólido, aunque inferior a hace 10 años\n- **Ratio de caja/pasivos alto**: posición defensiva clara\n- **Crecimiento 5 años: ~7% CAGR**: modesto para un \"growth\", fuerte para defensiva\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Sucesión post-Buffett**: 94 años; transición a nuevo liderazgo genera incertidumbre sobre decisiones de inversión\n2. **Tamaño limita upside**: empresa madura de $900B difícilmente duplica en 5 años\n3. **Mercado busca momentum**: en ciclos alcistas de tech, BRK underperforma por su naturaleza Value\n\n## ⚡ SEÑAL DCA\n**COMPRA CON CONFIANZA**. Para horizonte 20+ años y perfil agresivo, está en descuento respecto a máximos. El score bajo (3.9/10) refleja falta de momentum, no debilidad fundamental. DCA sistemático aprovecha esta volatilidad lateral. No esperes corrección mayor: el riesgo ya está priceado.",
+      "updated_at": "2026-06-01T23:13:32.322030"
     },
     {
       "ticker": "MA",
@@ -646,164 +745,98 @@
       "risk": "speculative",
       "score": {
         "total": 3.9,
-        "tech": 2.0,
+        "tech": 1.9,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 2.975,
-          "range52": 8.89,
-          "momentum": 5.5649999999999995
+          "dip": 2.855,
+          "range52": 8.78,
+          "momentum": 5.33
         }
       },
       "price": {
         "ticker": "MA",
         "name": "Mastercard Incorporated",
         "exchange": "NYQ",
-        "price": 493.98,
-        "change_pct": -4.74,
-        "dip30": 5.95,
-        "range52pct": 11.1,
+        "price": 495.25,
+        "change_pct": -5.0,
+        "dip30": 5.71,
+        "range52pct": 12.2,
         "h52": 601.77,
         "l52": 480.5,
-        "mom5": -1.13,
-        "volume": 2641911,
+        "mom5": -0.66,
+        "volume": 3483058,
         "market_cap": 0
       },
       "fundamentals": {},
-      "narrative": "# ANÁLISIS: MASTERCARD (MA) — PERFIL AGRESIVO, ESTRATEGIA DCA\n\n📊 SITUACIÓN ACTUAL\nMA cotiza a $493.98 con caída del 4.74% en el día. Está en el percentil 11 del rango anual (muy cerca del piso), indicando que ha perdido ~$61 desde su máximo en 30 días. Esta posición baja sugiere espacios para rebote.\n\n💼 NEGOCIO Y VENTAJA\nMastercard opera la red de pagos digitales más grande del mundo, procesando transacciones entre bancos y comercios. Su ventaja: no asume riesgo crediticio (los bancos sí), generando márgenes predecibles. Beneficiario directo de la transición cash → digital en mercados emergentes como Colombia, donde penetración de pagos electrónicos sigue acelerándose.\n\n📈 SEÑALES FINANCIERAS\n- **ROE >130%**: genera $1.30+ de ganancia por cada dólar de capital invertido (excelente eficiencia)\n- **Crecimiento de ingresos**: ~15-18% anual históricamente, impulsado por mayor volumen transaccional\n- **Margen operativo**: ~56-60%, demostrando poder de precio sobre costos\n- **Valuación**: P/E ~42x (premium, pero justificado por calidad y crecimiento)\n\n⚠️ RIESGOS PRINCIPALES\n1. **Regulación**: presión global para reducir comisiones por transacción (afecta ingresos directamente)\n2. **Ciclo económico**: en recesión, bajan transacciones; colombianos con menos poder adquisitivo gastarían menos\n3. **Competencia cripto**: disrupción de largo plazo a modelos tradicionales de pago (riesgo existencial en 20+ años)\n\n⚡ SEÑAL DCA\n**COMPRA AHORA CON DOSIS PEQUEÑAS.** El precio bajo (percentil 11) y caída reciente crean punto de entrada favorable. Con horizonte 20 años, DCA absorbe volatilidad. Pero NO concentres capital aquí: es caro (P/E 42x). Suma posiciones mensuales de montos pequeños para promediar.",
-      "updated_at": "2026-06-01T00:20:07.456572"
+      "narrative": "# ANÁLISIS: MASTERCARD (MA) — Perfil Agresivo, Estrategia DCA\n\n---\n\n## 📊 SITUACIÓN ACTUAL\nMA cotiza a $495.25 tras caída del 5% hoy, ubicándose en el 12.2% del rango anual (cercano al mínimo de 52 semanas). La corrección acumulada de 5.71% en 30 días sugiere presión vendedora reciente, pero desde máximos históricos sigue siendo un activo en tendencia alcista de largo plazo.\n\n## 💼 NEGOCIO Y VENTAJA\nMastercard domina pagos digitales y procesamiento transaccional global con márgenes superiores al 40%. Su fortaleza radica en red de red de efectos de red inmejorable: cada transacción enriquece su base de datos y algoritmos. Posición defensiva en economía digital, con exposición a crecimiento de comercio electrónico en mercados emergentes (relevante para inversor colombiano).\n\n## 📈 SEÑALES FINANCIERAS\n- **ROE ~140%**: rentabilidad sobre patrimonio excepcional, indica capital altamente eficiente\n- **Crecimiento de ingresos ~10-12% anual**: consistente pero modera por saturación en mercados desarrollados\n- **Score 3.9/10**: refleja valoración elevada (P/E ~38-42x), no descuento disponible actualmente\n- **Posición en rango 52 sem (12.2%)**: técnicamente debilitada, pero aún lejos de niveles de pánico\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación de comisiones**: gobiernos presionan reducir costos transaccionales; afecta márgenes directamente\n2. **Valuación estirada**: a estos P/E, requiere crecimiento de doble dígito sostenido para justificar precio\n3. **Competencia en pagos**: Apple Pay, criptomonedas y fintech erosionan posición de payment networks tradicionales\n\n## ⚡ SEÑAL DCA\n**COMPRA PARCIAL AHORA, NO TODO.** La corrección del 5-6% es insuficiente para un activo tan caro. Con DCA: invierte 40-50% de tu cuota mensual aquí, reserva el resto para esperar caída a $450 o inferior.",
+      "updated_at": "2026-06-01T23:14:32.845306"
     },
     {
-      "ticker": "XLE",
-      "name": "State Street Energy Select Sector SPDR ETF",
+      "ticker": "GLD",
+      "name": "SPDR Gold Shares",
       "risk": "etf",
-      "score": {
-        "total": 3.8,
-        "tech": 1.6,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 4.08,
-          "range52": 3.1700000000000004,
-          "momentum": 7.4
-        }
-      },
-      "price": {
-        "ticker": "XLE",
-        "name": "State Street Energy Select Sector SPDR ETF",
-        "exchange": "PCX",
-        "price": 56.29,
-        "change_pct": -0.51,
-        "dip30": 8.16,
-        "range52pct": 68.3,
-        "h52": 63.46,
-        "l52": 40.83,
-        "mom5": -4.8,
-        "volume": 29767602,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": "# ANÁLISIS XLE — State Street Energy Select Sector SPDR ETF\n\n📊 **SITUACIÓN ACTUAL**\nXLE cotiza a $56.29 tras caída intradiaria leve. Está en posición alta del rango anual (68.3%), pero acumula retroceso de 8.16% en 30 días. Señal de debilidad reciente en un sector que sigue recuperándose de volatilidad estructural.\n\n💼 **NEGOCIO Y VENTAJA**\nETF que replica el desempeño del sector energético estadounidense (petróleo, gas, refinerías). Relevancia global: precios del crudo impactan directamente economía colombiana. Ventaja: acceso diversificado a grandes productoras sin riesgo concentrado en una sola empresa. Exposición a dividendos altos típicos del sector.\n\n📈 **SEÑALES FINANCIERAS**\n- **Posición en rango**: 68.3% indica sobrecalentamiento relativo; margen limitado de upside sin nuevos catalizadores.\n- **Score oportunidad 3.8/10**: Indicador bajo sugiere momento no óptimo de entrada; valuaciones no ofrecen descuento atractivo.\n- **Caída -8% en 30 días**: Corrección que podría profundizarse si demanda global desacelera o reservas suben inesperadamente.\n- **Volatilidad implícita**: Sector energético sigue expuesto a shocks geopolíticos y políticas de transición energética.\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Transición energética**: Presión normativa global reduce perspectiva de crecimiento de largo plazo en hidrocarburos.\n2. **Recesión económica**: Demanda de crudo vulnerable ante contracción global; márgenes de refinerías caen rápido.\n3. **Sobrevaloración relativa**: A 68.3% del rango anual sin fundamentales sólidos que lo justifiquen.\n\n⚡ **SEÑAL DCA**\n**Esperar corrección mayor (idealmente <$50).** Score bajo + posición alta en rango = riesgo desfavorable. Con horizonte 20+ años, DCA es estrategia correcta pero comienza cuando precio baje 12-15% más. Acumular en tramos descendentes, no aquí.",
-      "updated_at": "2026-06-01T00:18:14.548555"
-    },
-    {
-      "ticker": "NVDA",
-      "name": "NVIDIA Corporation",
-      "risk": "speculative",
-      "score": {
-        "total": 3.8,
-        "tech": 1.6,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 5.22,
-          "range52": 2.5099999999999993,
-          "momentum": 6.905
-        }
-      },
-      "price": {
-        "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "exchange": "NMS",
-        "price": 211.14,
-        "change_pct": 6.45,
-        "dip30": 10.44,
-        "range52pct": 74.9,
-        "h52": 236.54,
-        "l52": 135.4,
-        "mom5": -3.81,
-        "volume": 289410623,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": "# ANÁLISIS NVDA PARA INVERSOR COLOMBIANO AGRESIVO\n\n📊 **SITUACIÓN ACTUAL**\nNVIDIA cotiza a $211.14 tras subida intradiaria del 6.45%, pero ha retrocedido 10.44% en el último mes. Se posiciona al 74.9% de su rango anual, indicando que está cerca de máximos históricos, con poco colchón antes de nuevos records.\n\n💼 **NEGOCIO Y VENTAJA**\nNVIDIA diseña chips de procesamiento (GPUs) dominantes en inteligencia artificial, servidores de datos y gaming. Su ventaja es casi monopólica en IA: controla ~80% del mercado de GPUs para machine learning. Esta posición la hace indispensable para cualquier empresa que desarrolle o ejecute modelos de IA.\n\n📈 **SEÑALES FINANCIERAS**\n- **Valuación**: Múltiplo PER ~55-60x (muy elevado vs promedio del sector ~20-25x). Requiere crecimiento perfecto para justificar precio.\n- **Crecimiento**: Ingresos crecen ~100%+ anual, pero este ritmo es insostenible indefinidamente.\n- **Score de oportunidad 3.8/10**: Indica que el activo está CARO. El mercado ya precifica gran parte del potencial.\n- **Momentum**: Volatilidad alta (ganancias del 6.45% en un día = inestabilidad).\n\n⚠️ **RIESGOS PRINCIPALES**\n1. **Competencia emergente**: AMD, Intel y productores chinos mejoran rápidamente. Pérdida de cuota de mercado erosionaría márgenes.\n2. **Corrección de valuación**: A estos múltiplos, cualquier decepción en resultados genera caídas >15-20%.\n3. **Ciclo de negocios**: Demanda de chips de IA puede normalizarse tras sobrecalentamiento actual.\n\n⚡ **SEÑAL DCA**\n**Continúa DCA moderado, no aceleres ahora.** NVIDIA es sólida a largo plazo, pero a precio elevado. Mejor acumular en correcciones del 12-15% adicional. Para perfil agresivo, mantén posición pero distribuye compras en los próximos 6-12 meses si hay volatilidad.",
-      "updated_at": "2026-06-01T00:18:33.104070"
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 3.8,
-        "tech": 1.6,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 4.07,
-          "range52": 5.93,
-          "momentum": 2.93
-        }
-      },
-      "price": {
-        "ticker": "META",
-        "name": "Meta Platforms, Inc.",
-        "exchange": "NMS",
-        "price": 632.51,
-        "change_pct": -6.55,
-        "dip30": 8.14,
-        "range52pct": 40.7,
-        "h52": 796.25,
-        "l52": 520.26,
-        "mom5": 4.14,
-        "volume": 19806536,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": "# ANÁLISIS META (META) — Perfil Agresivo, DCA 20+ años\n\n## 📊 SITUACIÓN ACTUAL\nMETA cotiza a $632.51 con caída del 6.55% en el día. Se ubica en el 40.7% del rango anual (lejos del máximo de $498), indicando que aún está en territorio deprimido comparado con máximos históricos recientes. La volatilidad sigue marcando el ritmo.\n\n## 💼 NEGOCIO Y VENTAJA\nMeta domina publicidad digital con Facebook, Instagram y WhatsApp (3.2 mil millones de usuarios). Su fortaleza: moat publicitario insuperable y acceso a datos de comportamiento. El riesgo: dependencia de regulaciones y cambios en privacidad (iOS, Google). Invierte agresivamente en IA y realidad aumentada, apuestas a largo plazo con rentabilidad aún incierta.\n\n## 📈 SEÑALES FINANCIERAS\n- **P/E estimado**: ~24x (premium, pero razonable para crecimiento tech)\n- **Margen operativo**: ~35% (excelente eficiencia)\n- **Crecimiento trimestral**: +18-20% anual (sólido para su tamaño)\n- **Free cash flow**: Fuerte generador de caja, financiando capex masivo en IA\n\n## ⚠️ RIESGOS PRINCIPALES\n1. **Regulación**: UE y gobiernos apretar restricciones publicitarias y privacidad\n2. **Competencia en IA**: OpenAI, Google y Amazon avanzan en modelos, Meta va retrasada\n3. **Obsolescencia publicitaria**: TikTok y plataformas emergentes roban share de gasto publicitario\n\n## ⚡ SEÑAL DCA\n**COMPRA ACUMULATIVA AHORA.** Con score 3.8/10 y caída reciente, es entrada óptima para estrategia DCA. No esperes máximos históricos; invierte cuotas regulares mensuales los próximos años. A 20 años, volatilidad actual = ruido.",
-      "updated_at": "2026-06-01T00:18:47.223525"
-    },
-    {
-      "ticker": "BRK-B",
-      "name": "Berkshire Hathaway Inc.",
-      "risk": "speculative",
       "score": {
         "total": 3.8,
         "tech": 1.5,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.425,
-          "range52": 6.87,
-          "momentum": 5.575
+          "dip": 3.485,
+          "range52": 4.6899999999999995,
+          "momentum": 5.31
         }
       },
       "price": {
-        "ticker": "BRK-B",
-        "name": "Berkshire Hathaway Inc.",
-        "exchange": "NYQ",
-        "price": 474.48,
-        "change_pct": -0.13,
-        "dip30": 2.85,
-        "range52pct": 31.3,
-        "h52": 516.85,
-        "l52": 455.19,
-        "mom5": -1.15,
-        "volume": 4085243,
+        "ticker": "GLD",
+        "name": "SPDR Gold Shares",
+        "exchange": "PCX",
+        "price": 411.26,
+        "change_pct": -7.77,
+        "dip30": 6.97,
+        "range52pct": 53.1,
+        "h52": 509.7,
+        "l52": 299.89,
+        "mom5": -0.62,
+        "volume": 5930413,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:56.676804"
+      "updated_at": "2026-06-01T23:12:52.962195"
+    },
+    {
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.8,
+        "tech": 1.4,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 3.3,
+          "range52": 3.6799999999999997,
+          "momentum": 6.1899999999999995
+        }
+      },
+      "price": {
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "exchange": "NMS",
+        "price": 415.88,
+        "change_pct": 3.81,
+        "dip30": 6.6,
+        "range52pct": 63.2,
+        "h52": 498.83,
+        "l52": 273.21,
+        "mom5": -2.38,
+        "volume": 42805632,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:13:28.230434"
     },
     {
       "ticker": "JPM",
@@ -811,98 +844,65 @@
       "risk": "speculative",
       "score": {
         "total": 3.8,
-        "tech": 1.5,
+        "tech": 1.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 2.79,
-          "range52": 4.93,
-          "momentum": 5.61
+          "dip": 3.22,
+          "range52": 5.29,
+          "momentum": 6.6
         }
       },
       "price": {
         "ticker": "JPM",
         "name": "JPMorgan Chase & Co.",
         "exchange": "NYQ",
-        "price": 299.31,
-        "change_pct": -3.43,
-        "dip30": 5.58,
-        "range52pct": 50.7,
+        "price": 296.58,
+        "change_pct": -4.42,
+        "dip30": 6.44,
+        "range52pct": 47.1,
         "h52": 337.25,
         "l52": 260.31,
-        "mom5": -1.22,
-        "volume": 7239863,
+        "mom5": -3.2,
+        "volume": 7889155,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:57.917555"
+      "updated_at": "2026-06-01T23:14:24.814472"
     },
     {
-      "ticker": "PG",
-      "name": "The Procter & Gamble Company",
+      "ticker": "V",
+      "name": "Visa Inc.",
       "risk": "speculative",
       "score": {
         "total": 3.8,
-        "tech": 1.7,
+        "tech": 1.5,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.88,
-          "range52": 8.11,
-          "momentum": 4.945
+          "dip": 1.805,
+          "range52": 6.459999999999999,
+          "momentum": 5.93
         }
       },
       "price": {
-        "ticker": "PG",
-        "name": "The Procter & Gamble Company",
+        "ticker": "V",
+        "name": "Visa Inc.",
         "exchange": "NYQ",
-        "price": 143.56,
-        "change_pct": 0.31,
-        "dip30": 3.76,
-        "range52pct": 18.9,
-        "h52": 169.04,
-        "l52": 137.62,
-        "mom5": 0.11,
-        "volume": 6711733,
+        "price": 322.77,
+        "change_pct": 1.81,
+        "dip30": 3.61,
+        "range52pct": 35.4,
+        "h52": 375.51,
+        "l52": 293.89,
+        "mom5": -1.86,
+        "volume": 9941749,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:20:31.478403"
-    },
-    {
-      "ticker": "GLD",
-      "name": "SPDR Gold Shares",
-      "risk": "etf",
-      "score": {
-        "total": 3.7,
-        "tech": 1.4,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 3.23,
-          "range52": 4.41,
-          "momentum": 4.985
-        }
-      },
-      "price": {
-        "ticker": "GLD",
-        "name": "SPDR Gold Shares",
-        "exchange": "PCX",
-        "price": 417.12,
-        "change_pct": -5.22,
-        "dip30": 6.46,
-        "range52pct": 55.9,
-        "h52": 509.7,
-        "l52": 299.89,
-        "mom5": 0.03,
-        "volume": 7666716,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:18:11.021180"
+      "updated_at": "2026-06-01T23:14:28.835803"
     },
     {
       "ticker": "XLF",
@@ -910,131 +910,230 @@
       "risk": "etf",
       "score": {
         "total": 3.7,
-        "tech": 1.2,
+        "tech": 1.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.0,
-          "range52": 5.58,
-          "momentum": 5.145
+          "dip": 1.14,
+          "range52": 5.75,
+          "momentum": 5.49
         }
       },
       "price": {
         "ticker": "XLF",
         "name": "State Street Financial Select Sector SPDR ETF",
         "exchange": "PCX",
-        "price": 51.58,
-        "change_pct": -0.86,
-        "dip30": 2.0,
-        "range52pct": 44.2,
+        "price": 51.43,
+        "change_pct": -1.91,
+        "dip30": 2.28,
+        "range52pct": 42.5,
         "h52": 56.52,
         "l52": 47.67,
-        "mom5": -0.29,
-        "volume": 33495692,
+        "mom5": -0.98,
+        "volume": 34257140,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:13.844062"
+      "updated_at": "2026-06-01T23:12:55.312407"
     },
     {
-      "ticker": "V",
-      "name": "Visa Inc.",
-      "risk": "speculative",
+      "ticker": "XLE",
+      "name": "State Street Energy Select Sector SPDR ETF",
+      "risk": "etf",
       "score": {
         "total": 3.7,
         "tech": 1.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.27,
-          "range52": 6.0200000000000005,
-          "momentum": 5.72
+          "dip": 3.255,
+          "range52": 2.72,
+          "momentum": 6.84
         }
       },
       "price": {
-        "ticker": "V",
-        "name": "Visa Inc.",
-        "exchange": "NYQ",
-        "price": 326.36,
-        "change_pct": 3.57,
-        "dip30": 2.54,
-        "range52pct": 39.8,
-        "h52": 375.51,
-        "l52": 293.89,
-        "mom5": -1.44,
-        "volume": 6048834,
+        "ticker": "XLE",
+        "name": "State Street Energy Select Sector SPDR ETF",
+        "exchange": "PCX",
+        "price": 57.3,
+        "change_pct": 4.14,
+        "dip30": 6.51,
+        "range52pct": 72.8,
+        "h52": 63.46,
+        "l52": 40.83,
+        "mom5": -3.68,
+        "volume": 52344623,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:20:02.760527"
+      "updated_at": "2026-06-01T23:12:55.915630"
     },
     {
       "ticker": "BND",
       "name": "Vanguard Total Bond Market Index Fund",
       "risk": "etf",
       "score": {
-        "total": 3.6,
-        "tech": 1.1,
+        "total": 3.7,
+        "tech": 1.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.405,
-          "range52": 5.82,
-          "momentum": 4.635
+          "dip": 0.56,
+          "range52": 6.74,
+          "momentum": 4.875
         }
       },
       "price": {
         "ticker": "BND",
         "name": "Vanguard Total Bond Market Index Fund",
         "exchange": "NGM",
-        "price": 73.46,
-        "change_pct": -0.42,
-        "dip30": 0.81,
-        "range52pct": 41.8,
+        "price": 73.18,
+        "change_pct": -1.19,
+        "dip30": 1.12,
+        "range52pct": 32.6,
         "h52": 75.23,
         "l52": 72.19,
-        "mom5": 0.73,
-        "volume": 9178332,
+        "mom5": 0.25,
+        "volume": 7246549,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:16.656275"
+      "updated_at": "2026-06-01T23:12:57.672925"
     },
     {
       "ticker": "AGG",
       "name": "iShares Core U.S. Aggregate Bond ETF",
       "risk": "etf",
       "score": {
-        "total": 3.6,
-        "tech": 1.1,
+        "total": 3.7,
+        "tech": 1.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.395,
-          "range52": 5.67,
-          "momentum": 4.635
+          "dip": 0.58,
+          "range52": 6.57,
+          "momentum": 4.88
         }
       },
       "price": {
         "ticker": "AGG",
         "name": "iShares Core U.S. Aggregate Bond ETF",
         "exchange": "PCX",
-        "price": 99.06,
-        "change_pct": -0.42,
-        "dip30": 0.79,
-        "range52pct": 43.3,
+        "price": 98.68,
+        "change_pct": -1.17,
+        "dip30": 1.16,
+        "range52pct": 34.3,
         "h52": 101.46,
         "l52": 97.23,
-        "mom5": 0.73,
-        "volume": 6671403,
+        "mom5": 0.24,
+        "volume": 6937091,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:17.331851"
+      "updated_at": "2026-06-01T23:12:58.260985"
+    },
+    {
+      "ticker": "VNQ",
+      "name": "Vanguard Real Estate Index Fund ETF Shares",
+      "risk": "etf",
+      "score": {
+        "total": 3.7,
+        "tech": 1.2,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 1.61,
+          "range52": 3.3299999999999996,
+          "momentum": 6.385
+        }
+      },
+      "price": {
+        "ticker": "VNQ",
+        "name": "Vanguard Real Estate Index Fund ETF Shares",
+        "exchange": "PCX",
+        "price": 94.09,
+        "change_pct": -2.68,
+        "dip30": 3.22,
+        "range52pct": 66.7,
+        "h52": 97.71,
+        "l52": 86.84,
+        "mom5": -2.77,
+        "volume": 3953078,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:12:58.839010"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "risk": "speculative",
+      "score": {
+        "total": 3.7,
+        "tech": 1.3,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 2.31,
+          "range52": 2.75,
+          "momentum": 7.3100000000000005
+        }
+      },
+      "price": {
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "exchange": "NYQ",
+        "price": 223.51,
+        "change_pct": -4.56,
+        "dip30": 4.62,
+        "range52pct": 72.5,
+        "h52": 251.71,
+        "l52": 149.04,
+        "mom5": -4.62,
+        "volume": 5962384,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:14:57.176110"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.6,
+        "tech": 1.1,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 2.495,
+          "range52": 2.1,
+          "momentum": 5.95
+        }
+      },
+      "price": {
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NMS",
+        "price": 261.26,
+        "change_pct": 4.27,
+        "dip30": 4.99,
+        "range52pct": 79.0,
+        "h52": 278.56,
+        "l52": 196.0,
+        "mom5": -1.9,
+        "volume": 51805908,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:13:15.814755"
     },
     {
       "ticker": "GOOGL",
@@ -1042,65 +1141,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.6,
-        "tech": 1.0,
+        "tech": 1.1,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 2.765,
-          "range52": 1.15,
-          "momentum": 5.945
+          "dip": 3.26,
+          "range52": 1.3099999999999994,
+          "momentum": 5.86
         }
       },
       "price": {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
         "exchange": "NMS",
-        "price": 380.34,
-        "change_pct": 13.19,
-        "dip30": 5.53,
-        "range52pct": 88.5,
+        "price": 376.37,
+        "change_pct": 10.15,
+        "dip30": 6.52,
+        "range52pct": 86.9,
         "h52": 408.61,
         "l52": 162.0,
-        "mom5": -1.89,
-        "volume": 44415846,
+        "mom5": -1.72,
+        "volume": 25406595,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:42.480155"
-    },
-    {
-      "ticker": "CRM",
-      "name": "Salesforce, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 3.6,
-        "tech": 1.0,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 0.0,
-          "range52": 7.57,
-          "momentum": 0.8049999999999997
-        }
-      },
-      "price": {
-        "ticker": "CRM",
-        "name": "Salesforce, Inc.",
-        "exchange": "NYQ",
-        "price": 191.1,
-        "change_pct": 5.45,
-        "dip30": 0.0,
-        "range52pct": 24.3,
-        "h52": 276.8,
-        "l52": 163.52,
-        "mom5": 8.39,
-        "volume": 33907040,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:19:20.202454"
+      "updated_at": "2026-06-01T23:13:19.914889"
     },
     {
       "ticker": "ADBE",
@@ -1108,32 +1174,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.6,
-        "tech": 1.1,
+        "tech": 0.9,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
           "dip": -0.0,
-          "range52": 8.22,
-          "momentum": 1.9049999999999998
+          "range52": 7.470000000000001,
+          "momentum": 0
         }
       },
       "price": {
         "ticker": "ADBE",
         "name": "Adobe Inc.",
         "exchange": "NMS",
-        "price": 259.21,
-        "change_pct": 4.45,
+        "price": 274.03,
+        "change_pct": 12.1,
         "dip30": -0.0,
-        "range52pct": 17.8,
+        "range52pct": 25.3,
         "h52": 421.48,
         "l52": 224.13,
-        "mom5": 6.19,
-        "volume": 10808921,
+        "mom5": 11.96,
+        "volume": 8483077,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:29.605441"
+      "updated_at": "2026-06-01T23:14:00.744695"
     },
     {
       "ticker": "UNH",
@@ -1141,65 +1207,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.6,
-        "tech": 1.0,
+        "tech": 1.1,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 2.6,
-          "range52": 1.4099999999999995,
-          "momentum": 5.285
+          "dip": 2.655,
+          "range52": 1.4299999999999997,
+          "momentum": 6.11
         }
       },
       "price": {
         "ticker": "UNH",
         "name": "UnitedHealth Group Incorporated",
         "exchange": "NYQ",
-        "price": 380.31,
-        "change_pct": 20.2,
-        "dip30": 5.2,
-        "range52pct": 85.9,
+        "price": 379.86,
+        "change_pct": 17.01,
+        "dip30": 5.31,
+        "range52pct": 85.7,
         "h52": 404.15,
         "l52": 234.6,
-        "mom5": -0.57,
-        "volume": 10246752,
+        "mom5": -2.22,
+        "volume": 6519009,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:20:12.238623"
-    },
-    {
-      "ticker": "JNJ",
-      "name": "Johnson & Johnson",
-      "risk": "speculative",
-      "score": {
-        "total": 3.6,
-        "tech": 1.1,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 1.92,
-          "range52": 2.5700000000000003,
-          "momentum": 6.38
-        }
-      },
-      "price": {
-        "ticker": "JNJ",
-        "name": "Johnson & Johnson",
-        "exchange": "NYQ",
-        "price": 225.33,
-        "change_pct": -3.93,
-        "dip30": 3.84,
-        "range52pct": 74.3,
-        "h52": 251.71,
-        "l52": 149.04,
-        "mom5": -2.76,
-        "volume": 6188580,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:20:36.327065"
+      "updated_at": "2026-06-01T23:14:36.883281"
     },
     {
       "ticker": "KO",
@@ -1207,36 +1240,36 @@
       "risk": "speculative",
       "score": {
         "total": 3.6,
-        "tech": 1.0,
+        "tech": 1.1,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.775,
-          "range52": 2.1099999999999994,
-          "momentum": 6.33
+          "dip": 2.0,
+          "range52": 2.3200000000000003,
+          "momentum": 6.745
         }
       },
       "price": {
         "ticker": "KO",
         "name": "The Coca-Cola Company",
         "exchange": "NYQ",
-        "price": 79.01,
-        "change_pct": 5.09,
-        "dip30": 3.55,
-        "range52pct": 78.9,
+        "price": 78.64,
+        "change_pct": 3.83,
+        "dip30": 4.0,
+        "range52pct": 76.8,
         "h52": 82.66,
         "l52": 65.35,
-        "mom5": -2.66,
-        "volume": 32408986,
+        "mom5": -3.49,
+        "volume": 12155023,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:20:41.087989"
+      "updated_at": "2026-06-01T23:15:01.237250"
     },
     {
-      "ticker": "VNQ",
-      "name": "Vanguard Real Estate Index Fund ETF Shares",
+      "ticker": "SCHD",
+      "name": "Schwab U.S. Dividend Equity ETF",
       "risk": "etf",
       "score": {
         "total": 3.5,
@@ -1244,28 +1277,94 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.78,
-          "range52": 1.85,
-          "momentum": 5.5
+          "dip": 0.99,
+          "range52": 1.05,
+          "momentum": 5.99
         }
       },
       "price": {
-        "ticker": "VNQ",
-        "name": "Vanguard Real Estate Index Fund ETF Shares",
+        "ticker": "SCHD",
+        "name": "Schwab U.S. Dividend Equity ETF",
         "exchange": "PCX",
-        "price": 95.7,
-        "change_pct": 0.57,
-        "dip30": 1.56,
-        "range52pct": 81.5,
-        "h52": 97.71,
-        "l52": 86.84,
-        "mom5": -1.0,
-        "volume": 3195047,
+        "price": 32.18,
+        "change_pct": 3.64,
+        "dip30": 1.98,
+        "range52pct": 89.5,
+        "h52": 32.91,
+        "l52": 25.93,
+        "mom5": -1.98,
+        "volume": 26754872,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:17.995990"
+      "updated_at": "2026-06-01T23:12:51.824231"
+    },
+    {
+      "ticker": "ARKK",
+      "name": "ARK Innovation ETF",
+      "risk": "etf",
+      "score": {
+        "total": 3.5,
+        "tech": 0.6,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 0.42,
+          "range52": 3.0799999999999996,
+          "momentum": 1.8199999999999998
+        }
+      },
+      "price": {
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "exchange": "BTS",
+        "price": 81.26,
+        "change_pct": 2.56,
+        "dip30": 0.84,
+        "range52pct": 69.2,
+        "h52": 92.65,
+        "l52": 55.64,
+        "mom5": 6.36,
+        "volume": 6457227,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:12:56.510907"
+    },
+    {
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.5,
+        "tech": 0.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 0.99,
+          "range52": 0.7200000000000003,
+          "momentum": 5.405
+        }
+      },
+      "price": {
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
+        "exchange": "NMS",
+        "price": 306.31,
+        "change_pct": 13.35,
+        "dip30": 1.98,
+        "range52pct": 92.8,
+        "h52": 315.0,
+        "l52": 195.07,
+        "mom5": -0.81,
+        "volume": 44170581,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:13:03.595786"
     },
     {
       "ticker": "MSFT",
@@ -1273,69 +1372,36 @@
       "risk": "speculative",
       "score": {
         "total": 3.5,
-        "tech": 0.7,
+        "tech": 0.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
           "dip": -0.0,
-          "range52": 5.279999999999999,
-          "momentum": 1.2850000000000001
+          "range52": 4.7700000000000005,
+          "momentum": 0
         }
       },
       "price": {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
         "exchange": "NMS",
-        "price": 450.24,
-        "change_pct": 7.13,
+        "price": 460.52,
+        "change_pct": 8.92,
         "dip30": -0.0,
-        "range52pct": 47.2,
+        "range52pct": 52.3,
         "h52": 555.45,
         "l52": 356.28,
-        "mom5": 7.43,
-        "volume": 79654376,
+        "mom5": 10.02,
+        "volume": 52107975,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:28.399451"
+      "updated_at": "2026-06-01T23:13:07.693031"
     },
     {
-      "ticker": "AMZN",
-      "name": "Amazon.com, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 3.5,
-        "tech": 0.6,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 0.79,
-          "range52": 0.9599999999999994,
-          "momentum": 4.595
-        }
-      },
-      "price": {
-        "ticker": "AMZN",
-        "name": "Amazon.com, Inc.",
-        "exchange": "NMS",
-        "price": 270.64,
-        "change_pct": 8.39,
-        "dip30": 1.58,
-        "range52pct": 90.4,
-        "h52": 278.56,
-        "l52": 196.0,
-        "mom5": 0.81,
-        "volume": 54749561,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:18:37.753167"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
+      "ticker": "NVDA",
+      "name": "NVIDIA Corporation",
       "risk": "speculative",
       "score": {
         "total": 3.5,
@@ -1343,65 +1409,32 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.065,
-          "range52": 2.7900000000000005,
-          "momentum": 2.855
+          "dip": 2.415,
+          "range52": 1.2,
+          "momentum": 2.905
         }
       },
       "price": {
-        "ticker": "TSLA",
-        "name": "Tesla, Inc.",
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
         "exchange": "NMS",
-        "price": 435.79,
-        "change_pct": 12.06,
-        "dip30": 2.13,
-        "range52pct": 72.1,
-        "h52": 498.83,
-        "l52": 273.21,
-        "mom5": 4.29,
-        "volume": 45176821,
+        "price": 224.36,
+        "change_pct": 11.25,
+        "dip30": 4.83,
+        "range52pct": 88.0,
+        "h52": 236.54,
+        "l52": 135.4,
+        "mom5": 4.19,
+        "volume": 197229540,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:51.932331"
+      "updated_at": "2026-06-01T23:13:11.769183"
     },
     {
-      "ticker": "ORCL",
-      "name": "Oracle Corporation",
-      "risk": "speculative",
-      "score": {
-        "total": 3.5,
-        "tech": 0.7,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": -0.0,
-          "range52": 5.68,
-          "momentum": 0
-        }
-      },
-      "price": {
-        "ticker": "ORCL",
-        "name": "Oracle Corporation",
-        "exchange": "NYQ",
-        "price": 225.78,
-        "change_pct": 26.6,
-        "dip30": -0.0,
-        "range52pct": 43.2,
-        "h52": 345.72,
-        "l52": 134.57,
-        "mom5": 18.98,
-        "volume": 40817031,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:19:24.954537"
-    },
-    {
-      "ticker": "NOW",
-      "name": "ServiceNow, Inc.",
+      "ticker": "LLY",
+      "name": "Eli Lilly and Company",
       "risk": "speculative",
       "score": {
         "total": 3.5,
@@ -1409,32 +1442,32 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.0,
-          "range52": 6.69,
-          "momentum": 0
+          "dip": 1.98,
+          "range52": 1.2700000000000002,
+          "momentum": 4.1899999999999995
         }
       },
       "price": {
-        "ticker": "NOW",
-        "name": "ServiceNow, Inc.",
+        "ticker": "LLY",
+        "name": "Eli Lilly and Company",
         "exchange": "NYQ",
-        "price": 124.37,
-        "change_pct": 28.96,
-        "dip30": 0.0,
-        "range52pct": 33.1,
-        "h52": 211.48,
-        "l52": 81.24,
-        "mom5": 24.76,
-        "volume": 67031644,
+        "price": 1082.2,
+        "change_pct": 16.74,
+        "dip30": 3.96,
+        "range52pct": 87.3,
+        "h52": 1149.1,
+        "l52": 623.78,
+        "mom5": 1.62,
+        "volume": 2687673,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:34.291130"
+      "updated_at": "2026-06-01T23:13:40.464260"
     },
     {
-      "ticker": "PLTR",
-      "name": "Palantir Technologies Inc.",
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
       "risk": "speculative",
       "score": {
         "total": 3.5,
@@ -1442,8 +1475,74 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
+          "dip": 0.0,
+          "range52": 5.93,
+          "momentum": 0
+        }
+      },
+      "price": {
+        "ticker": "CRM",
+        "name": "Salesforce, Inc.",
+        "exchange": "NYQ",
+        "price": 209.6,
+        "change_pct": 15.08,
+        "dip30": 0.0,
+        "range52pct": 40.7,
+        "h52": 276.8,
+        "l52": 163.52,
+        "mom5": 16.4,
+        "volume": 27371109,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:13:52.600554"
+    },
+    {
+      "ticker": "NOW",
+      "name": "ServiceNow, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.5,
+        "tech": 0.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 0.0,
+          "range52": 5.8100000000000005,
+          "momentum": 0
+        }
+      },
+      "price": {
+        "ticker": "NOW",
+        "name": "ServiceNow, Inc.",
+        "exchange": "NYQ",
+        "price": 135.86,
+        "change_pct": 40.55,
+        "dip30": 0.0,
+        "range52pct": 41.9,
+        "h52": 211.48,
+        "l52": 81.24,
+        "mom5": 33.03,
+        "volume": 67922193,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:14:04.729608"
+    },
+    {
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.5,
+        "tech": 0.6,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
           "dip": -0.0,
-          "range52": 5.75,
+          "range52": 5.29,
           "momentum": 0
         }
       },
@@ -1451,19 +1550,19 @@
         "ticker": "PLTR",
         "name": "Palantir Technologies Inc.",
         "exchange": "NMS",
-        "price": 156.54,
-        "change_pct": 9.65,
+        "price": 160.65,
+        "change_pct": 9.74,
         "dip30": -0.0,
-        "range52pct": 42.5,
+        "range52pct": 47.1,
         "h52": 207.52,
         "l52": 118.93,
-        "mom5": 13.92,
-        "volume": 92196609,
+        "mom5": 17.37,
+        "volume": 56617353,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:43.644818"
+      "updated_at": "2026-06-01T23:14:12.682680"
     },
     {
       "ticker": "VOO",
@@ -1476,27 +1575,27 @@
         "analyst": 5.0,
         "detail": {
           "dip": -0.0,
-          "range52": 0.09000000000000057,
-          "momentum": 4.075
+          "range52": 0.10999999999999943,
+          "momentum": 4.145
         }
       },
       "price": {
         "ticker": "VOO",
         "name": "Vanguard S&P 500 ETF",
         "exchange": "PCX",
-        "price": 695.49,
-        "change_pct": 7.85,
+        "price": 697.3,
+        "change_pct": 6.82,
         "dip30": -0.0,
-        "range52pct": 99.1,
-        "h52": 697.0,
+        "range52pct": 98.9,
+        "h52": 699.04,
         "l52": 537.8,
-        "mom5": 1.85,
-        "volume": 5037147,
+        "mom5": 1.71,
+        "volume": 6947529,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:06.081566"
+      "updated_at": "2026-06-01T23:12:48.884042"
     },
     {
       "ticker": "VTI",
@@ -1508,28 +1607,28 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.0,
-          "range52": 0.07000000000000028,
-          "momentum": 3.98
+          "dip": -0.0,
+          "range52": 0.12000000000000029,
+          "momentum": 4.1
         }
       },
       "price": {
         "ticker": "VTI",
         "name": "Vanguard Total Stock Market Index Fund ETF Shares",
         "exchange": "PCX",
-        "price": 372.54,
-        "change_pct": 7.66,
-        "dip30": 0.0,
-        "range52pct": 99.3,
-        "h52": 373.13,
+        "price": 373.4,
+        "change_pct": 6.52,
+        "dip30": -0.0,
+        "range52pct": 98.8,
+        "h52": 374.42,
         "l52": 287.58,
-        "mom5": 2.04,
-        "volume": 3026927,
+        "mom5": 1.8,
+        "volume": 6652267,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:07.523778"
+      "updated_at": "2026-06-01T23:12:50.058671"
     },
     {
       "ticker": "SPY",
@@ -1542,27 +1641,27 @@
         "analyst": 5.0,
         "detail": {
           "dip": -0.0,
-          "range52": 0.09000000000000057,
-          "momentum": 4.075
+          "range52": 0.1,
+          "momentum": 4.135
         }
       },
       "price": {
         "ticker": "SPY",
         "name": "State Street SPDR S&P 500 ETF Trust",
         "exchange": "PCX",
-        "price": 756.48,
-        "change_pct": 7.81,
+        "price": 758.54,
+        "change_pct": 6.82,
         "dip30": -0.0,
-        "range52pct": 99.1,
-        "h52": 758.08,
+        "range52pct": 99.0,
+        "h52": 760.28,
         "l52": 585.06,
-        "mom5": 1.85,
-        "volume": 54354194,
+        "mom5": 1.73,
+        "volume": 38439176,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:08.241961"
+      "updated_at": "2026-06-01T23:12:50.657682"
     },
     {
       "ticker": "IVV",
@@ -1574,61 +1673,28 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.0,
-          "range52": 0.09000000000000057,
-          "momentum": 4.07
+          "dip": 0.0,
+          "range52": 0.10999999999999943,
+          "momentum": 4.14
         }
       },
       "price": {
         "ticker": "IVV",
         "name": "iShares Core S&P 500 ETF",
         "exchange": "PCX",
-        "price": 760.05,
-        "change_pct": 7.85,
-        "dip30": -0.0,
-        "range52pct": 99.1,
-        "h52": 761.65,
+        "price": 762.02,
+        "change_pct": 6.82,
+        "dip30": 0.0,
+        "range52pct": 98.9,
+        "h52": 763.9,
         "l52": 587.88,
-        "mom5": 1.86,
-        "volume": 10706419,
+        "mom5": 1.72,
+        "volume": 5219894,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:08.971045"
-    },
-    {
-      "ticker": "SCHD",
-      "name": "Schwab U.S. Dividend Equity ETF",
-      "risk": "etf",
-      "score": {
-        "total": 3.4,
-        "tech": 0.5,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 0.505,
-          "range52": 0.5900000000000005,
-          "momentum": 4.61
-        }
-      },
-      "price": {
-        "ticker": "SCHD",
-        "name": "Schwab U.S. Dividend Equity ETF",
-        "exchange": "PCX",
-        "price": 32.5,
-        "change_pct": 5.49,
-        "dip30": 1.01,
-        "range52pct": 94.1,
-        "h52": 32.91,
-        "l52": 25.93,
-        "mom5": 0.78,
-        "volume": 17105975,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:18:09.681812"
+      "updated_at": "2026-06-01T23:12:51.249350"
     },
     {
       "ticker": "VIG",
@@ -1636,65 +1702,32 @@
       "risk": "etf",
       "score": {
         "total": 3.4,
-        "tech": 0.3,
+        "tech": 0.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.0,
-          "range52": 0.05,
-          "momentum": 4.22
+          "dip": 0.1,
+          "range52": 0.1700000000000003,
+          "momentum": 4.77
         }
       },
       "price": {
         "ticker": "VIG",
         "name": "Vanguard Dividend Appreciation Index Fund ETF Shares",
         "exchange": "PCX",
-        "price": 234.65,
-        "change_pct": 4.34,
-        "dip30": -0.0,
-        "range52pct": 99.5,
+        "price": 234.17,
+        "change_pct": 2.95,
+        "dip30": 0.2,
+        "range52pct": 98.3,
         "h52": 234.83,
         "l52": 196.55,
-        "mom5": 1.56,
-        "volume": 948778,
+        "mom5": 0.46,
+        "volume": 1327977,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:10.350564"
-    },
-    {
-      "ticker": "ARKK",
-      "name": "ARK Innovation ETF",
-      "risk": "etf",
-      "score": {
-        "total": 3.4,
-        "tech": 0.5,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": -0.0,
-          "range52": 2.8900000000000006,
-          "momentum": 1.52
-        }
-      },
-      "price": {
-        "ticker": "ARKK",
-        "name": "ARK Innovation ETF",
-        "exchange": "BTS",
-        "price": 81.95,
-        "change_pct": 5.96,
-        "dip30": -0.0,
-        "range52pct": 71.1,
-        "h52": 92.65,
-        "l52": 55.64,
-        "mom5": 6.96,
-        "volume": 9344908,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:18:15.235983"
+      "updated_at": "2026-06-01T23:12:52.404497"
     },
     {
       "ticker": "VWO",
@@ -1702,131 +1735,65 @@
       "risk": "etf",
       "score": {
         "total": 3.4,
-        "tech": 0.5,
+        "tech": 0.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.715,
-          "range52": 0.8200000000000003,
-          "momentum": 3.995
+          "dip": 0.27,
+          "range52": 0.4299999999999997,
+          "momentum": 3.7800000000000002
         }
       },
       "price": {
         "ticker": "VWO",
         "name": "Vanguard Emerging Markets Stock Index Fund",
         "exchange": "PCX",
-        "price": 59.88,
-        "change_pct": 2.87,
-        "dip30": 1.43,
-        "range52pct": 91.8,
+        "price": 60.42,
+        "change_pct": 2.1,
+        "dip30": 0.54,
+        "range52pct": 95.7,
         "h52": 61.03,
         "l52": 46.99,
-        "mom5": 2.01,
-        "volume": 7217617,
+        "mom5": 2.44,
+        "volume": 10773532,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:18.741420"
+      "updated_at": "2026-06-01T23:12:59.421613"
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc.",
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
       "risk": "speculative",
       "score": {
         "total": 3.4,
-        "tech": 0.3,
+        "tech": 0.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.07,
-          "range52": 0.25,
-          "momentum": 3.84
+          "dip": -0.0,
+          "range52": 4.62,
+          "momentum": 0
         }
       },
       "price": {
-        "ticker": "AAPL",
-        "name": "Apple Inc.",
-        "exchange": "NMS",
-        "price": 312.06,
-        "change_pct": 18.47,
-        "dip30": 0.14,
-        "range52pct": 97.5,
-        "h52": 315.0,
-        "l52": 195.07,
-        "mom5": 2.32,
-        "volume": 70026752,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:18:23.596915"
-    },
-    {
-      "ticker": "LLY",
-      "name": "Eli Lilly and Company",
-      "risk": "speculative",
-      "score": {
-        "total": 3.4,
-        "tech": 0.4,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 0.965,
-          "range52": 0.8400000000000005,
-          "momentum": 1.96
-        }
-      },
-      "price": {
-        "ticker": "LLY",
-        "name": "Eli Lilly and Company",
+        "ticker": "ORCL",
+        "name": "Oracle Corporation",
         "exchange": "NYQ",
-        "price": 1105.0,
-        "change_pct": 22.24,
-        "dip30": 1.93,
-        "range52pct": 91.6,
-        "h52": 1149.1,
-        "l52": 623.78,
-        "mom5": 6.08,
-        "volume": 2603115,
+        "price": 248.15,
+        "change_pct": 41.75,
+        "dip30": -0.0,
+        "range52pct": 53.8,
+        "h52": 345.72,
+        "l52": 134.57,
+        "mom5": 29.19,
+        "volume": 47399653,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:06.071522"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "risk": "speculative",
-      "score": {
-        "total": 3.4,
-        "tech": 0.5,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 0.755,
-          "range52": 0.5099999999999995,
-          "momentum": 3.6100000000000003
-        }
-      },
-      "price": {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing Company Limited",
-        "exchange": "NYQ",
-        "price": 418.45,
-        "change_pct": 15.16,
-        "dip30": 1.51,
-        "range52pct": 94.9,
-        "h52": 430.55,
-        "l52": 192.2,
-        "mom5": 2.78,
-        "volume": 9650857,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-06-01T00:19:53.204768"
+      "updated_at": "2026-06-01T23:13:56.634880"
     },
     {
       "ticker": "QQQ",
@@ -1839,27 +1806,27 @@
         "analyst": 5.0,
         "detail": {
           "dip": -0.0,
-          "range52": 0.15,
-          "momentum": 3.335
+          "range52": 0.12999999999999973,
+          "momentum": 3.245
         }
       },
       "price": {
         "ticker": "QQQ",
         "name": "Invesco QQQ Trust",
         "exchange": "NGM",
-        "price": 738.31,
-        "change_pct": 15.28,
+        "price": 742.74,
+        "change_pct": 14.47,
         "dip30": -0.0,
-        "range52pct": 98.5,
-        "h52": 741.63,
+        "range52pct": 98.7,
+        "h52": 745.64,
         "l52": 515.97,
-        "mom5": 3.33,
-        "volume": 37541668,
+        "mom5": 3.51,
+        "volume": 31432122,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:06.788379"
+      "updated_at": "2026-06-01T23:12:49.471879"
     },
     {
       "ticker": "SOXX",
@@ -1867,32 +1834,32 @@
       "risk": "etf",
       "score": {
         "total": 3.3,
-        "tech": 0.1,
+        "tech": 0.2,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.09,
-          "range52": 0.4099999999999994,
-          "momentum": 0.7699999999999996
+          "dip": -0.0,
+          "range52": 0.32999999999999974,
+          "momentum": 1.7799999999999998
         }
       },
       "price": {
         "ticker": "SOXX",
         "name": "iShares Semiconductor ETF",
         "exchange": "NGM",
-        "price": 569.08,
-        "change_pct": 40.18,
-        "dip30": 0.18,
-        "range52pct": 95.9,
+        "price": 571.93,
+        "change_pct": 37.58,
+        "dip30": -0.0,
+        "range52pct": 96.7,
         "h52": 584.5,
         "l52": 204.29,
-        "mom5": 8.46,
-        "volume": 7323862,
+        "mom5": 6.44,
+        "volume": 6879129,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:12.365188"
+      "updated_at": "2026-06-01T23:12:54.107896"
     },
     {
       "ticker": "XLK",
@@ -1904,28 +1871,28 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.0,
-          "range52": 0.07999999999999971,
-          "momentum": 1.525
+          "dip": -0.0,
+          "range52": 0.09000000000000057,
+          "momentum": 0.7400000000000002
         }
       },
       "price": {
         "ticker": "XLK",
         "name": "State Street Technology Select Sector SPDR ETF",
         "exchange": "PCX",
-        "price": 191.02,
-        "change_pct": 25.65,
-        "dip30": 0.0,
-        "range52pct": 99.2,
-        "h52": 191.63,
+        "price": 195.76,
+        "change_pct": 26.83,
+        "dip30": -0.0,
+        "range52pct": 99.1,
+        "h52": 196.5,
         "l52": 115.01,
-        "mom5": 6.95,
-        "volume": 15025929,
+        "mom5": 8.52,
+        "volume": 18873034,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:18:13.116385"
+      "updated_at": "2026-06-01T23:12:54.726982"
     },
     {
       "ticker": "AVGO",
@@ -1933,32 +1900,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.3,
-        "tech": 0.1,
+        "tech": 0.0,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.0,
-          "range52": 0.1,
-          "momentum": 1.1150000000000002
+          "dip": 0.0,
+          "range52": 0.2700000000000003,
+          "momentum": 0
         }
       },
       "price": {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
         "exchange": "NMS",
-        "price": 446.77,
-        "change_pct": 12.12,
-        "dip30": -0.0,
-        "range52pct": 99.0,
-        "h52": 448.9,
+        "price": 459.97,
+        "change_pct": 13.14,
+        "dip30": 0.0,
+        "range52pct": 97.3,
+        "h52": 465.99,
         "l52": 241.11,
-        "mom5": 7.77,
-        "volume": 41798353,
+        "mom5": 11.07,
+        "volume": 29293019,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:01.317904"
+      "updated_at": "2026-06-01T23:13:36.394835"
     },
     {
       "ticker": "AMD",
@@ -1966,32 +1933,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.3,
-        "tech": 0.1,
+        "tech": 0.2,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.19,
-          "range52": 0.2700000000000003,
-          "momentum": 0
+          "dip": 0.77,
+          "range52": 0.4099999999999994,
+          "momentum": 0.4400000000000004
         }
       },
       "price": {
         "ticker": "AMD",
         "name": "Advanced Micro Devices, Inc.",
         "exchange": "NMS",
-        "price": 516.1,
-        "change_pct": 85.47,
-        "dip30": 0.38,
-        "range52pct": 97.3,
+        "price": 510.13,
+        "change_pct": 83.24,
+        "dip30": 1.54,
+        "range52pct": 95.9,
         "h52": 527.2,
         "l52": 111.01,
-        "mom5": 14.79,
-        "volume": 30803236,
+        "mom5": 9.12,
+        "volume": 33164674,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:10.776026"
+      "updated_at": "2026-06-01T23:13:44.444005"
     },
     {
       "ticker": "SNOW",
@@ -1999,12 +1966,12 @@
       "risk": "speculative",
       "score": {
         "total": 3.3,
-        "tech": 0.2,
+        "tech": 0.0,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
           "dip": 0.0,
-          "range52": 1.55,
+          "range52": 0.2900000000000006,
           "momentum": 0
         }
       },
@@ -2012,19 +1979,19 @@
         "ticker": "SNOW",
         "name": "Snowflake Inc.",
         "exchange": "NYQ",
-        "price": 255.55,
-        "change_pct": 78.02,
+        "price": 280.16,
+        "change_pct": 94.58,
         "dip30": 0.0,
-        "range52pct": 84.5,
-        "h52": 280.67,
+        "range52pct": 97.1,
+        "h52": 284.99,
         "l52": 118.3,
-        "mom5": 54.37,
-        "volume": 17102687,
+        "mom5": 62.69,
+        "volume": 20048988,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:38.918350"
+      "updated_at": "2026-06-01T23:14:08.707249"
     },
     {
       "ticker": "ARM",
@@ -2037,7 +2004,7 @@
         "analyst": 5.0,
         "detail": {
           "dip": 0.0,
-          "range52": 0.12000000000000029,
+          "range52": 0.4,
           "momentum": 0
         }
       },
@@ -2045,19 +2012,52 @@
         "ticker": "ARM",
         "name": "Arm Holdings plc",
         "exchange": "NMS",
-        "price": 353.29,
-        "change_pct": 117.64,
+        "price": 408.85,
+        "change_pct": 145.22,
         "dip30": 0.0,
-        "range52pct": 98.8,
-        "h52": 356.45,
+        "range52pct": 96.0,
+        "h52": 421.69,
         "l52": 100.02,
-        "mom5": 18.46,
-        "volume": 10448329,
+        "mom5": 33.39,
+        "volume": 20449499,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-01T00:19:48.326396"
+      "updated_at": "2026-06-01T23:14:16.742810"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "risk": "speculative",
+      "score": {
+        "total": 3.3,
+        "tech": 0.2,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 0.0,
+          "range52": 0.5400000000000006,
+          "momentum": 1.1549999999999998
+        }
+      },
+      "price": {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Company Limited",
+        "exchange": "NYQ",
+        "price": 435.63,
+        "change_pct": 17.58,
+        "dip30": 0.0,
+        "range52pct": 94.6,
+        "h52": 449.39,
+        "l52": 192.2,
+        "mom5": 7.69,
+        "volume": 17988831,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-06-01T23:14:20.781125"
     }
   ]
 }
