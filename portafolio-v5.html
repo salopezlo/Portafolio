@@ -949,6 +949,7 @@ function go(id){
   if(id==='hist'){_triggerChart('hist-chart',function(){destroyHistChart();setHist('sp',document.getElementById('htab-sp'));});}
   if(id==='calc'){_triggerChart('calc-chart',upCalc);}
   if(id==='fire'){_triggerChart('fire-chart',upFire);}
+  if(id==='scanner'){if(!scannerData)loadScanner();else renderScanner();}
 }
 function refreshAll(){const a=document.querySelector('.page.active');if(!a)return;go(a.id.replace('p-',''));}
 
