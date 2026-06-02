@@ -1,0 +1,204 @@
+================================================================================
+BITÁCORA — PROYECTO PORTAFOLIO DE INVERSIÓN
+Usuario: Santi (Pereira, Colombia)
+Sesiones: 19 mayo 2026 / 20 mayo 2026 / 30 mayo 2026 / 1-2 junio 2026
+================================================================================
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SESIÓN 1 — 19 de mayo de 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Ver bitácora original — sesión 1 completa]
+Entregable: portafolio-v1.html → portafolio-v3.html
+Funciones: Portafolio, Patrimonio Total, Bitácora DCA, Simulador,
+           ETFs & Acciones, Trading vs Inversión, Guía IBKR,
+           localStorage, TRM automático, modo claro/oscuro, CSV
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SESIÓN 2 — 20 de mayo de 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Ver bitácora original — sesión 2 completa]
+Entregable: portafolio-v3.html estable con localStorage, TWR,
+            alertas CDT, rebalanceo, notas y metas, modo claro/oscuro
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SESIÓN 3 — 30 de mayo de 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[Ver bitácora original — sesión 3 completa]
+Entregable: portafolio-v4.html con sidebar, dashboard, 3 calculadoras
+            (Interés Compuesto, Historial & Activos, FIRE)
+Identidad visual: Figtree + DM Mono, acento esmeralda #00c896
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+SESIÓN 4 — 1-2 de junio de 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+REDISEÑO VISUAL v5
+------------------
+[01] Paleta migrada: gold #f0c060 → esmeralda #00c896
+     Tipografía: Syne/IBM Plex Mono → Figtree + DM Mono
+     Fondo: #0a0c0b con tono verde oscuro
+     Hero patrimonio: 2.6rem font-weight:900
+
+[02] Bug crítico resuelto: gráficas Historial/Calculadoras en blanco
+     Causa raíz: Chart.js no puede leer dimensiones de canvas
+     en páginas con display:none al momento de creación
+     Fix: _triggerChart() con IntersectionObserver + canvas dimensions
+     explícitas (responsive:false + width/height hardcoded)
+
+[03] CSS clases faltantes agregadas: .nt y .clabel-inline
+     Estas nunca habían sido definidas — causaban el layout roto
+     de los tabs en Historial & Activos
+
+HISTORIAL & ACTIVOS — rediseño
+-------------------------------
+[04] Gráfica redimensionable con drag handle esmeralda
+     Arrastra el borde derecho para hacer el chart del tamaño que quieras
+     Implementado con mousedown/mousemove/mouseup + chart.resize()
+
+[05] Panel de análisis por activo (2×2 grid compacto):
+     - Tesis de inversión
+     - DCA / Acción recomendada
+     - Por década (retorno + contexto)
+     - Riesgos + TER
+     Se actualiza al seleccionar cada tab (S&P, QQQ, VTI, SCHD, Oro, Bonos, BTC)
+
+[06] Banner de stats ampliado: 1.5rem font-weight:700
+
+ANALIZADOR DE ACTIVOS
+---------------------
+[07] Nueva página "Analizar activo" — cualquier ticker
+     Fuentes: Yahoo Finance v8 (precio) + v7 (fundamentales)
+     Datos: precio, P/E, forward P/E, EPS, beta, dividendo,
+            market cap, volumen, rango 52s, objetivo analistas
+     Score de oportunidad 0-10 con desglose técnico/fundamental/analistas
+     Señal DCA directa + botón → Bitácora
+
+[08] Bug CORS resuelto definitivamente:
+     Causa: file:// origin = null, Yahoo Finance bloquea
+     Solución: servir desde GitHub Pages (origen válido)
+     Alternativa local: ABRIR-PORTAFOLIO.bat (servidor Python)
+
+SCANNER DE OPORTUNIDADES — AGENTE IA
+--------------------------------------
+[09] PRD completo redactado: PRD-scanner-inversiones.md
+     Arquitectura: GitHub Actions → Python → JSON → HTML
+
+[10] scanner.py construido:
+     - Escanea 49 tickers (ETFs + mega cap + large cap)
+     - Yahoo Finance: precio, dip 30d, rango 52s, momentum
+     - FMP API: P/E, FCF yield, revenue growth, debt/equity
+     - Score compuesto: técnico 35% + fundamental 45% + analistas 20%
+     - Gemini 1.5 Flash: narrativa en español para top 10
+     - Commit automático de opportunities.json al repo
+
+[11] GitHub Actions workflow (scanner.yml):
+     - Corre automáticamente: 4:30pm ET, lunes a viernes
+     - También ejecutable manualmente desde Actions tab
+     - Secrets usados: FMP_KEY, GEMINI_KEY
+
+[12] Scanner página en portafolio-v5.html:
+     - Top 5 oportunidades generales
+     - 4 categorías de riesgo: ETF / Mega cap / Large cap / Especulativo
+     - Clic en activo → análisis detallado con score breakdown + narrativa
+     - Cero tokens al hacer clic (lee JSON pre-generado)
+
+GITHUB PAGES — DESPLIEGUE
+--------------------------
+[13] Repo: github.com/salopezlo/Portafolio (público)
+     URL: salopezlo.github.io/Portafolio/portafolio-v5.html
+     Rama: main / root
+
+[14] Secrets configurados en GitHub:
+     - FMP_KEY: Financial Modeling Prep (gratis 250 calls/día)
+     - GEMINI_KEY: Google AI Studio (gratis, tier gratuito)
+     - ANTHROPIC_KEY: guardada pero no usada actualmente
+
+[15] API migración: Claude Haiku → Gemini 1.5 Flash
+     Razón: tier gratuito de Gemini, cero costo para narrativas
+     Costo anterior: ~$0.90/mes → Costo actual: $0
+
+BUGS RESUELTOS EN SESIÓN 4
+---------------------------
+[16] scanner trigger faltante en go() → loadScanner() nunca se llamaba
+     Fix: agregado if(id==='scanner') en la función go()
+
+[17] git push rechazado repetidamente
+     Causa: scanner auto-commitea opportunities.json al repo
+     Solución estándar: git pull --rebase → git push
+
+ARCHIVOS EN C:\Users\SANTI Y LUI\Cowork\Portafolio\
+----------------------------------------------------
+  portafolio-v5.html      — app principal (174KB, 13 páginas)
+  portafolio-v4.html      — backup versión estable anterior
+  scanner.py              — agente Python diario
+  .github/workflows/      — scanner.yml (GitHub Actions)
+  PRD-scanner-inversiones.md — plan del proyecto
+  ABRIR-PORTAFOLIO.bat    — servidor local para desarrollo
+  bitacora-portafolio-santi.txt — este archivo
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ESTADO ACTUAL (2 junio 2026)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FUNCIONALIDADES COMPLETAS:
+  ✓ Dashboard con patrimonio total, alertas, gráficos
+  ✓ Mi Portafolio (3 perfiles: Agresivo/Moderado/Conservador)
+  ✓ Patrimonio Total (RV + CDTs + Ahorros + Trading)
+  ✓ Bitácora DCA (registro, WAP, G/P, TWR)
+  ✓ Simulador de interés compuesto
+  ✓ ETFs & Acciones (comparativa histórica)
+  ✓ Historial & Activos (gráfica redimensionable + análisis por activo)
+  ✓ Interés Compuesto (calculadora interactiva)
+  ✓ Vivir de inversiones (FIRE calculator)
+  ✓ Trading vs Inversión (educativo)
+  ✓ Guía IBKR
+  ✓ Analizar activo (Yahoo Finance + score de oportunidad)
+  ✓ Scanner mercado (agente diario, Gemini AI, 49 tickers)
+  ✓ GitHub Pages (acceso desde cualquier dispositivo)
+  ✓ GitHub Actions (agente corre solo lunes-viernes)
+
+PENDIENTE PRÓXIMA SESIÓN:
+  □ Reglas del portafolio — más detalladas y explicativas
+  □ Gráfico de distribución satélites + acciones principales
+  □ Actualizar Node.js 20 → 24 en scanner.yml (warning GitHub Actions)
+  □ Evaluar ampliar universo del scanner (S&P 500 completo)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PERFIL DE INVERSIÓN DE SANTI
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Broker inversión:  Interactive Brokers (IBKR) — cuenta activa
+Broker trading:    Pepperstone — MT5, metodología SMC/ICT
+Capital actual:    ~$1,000 USD en trading
+Perfil:            Agresivo
+Horizonte:         Largo plazo (20+ años)
+Aporte mensual:    % de profits del trading (mín. 20%)
+
+PORTAFOLIO OBJETIVO (Perfil Agresivo):
+  VOO  30% — Core — Vanguard S&P 500 ETF — TER 0.03%
+  QQQ  20% — Core — Invesco Nasdaq-100 — TER 0.20%
+  NVDA 12% — Satélite — NVIDIA Corporation
+  MSFT 10% — Satélite — Microsoft Corporation
+  AMZN 10% — Satélite — Amazon.com Inc.
+  META  8% — Satélite — Meta Platforms Inc.
+  VIG  10% — Dividendos — Vanguard Dividend Appreciation ETF
+
+Rendimiento esperado: ~13.5% anual
+Con $200/mes en 20 años: ~$198,000 USD
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+REGLAS DEL PORTAFOLIO (acordadas)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1. Core es intocable — VOO y QQQ nunca se venden.
+2. Satélites: revisión cada 6 meses. Si la tesis cambia, se rota.
+3. Mercado cae 20%+: se compra más, no se vende.
+4. Mínimo 20% de cada profit de trading va directo a VOO.
+5. Revisión máximo 1 vez al mes (evitar decisiones emocionales).
+
+================================================================================
+Generado: 2 de junio de 2026
+================================================================================
