@@ -15,7 +15,7 @@ import urllib.request, urllib.parse
 # CONFIG
 # ══════════════════════════════════════════════
 FMP_KEY       = os.environ.get("FMP_KEY", "")
-ANTHROPIC_KEY = os.environ.get("ANTHROPIC_KEY", "")
+GEMINI_KEY    = os.environ.get("GEMINI_KEY", "")
 
 # Universo completo a escanear
 ETF_UNIVERSE = [
@@ -282,8 +282,8 @@ def is_etf(ticker):
 # 5. ANÁLISIS NARRATIVO — Claude API
 # ══════════════════════════════════════════════
 def generate_narrative(ticker, name, price_data, fund_data, score_data):
-    """Genera análisis narrativo en español usando Claude API."""
-    if not ANTHROPIC_KEY:
+    """Genera análisis narrativo en español usando Gemini API."""
+    if not GEMINI_KEY:
         return None
 
     # Construir contexto financiero
@@ -330,29 +330,24 @@ Genera un análisis financiero conciso en español (máximo 250 palabras) con es
 
 Usa lenguaje claro y directo. Evita clichés financieros. Los términos técnicos en español."""
 
-    # Llamar Claude API
+    # Llamar Gemini API
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={GEMINI_KEY}"
     payload = json.dumps({
-        "model": "claude-haiku-4-5-20251001",
-        "max_tokens": 600,
-        "messages": [{"role": "user", "content": prompt}]
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"maxOutputTokens": 600, "temperature": 0.7}
     }).encode()
 
     try:
         req = urllib.request.Request(
-            "https://api.anthropic.com/v1/messages",
-            data=payload,
-            headers={
-                "x-api-key": ANTHROPIC_KEY,
-                "anthropic-version": "2023-06-01",
-                "content-type": "application/json"
-            },
+            url, data=payload,
+            headers={"Content-Type": "application/json"},
             method="POST"
         )
         with urllib.request.urlopen(req, timeout=30) as r:
             resp = json.loads(r.read().decode())
-            return resp["content"][0]["text"]
+            return resp["candidates"][0]["content"]["parts"][0]["text"]
     except Exception as e:
-        print(f"  ⚠️  Claude API error para {ticker}: {e}")
+        print(f"  ⚠️  Gemini API error para {ticker}: {e}")
         return None
 
 
@@ -362,7 +357,7 @@ Usa lenguaje claro y directo. Evita clichés financieros. Los términos técnico
 def main():
     print(f"\n🚀 Scanner iniciado — {datetime.datetime.now().strftime('%Y-%m-%d %H:%M')} UTC")
     print(f"   FMP API: {'✅' if FMP_KEY else '❌ no configurada'}")
-    print(f"   Claude API: {'✅' if ANTHROPIC_KEY else '❌ no configurada'}")
+    print(f"   Gemini API: {'✅' if GEMINI_KEY else '❌ no configurada'}")
     print(f"   Tickers a analizar: {len(ALL_TICKERS)}\n")
 
     results = []
@@ -406,7 +401,7 @@ def main():
     results.sort(key=lambda x: x["score"]["total"], reverse=True)
 
     # Generar narrativas solo para top 10 (ahorra costo Claude API)
-    if ANTHROPIC_KEY:
+    if GEMINI_KEY:
         print("\n📝 Generando análisis narrativos (top 10)...")
         for item in results[:10]:
             print(f"  Claude → {item['ticker']}...", end=" ")

@@ -25,6 +25,7 @@ jobs:
       - name: Correr scanner
         env:
           FMP_KEY: ${{ secrets.FMP_KEY }}
+          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
           ANTHROPIC_KEY: ${{ secrets.ANTHROPIC_KEY }}
         run: python scanner.py
 
