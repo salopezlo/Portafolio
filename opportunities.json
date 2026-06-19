@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T23:18:07.805091",
-  "market_date": "2026-06-18",
+  "generated_at": "2026-06-19T22:32:01.413241",
+  "market_date": "2026-06-19",
   "total_scanned": 49,
   "top5": [
     {
@@ -34,7 +34,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:33.449299"
+      "updated_at": "2026-06-19T22:30:36.540607"
     },
     {
       "ticker": "ADBE",
@@ -67,7 +67,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:43.203496"
+      "updated_at": "2026-06-19T22:30:45.028824"
     },
     {
       "ticker": "NOW",
@@ -100,7 +100,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:47.997812"
+      "updated_at": "2026-06-19T22:30:49.400260"
     },
     {
       "ticker": "IBIT",
@@ -133,7 +133,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:27.381851"
+      "updated_at": "2026-06-19T22:29:37.873531"
     },
     {
       "ticker": "MSFT",
@@ -166,7 +166,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:39.575700"
+      "updated_at": "2026-06-19T22:29:49.683501"
     }
   ],
   "by_risk": {
@@ -202,7 +202,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:15:27.381851"
+        "updated_at": "2026-06-19T22:29:37.873531"
       },
       {
         "ticker": "SLV",
@@ -235,7 +235,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:15:23.809250"
+        "updated_at": "2026-06-19T22:29:34.137831"
       },
       {
         "ticker": "XLE",
@@ -268,7 +268,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:15:26.189456"
+        "updated_at": "2026-06-19T22:29:36.640254"
       },
       {
         "ticker": "GLD",
@@ -301,7 +301,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:15:23.200861"
+        "updated_at": "2026-06-19T22:29:33.539491"
       },
       {
         "ticker": "BND",
@@ -334,7 +334,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:15:27.980657"
+        "updated_at": "2026-06-19T22:29:38.518472"
       }
     ],
     "mega": [],
@@ -371,7 +371,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:16:33.449299"
+        "updated_at": "2026-06-19T22:30:36.540607"
       },
       {
         "ticker": "ADBE",
@@ -404,7 +404,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:16:43.203496"
+        "updated_at": "2026-06-19T22:30:45.028824"
       },
       {
         "ticker": "NOW",
@@ -437,7 +437,7 @@
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-06-18T23:16:47.997812"
+        "updated_at": "2026-06-19T22:30:49.400260"
       }
     ]
   },
@@ -473,7 +473,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:33.449299"
+      "updated_at": "2026-06-19T22:30:36.540607"
     },
     {
       "ticker": "ADBE",
@@ -506,7 +506,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:43.203496"
+      "updated_at": "2026-06-19T22:30:45.028824"
     },
     {
       "ticker": "NOW",
@@ -539,7 +539,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:47.997812"
+      "updated_at": "2026-06-19T22:30:49.400260"
     },
     {
       "ticker": "IBIT",
@@ -572,7 +572,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:27.381851"
+      "updated_at": "2026-06-19T22:29:37.873531"
     },
     {
       "ticker": "MSFT",
@@ -605,7 +605,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:39.575700"
+      "updated_at": "2026-06-19T22:29:49.683501"
     },
     {
       "ticker": "PLTR",
@@ -638,7 +638,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:57.585002"
+      "updated_at": "2026-06-19T22:30:57.761756"
     },
     {
       "ticker": "SLV",
@@ -671,7 +671,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:23.809250"
+      "updated_at": "2026-06-19T22:29:34.137831"
     },
     {
       "ticker": "NFLX",
@@ -704,7 +704,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:28.582470"
+      "updated_at": "2026-06-19T22:30:32.356627"
     },
     {
       "ticker": "ORCL",
@@ -737,7 +737,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:38.242590"
+      "updated_at": "2026-06-19T22:30:40.737893"
     },
     {
       "ticker": "XLE",
@@ -770,7 +770,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:26.189456"
+      "updated_at": "2026-06-19T22:29:36.640254"
     },
     {
       "ticker": "SNOW",
@@ -803,7 +803,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:52.765277"
+      "updated_at": "2026-06-19T22:30:53.580791"
     },
     {
       "ticker": "COST",
@@ -836,7 +836,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:36.345763"
+      "updated_at": "2026-06-19T22:31:32.613868"
     },
     {
       "ticker": "GLD",
@@ -869,7 +869,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:23.200861"
+      "updated_at": "2026-06-19T22:29:33.539491"
     },
     {
       "ticker": "META",
@@ -902,7 +902,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:59.222801"
+      "updated_at": "2026-06-19T22:30:06.988304"
     },
     {
       "ticker": "WMT",
@@ -935,7 +935,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:41.199139"
+      "updated_at": "2026-06-19T22:31:36.863031"
     },
     {
       "ticker": "AMZN",
@@ -968,7 +968,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:49.228044"
+      "updated_at": "2026-06-19T22:29:58.173829"
     },
     {
       "ticker": "TSLA",
@@ -1001,7 +1001,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:04.407117"
+      "updated_at": "2026-06-19T22:30:11.200345"
     },
     {
       "ticker": "AVGO",
@@ -1034,7 +1034,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:14.001847"
+      "updated_at": "2026-06-19T22:30:19.631070"
     },
     {
       "ticker": "MA",
@@ -1067,7 +1067,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:21.882681"
+      "updated_at": "2026-06-19T22:31:18.968193"
     },
     {
       "ticker": "BND",
@@ -1100,7 +1100,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:27.980657"
+      "updated_at": "2026-06-19T22:29:38.518472"
     },
     {
       "ticker": "AGG",
@@ -1133,7 +1133,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:28.582859"
+      "updated_at": "2026-06-19T22:29:39.334229"
     },
     {
       "ticker": "NVDA",
@@ -1166,7 +1166,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:44.428716"
+      "updated_at": "2026-06-19T22:29:53.998641"
     },
     {
       "ticker": "LLY",
@@ -1199,7 +1199,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:18.885081"
+      "updated_at": "2026-06-19T22:30:23.937600"
     },
     {
       "ticker": "HD",
@@ -1232,7 +1232,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:31.543273"
+      "updated_at": "2026-06-19T22:31:27.454023"
     },
     {
       "ticker": "JNJ",
@@ -1265,7 +1265,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:50.949557"
+      "updated_at": "2026-06-19T22:31:45.434608"
     },
     {
       "ticker": "KO",
@@ -1298,7 +1298,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:55.801932"
+      "updated_at": "2026-06-19T22:31:49.722054"
     },
     {
       "ticker": "SCHD",
@@ -1331,7 +1331,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:22.046120"
+      "updated_at": "2026-06-19T22:29:32.397971"
     },
     {
       "ticker": "VNQ",
@@ -1364,7 +1364,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:29.178181"
+      "updated_at": "2026-06-19T22:29:39.970848"
     },
     {
       "ticker": "AAPL",
@@ -1397,7 +1397,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:34.706310"
+      "updated_at": "2026-06-19T22:29:45.281454"
     },
     {
       "ticker": "GOOGL",
@@ -1430,7 +1430,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:54.063091"
+      "updated_at": "2026-06-19T22:30:02.563323"
     },
     {
       "ticker": "BRK-B",
@@ -1463,7 +1463,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:09.206748"
+      "updated_at": "2026-06-19T22:30:15.396962"
     },
     {
       "ticker": "V",
@@ -1496,7 +1496,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:17.054517"
+      "updated_at": "2026-06-19T22:31:14.740062"
     },
     {
       "ticker": "PG",
@@ -1529,7 +1529,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:46.104376"
+      "updated_at": "2026-06-19T22:31:41.105761"
     },
     {
       "ticker": "SPY",
@@ -1562,7 +1562,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:20.838559"
+      "updated_at": "2026-06-19T22:29:31.066095"
     },
     {
       "ticker": "IVV",
@@ -1595,7 +1595,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:21.458238"
+      "updated_at": "2026-06-19T22:29:31.719663"
     },
     {
       "ticker": "XLK",
@@ -1628,7 +1628,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:24.997476"
+      "updated_at": "2026-06-19T22:29:35.407231"
     },
     {
       "ticker": "XLF",
@@ -1661,7 +1661,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:25.593099"
+      "updated_at": "2026-06-19T22:29:36.046538"
     },
     {
       "ticker": "ARKK",
@@ -1694,7 +1694,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:26.815346"
+      "updated_at": "2026-06-19T22:29:37.244626"
     },
     {
       "ticker": "JPM",
@@ -1727,7 +1727,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:12.247574"
+      "updated_at": "2026-06-19T22:31:10.485300"
     },
     {
       "ticker": "UNH",
@@ -1760,7 +1760,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:26.704978"
+      "updated_at": "2026-06-19T22:31:23.230553"
     },
     {
       "ticker": "VOO",
@@ -1793,7 +1793,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:19.030441"
+      "updated_at": "2026-06-19T22:29:29.269379"
     },
     {
       "ticker": "QQQ",
@@ -1826,7 +1826,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:19.629051"
+      "updated_at": "2026-06-19T22:29:29.876083"
     },
     {
       "ticker": "VTI",
@@ -1859,7 +1859,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:20.241248"
+      "updated_at": "2026-06-19T22:29:30.464053"
     },
     {
       "ticker": "VIG",
@@ -1892,7 +1892,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:22.632329"
+      "updated_at": "2026-06-19T22:29:32.981500"
     },
     {
       "ticker": "VWO",
@@ -1925,7 +1925,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:29.775350"
+      "updated_at": "2026-06-19T22:29:40.577840"
     },
     {
       "ticker": "SOXX",
@@ -1950,7 +1950,7 @@
         "change_pct": 26.16,
         "dip30": 0.0,
         "range52pct": 98.8,
-        "h52": 644.39,
+        "h52": 644.43,
         "l52": 221.86,
         "mom5": 8.95,
         "volume": 9499491,
@@ -1958,7 +1958,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:15:24.396691"
+      "updated_at": "2026-06-19T22:29:34.767632"
     },
     {
       "ticker": "AMD",
@@ -1991,7 +1991,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:16:23.786236"
+      "updated_at": "2026-06-19T22:30:28.191940"
     },
     {
       "ticker": "ARM",
@@ -2004,7 +2004,7 @@
         "analyst": 5.0,
         "detail": {
           "dip": -0.0,
-          "range52": 0.3700000000000003,
+          "range52": 0.3799999999999997,
           "momentum": 0
         }
       },
@@ -2015,8 +2015,8 @@
         "price": 439.46,
         "change_pct": 85.19,
         "dip30": -0.0,
-        "range52pct": 96.3,
-        "h52": 452.61,
+        "range52pct": 96.2,
+        "h52": 452.7,
         "l52": 100.02,
         "mom5": 28.41,
         "volume": 34177532,
@@ -2024,7 +2024,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:02.570239"
+      "updated_at": "2026-06-19T22:31:02.023199"
     },
     {
       "ticker": "TSM",
@@ -2049,7 +2049,7 @@
         "change_pct": 10.16,
         "dip30": -0.0,
         "range52pct": 98.8,
-        "h52": 465.2,
+        "h52": 465.22,
         "l52": 206.2,
         "mom5": 9.75,
         "volume": 16178928,
@@ -2057,7 +2057,7 @@
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-06-18T23:17:07.412639"
+      "updated_at": "2026-06-19T22:31:06.255006"
     }
   ]
 }
