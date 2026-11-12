@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T01:23:02.932359",
-  "market_date": "2026-11-11",
+  "generated_at": "2026-11-12T02:23:49.010445",
+  "market_date": "2026-11-12",
   "total_scanned": 49,
   "top5": [
     {
@@ -8,13 +8,13 @@
       "name": "NVIDIA Corporation",
       "risk": "speculative",
       "score": {
-        "total": 4.5,
+        "total": 4.4,
         "tech": 3.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
           "dip": 10,
-          "range52": 9.42,
+          "range52": 8.8,
           "momentum": 10
         }
       },
@@ -22,52 +22,19 @@
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
         "exchange": "NMS",
-        "price": 168.89,
-        "change_pct": -25.67,
-        "dip30": 29.41,
-        "range52pct": 5.8,
+        "price": 173.73,
+        "change_pct": -23.93,
+        "dip30": 27.38,
+        "range52pct": 12.0,
         "h52": 243.37,
         "l52": 164.27,
-        "mom5": -16.42,
-        "volume": 427096957,
+        "mom5": -15.95,
+        "volume": 281514030,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:43.137270"
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corporation",
-      "risk": "speculative",
-      "score": {
-        "total": 4.3,
-        "tech": 3.0,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 9.255,
-          "range52": 9.379999999999999,
-          "momentum": 5.52
-        }
-      },
-      "price": {
-        "ticker": "ORCL",
-        "name": "Oracle Corporation",
-        "exchange": "NYQ",
-        "price": 117.98,
-        "change_pct": -14.38,
-        "dip30": 18.51,
-        "range52pct": 6.2,
-        "h52": 250.25,
-        "l52": 109.21,
-        "mom5": -1.04,
-        "volume": 22980964,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:34.948325"
+      "updated_at": "2026-11-12T02:21:30.687395"
     },
     {
       "ticker": "NOW",
@@ -80,60 +47,27 @@
         "analyst": 5.0,
         "detail": {
           "dip": 10,
-          "range52": 8.040000000000001,
-          "momentum": 8.02
+          "range52": 7.7,
+          "momentum": 7.93
         }
       },
       "price": {
         "ticker": "NOW",
         "name": "ServiceNow, Inc.",
         "exchange": "NYQ",
-        "price": 99.61,
-        "change_pct": -23.34,
-        "dip30": 37.34,
-        "range52pct": 19.6,
+        "price": 102.76,
+        "change_pct": -23.32,
+        "dip30": 35.35,
+        "range52pct": 23.0,
         "h52": 175.0,
         "l52": 81.24,
-        "mom5": -6.04,
-        "volume": 18918996,
+        "mom5": -5.86,
+        "volume": 14404875,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:44.324140"
-    },
-    {
-      "ticker": "ARM",
-      "name": "Arm Holdings plc",
-      "risk": "speculative",
-      "score": {
-        "total": 4.3,
-        "tech": 3.1,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 10,
-          "range52": 7.69,
-          "momentum": 8.885
-        }
-      },
-      "price": {
-        "ticker": "ARM",
-        "name": "Arm Holdings plc",
-        "exchange": "NMS",
-        "price": 181.49,
-        "change_pct": -38.2,
-        "dip30": 40.98,
-        "range52pct": 23.1,
-        "h52": 452.7,
-        "l52": 100.02,
-        "mom5": -7.77,
-        "volume": 4220232,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:58.464797"
+      "updated_at": "2026-11-12T02:22:31.816258"
     },
     {
       "ticker": "SLV",
@@ -141,32 +75,98 @@
       "risk": "etf",
       "score": {
         "total": 4.2,
-        "tech": 2.7,
+        "tech": 2.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 8.09,
-          "range52": 9.64,
-          "momentum": 4.0
+          "dip": 7.935,
+          "range52": 9.61,
+          "momentum": 2.98
         }
       },
       "price": {
         "ticker": "SLV",
         "name": "iShares Silver Trust",
         "exchange": "PCX",
-        "price": 46.48,
-        "change_pct": -16.22,
-        "dip30": 16.18,
-        "range52pct": 3.6,
+        "price": 46.65,
+        "change_pct": -14.42,
+        "dip30": 15.87,
+        "range52pct": 3.9,
         "h52": 109.83,
         "l52": 44.11,
-        "mom5": 2.0,
-        "volume": 16180112,
+        "mom5": 4.04,
+        "volume": 11677616,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:23.218180"
+      "updated_at": "2026-11-12T02:21:09.818492"
+    },
+    {
+      "ticker": "ARM",
+      "name": "Arm Holdings plc",
+      "risk": "speculative",
+      "score": {
+        "total": 4.2,
+        "tech": 2.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 10,
+          "range52": 7.07,
+          "momentum": 4.785
+        }
+      },
+      "price": {
+        "ticker": "ARM",
+        "name": "Arm Holdings plc",
+        "exchange": "NMS",
+        "price": 203.36,
+        "change_pct": -29.79,
+        "dip30": 33.86,
+        "range52pct": 29.3,
+        "h52": 452.7,
+        "l52": 100.02,
+        "mom5": 0.43,
+        "volume": 6736054,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:45.850396"
+    },
+    {
+      "ticker": "SOXX",
+      "name": "iShares Semiconductor ETF",
+      "risk": "etf",
+      "score": {
+        "total": 4.1,
+        "tech": 2.5,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 10,
+          "range52": 4.8,
+          "momentum": 4.87
+        }
+      },
+      "price": {
+        "ticker": "SOXX",
+        "name": "iShares Semiconductor ETF",
+        "exchange": "NGM",
+        "price": 155.4,
+        "change_pct": -18.02,
+        "dip30": 20.92,
+        "range52pct": 52.0,
+        "h52": 218.65,
+        "l52": 86.81,
+        "mom5": 0.26,
+        "volume": 48930559,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:10.514466"
     }
   ],
   "by_risk": {
@@ -177,131 +177,65 @@
         "risk": "etf",
         "score": {
           "total": 4.2,
-          "tech": 2.7,
+          "tech": 2.6,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 8.09,
-            "range52": 9.64,
-            "momentum": 4.0
+            "dip": 7.935,
+            "range52": 9.61,
+            "momentum": 2.98
           }
         },
         "price": {
           "ticker": "SLV",
           "name": "iShares Silver Trust",
           "exchange": "PCX",
-          "price": 46.48,
-          "change_pct": -16.22,
-          "dip30": 16.18,
-          "range52pct": 3.6,
+          "price": 46.65,
+          "change_pct": -14.42,
+          "dip30": 15.87,
+          "range52pct": 3.9,
           "h52": 109.83,
           "l52": 44.11,
-          "mom5": 2.0,
-          "volume": 16180112,
+          "mom5": 4.04,
+          "volume": 11677616,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-11-11T01:20:23.218180"
+        "updated_at": "2026-11-12T02:21:09.818492"
       },
       {
         "ticker": "SOXX",
         "name": "iShares Semiconductor ETF",
         "risk": "etf",
         "score": {
-          "total": 4.2,
-          "tech": 2.7,
+          "total": 4.1,
+          "tech": 2.5,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
             "dip": 10,
-            "range52": 5.470000000000001,
-            "momentum": 6.53
+            "range52": 4.8,
+            "momentum": 4.87
           }
         },
         "price": {
           "ticker": "SOXX",
           "name": "iShares Semiconductor ETF",
           "exchange": "NGM",
-          "price": 146.59,
-          "change_pct": -22.5,
-          "dip30": 25.4,
-          "range52pct": 45.3,
+          "price": 155.4,
+          "change_pct": -18.02,
+          "dip30": 20.92,
+          "range52pct": 52.0,
           "h52": 218.65,
           "l52": 86.81,
-          "mom5": -3.06,
-          "volume": 36447896,
+          "mom5": 0.26,
+          "volume": 48930559,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-11-11T01:20:23.796485"
-      },
-      {
-        "ticker": "XLK",
-        "name": "State Street Technology Select Sector SPDR ETF",
-        "risk": "etf",
-        "score": {
-          "total": 4.1,
-          "tech": 2.3,
-          "fund": 5.0,
-          "analyst": 5.0,
-          "detail": {
-            "dip": 8.19,
-            "range52": 4.4799999999999995,
-            "momentum": 6.525
-          }
-        },
-        "price": {
-          "ticker": "XLK",
-          "name": "State Street Technology Select Sector SPDR ETF",
-          "exchange": "PCX",
-          "price": 168.91,
-          "change_pct": -13.16,
-          "dip30": 16.38,
-          "range52pct": 55.2,
-          "h52": 203.25,
-          "l52": 126.68,
-          "mom5": -3.05,
-          "volume": 10398178,
-          "market_cap": 0
-        },
-        "fundamentals": {},
-        "narrative": null,
-        "updated_at": "2026-11-11T01:20:24.372032"
-      },
-      {
-        "ticker": "ARKK",
-        "name": "ARK Innovation ETF",
-        "risk": "etf",
-        "score": {
-          "total": 4.1,
-          "tech": 2.4,
-          "fund": 5.0,
-          "analyst": 5.0,
-          "detail": {
-            "dip": 8.45,
-            "range52": 5.5600000000000005,
-            "momentum": 6.18
-          }
-        },
-        "price": {
-          "ticker": "ARKK",
-          "name": "ARK Innovation ETF",
-          "exchange": "BTS",
-          "price": 77.1,
-          "change_pct": -13.81,
-          "dip30": 16.9,
-          "range52pct": 44.4,
-          "h52": 94.82,
-          "l52": 62.95,
-          "mom5": -2.36,
-          "volume": 3995501,
-          "market_cap": 0
-        },
-        "fundamentals": {},
-        "narrative": null,
-        "updated_at": "2026-11-11T01:20:26.070565"
+        "updated_at": "2026-11-12T02:21:10.514466"
       },
       {
         "ticker": "IBIT",
@@ -309,32 +243,98 @@
         "risk": "etf",
         "score": {
           "total": 4.1,
-          "tech": 2.4,
+          "tech": 2.3,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
-            "dip": 7.085,
-            "range52": 6.69,
-            "momentum": 6.925
+            "dip": 6.505,
+            "range52": 6.4799999999999995,
+            "momentum": 7.055
           }
         },
         "price": {
           "ticker": "IBIT",
           "name": "iShares Bitcoin Trust ETF",
           "exchange": "NGM",
-          "price": 41.68,
-          "change_pct": -11.94,
-          "dip30": 14.17,
-          "range52pct": 33.1,
+          "price": 42.24,
+          "change_pct": -10.77,
+          "dip30": 13.01,
+          "range52pct": 35.2,
           "h52": 59.56,
           "l52": 32.84,
-          "mom5": -3.85,
-          "volume": 39312806,
+          "mom5": -4.11,
+          "volume": 42042496,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-11-11T01:20:26.624088"
+        "updated_at": "2026-11-12T02:21:13.793971"
+      },
+      {
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "risk": "etf",
+        "score": {
+          "total": 4.0,
+          "tech": 2.3,
+          "fund": 5.0,
+          "analyst": 5.0,
+          "detail": {
+            "dip": 7.71,
+            "range52": 5.13,
+            "momentum": 6.15
+          }
+        },
+        "price": {
+          "ticker": "ARKK",
+          "name": "ARK Innovation ETF",
+          "exchange": "BTS",
+          "price": 78.47,
+          "change_pct": -11.93,
+          "dip30": 15.42,
+          "range52pct": 48.7,
+          "h52": 94.82,
+          "l52": 62.95,
+          "mom5": -2.3,
+          "volume": 5188491,
+          "market_cap": 0
+        },
+        "fundamentals": {},
+        "narrative": null,
+        "updated_at": "2026-11-12T02:21:13.182472"
+      },
+      {
+        "ticker": "GLD",
+        "name": "SPDR Gold Shares",
+        "risk": "etf",
+        "score": {
+          "total": 3.9,
+          "tech": 1.8,
+          "fund": 5.0,
+          "analyst": 5.0,
+          "detail": {
+            "dip": 2.525,
+            "range52": 9.32,
+            "momentum": 4.175
+          }
+        },
+        "price": {
+          "ticker": "GLD",
+          "name": "SPDR Gold Shares",
+          "exchange": "PCX",
+          "price": 365.17,
+          "change_pct": -4.11,
+          "dip30": 5.05,
+          "range52pct": 6.8,
+          "h52": 509.7,
+          "l52": 354.67,
+          "mom5": 1.65,
+          "volume": 5741895,
+          "market_cap": 0
+        },
+        "fundamentals": {},
+        "narrative": null,
+        "updated_at": "2026-11-12T02:21:09.194886"
       }
     ],
     "mega": [],
@@ -345,13 +345,13 @@
         "name": "NVIDIA Corporation",
         "risk": "speculative",
         "score": {
-          "total": 4.5,
+          "total": 4.4,
           "tech": 3.4,
           "fund": 5.0,
           "analyst": 5.0,
           "detail": {
             "dip": 10,
-            "range52": 9.42,
+            "range52": 8.8,
             "momentum": 10
           }
         },
@@ -359,52 +359,19 @@
           "ticker": "NVDA",
           "name": "NVIDIA Corporation",
           "exchange": "NMS",
-          "price": 168.89,
-          "change_pct": -25.67,
-          "dip30": 29.41,
-          "range52pct": 5.8,
+          "price": 173.73,
+          "change_pct": -23.93,
+          "dip30": 27.38,
+          "range52pct": 12.0,
           "h52": 243.37,
           "l52": 164.27,
-          "mom5": -16.42,
-          "volume": 427096957,
+          "mom5": -15.95,
+          "volume": 281514030,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-11-11T01:20:43.137270"
-      },
-      {
-        "ticker": "ORCL",
-        "name": "Oracle Corporation",
-        "risk": "speculative",
-        "score": {
-          "total": 4.3,
-          "tech": 3.0,
-          "fund": 5.0,
-          "analyst": 5.0,
-          "detail": {
-            "dip": 9.255,
-            "range52": 9.379999999999999,
-            "momentum": 5.52
-          }
-        },
-        "price": {
-          "ticker": "ORCL",
-          "name": "Oracle Corporation",
-          "exchange": "NYQ",
-          "price": 117.98,
-          "change_pct": -14.38,
-          "dip30": 18.51,
-          "range52pct": 6.2,
-          "h52": 250.25,
-          "l52": 109.21,
-          "mom5": -1.04,
-          "volume": 22980964,
-          "market_cap": 0
-        },
-        "fundamentals": {},
-        "narrative": null,
-        "updated_at": "2026-11-11T01:21:34.948325"
+        "updated_at": "2026-11-12T02:21:30.687395"
       },
       {
         "ticker": "NOW",
@@ -417,27 +384,60 @@
           "analyst": 5.0,
           "detail": {
             "dip": 10,
-            "range52": 8.040000000000001,
-            "momentum": 8.02
+            "range52": 7.7,
+            "momentum": 7.93
           }
         },
         "price": {
           "ticker": "NOW",
           "name": "ServiceNow, Inc.",
           "exchange": "NYQ",
-          "price": 99.61,
-          "change_pct": -23.34,
-          "dip30": 37.34,
-          "range52pct": 19.6,
+          "price": 102.76,
+          "change_pct": -23.32,
+          "dip30": 35.35,
+          "range52pct": 23.0,
           "h52": 175.0,
           "l52": 81.24,
-          "mom5": -6.04,
-          "volume": 18918996,
+          "mom5": -5.86,
+          "volume": 14404875,
           "market_cap": 0
         },
         "fundamentals": {},
         "narrative": null,
-        "updated_at": "2026-11-11T01:21:44.324140"
+        "updated_at": "2026-11-12T02:22:31.816258"
+      },
+      {
+        "ticker": "ARM",
+        "name": "Arm Holdings plc",
+        "risk": "speculative",
+        "score": {
+          "total": 4.2,
+          "tech": 2.7,
+          "fund": 5.0,
+          "analyst": 5.0,
+          "detail": {
+            "dip": 10,
+            "range52": 7.07,
+            "momentum": 4.785
+          }
+        },
+        "price": {
+          "ticker": "ARM",
+          "name": "Arm Holdings plc",
+          "exchange": "NMS",
+          "price": 203.36,
+          "change_pct": -29.79,
+          "dip30": 33.86,
+          "range52pct": 29.3,
+          "h52": 452.7,
+          "l52": 100.02,
+          "mom5": 0.43,
+          "volume": 6736054,
+          "market_cap": 0
+        },
+        "fundamentals": {},
+        "narrative": null,
+        "updated_at": "2026-11-12T02:22:45.850396"
       }
     ]
   },
@@ -447,13 +447,13 @@
       "name": "NVIDIA Corporation",
       "risk": "speculative",
       "score": {
-        "total": 4.5,
+        "total": 4.4,
         "tech": 3.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
           "dip": 10,
-          "range52": 9.42,
+          "range52": 8.8,
           "momentum": 10
         }
       },
@@ -461,52 +461,19 @@
         "ticker": "NVDA",
         "name": "NVIDIA Corporation",
         "exchange": "NMS",
-        "price": 168.89,
-        "change_pct": -25.67,
-        "dip30": 29.41,
-        "range52pct": 5.8,
+        "price": 173.73,
+        "change_pct": -23.93,
+        "dip30": 27.38,
+        "range52pct": 12.0,
         "h52": 243.37,
         "l52": 164.27,
-        "mom5": -16.42,
-        "volume": 427096957,
+        "mom5": -15.95,
+        "volume": 281514030,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:43.137270"
-    },
-    {
-      "ticker": "ORCL",
-      "name": "Oracle Corporation",
-      "risk": "speculative",
-      "score": {
-        "total": 4.3,
-        "tech": 3.0,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 9.255,
-          "range52": 9.379999999999999,
-          "momentum": 5.52
-        }
-      },
-      "price": {
-        "ticker": "ORCL",
-        "name": "Oracle Corporation",
-        "exchange": "NYQ",
-        "price": 117.98,
-        "change_pct": -14.38,
-        "dip30": 18.51,
-        "range52pct": 6.2,
-        "h52": 250.25,
-        "l52": 109.21,
-        "mom5": -1.04,
-        "volume": 22980964,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:34.948325"
+      "updated_at": "2026-11-12T02:21:30.687395"
     },
     {
       "ticker": "NOW",
@@ -519,60 +486,27 @@
         "analyst": 5.0,
         "detail": {
           "dip": 10,
-          "range52": 8.040000000000001,
-          "momentum": 8.02
+          "range52": 7.7,
+          "momentum": 7.93
         }
       },
       "price": {
         "ticker": "NOW",
         "name": "ServiceNow, Inc.",
         "exchange": "NYQ",
-        "price": 99.61,
-        "change_pct": -23.34,
-        "dip30": 37.34,
-        "range52pct": 19.6,
+        "price": 102.76,
+        "change_pct": -23.32,
+        "dip30": 35.35,
+        "range52pct": 23.0,
         "h52": 175.0,
         "l52": 81.24,
-        "mom5": -6.04,
-        "volume": 18918996,
+        "mom5": -5.86,
+        "volume": 14404875,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:44.324140"
-    },
-    {
-      "ticker": "ARM",
-      "name": "Arm Holdings plc",
-      "risk": "speculative",
-      "score": {
-        "total": 4.3,
-        "tech": 3.1,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 10,
-          "range52": 7.69,
-          "momentum": 8.885
-        }
-      },
-      "price": {
-        "ticker": "ARM",
-        "name": "Arm Holdings plc",
-        "exchange": "NMS",
-        "price": 181.49,
-        "change_pct": -38.2,
-        "dip30": 40.98,
-        "range52pct": 23.1,
-        "h52": 452.7,
-        "l52": 100.02,
-        "mom5": -7.77,
-        "volume": 4220232,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:58.464797"
+      "updated_at": "2026-11-12T02:22:31.816258"
     },
     {
       "ticker": "SLV",
@@ -580,69 +514,36 @@
       "risk": "etf",
       "score": {
         "total": 4.2,
-        "tech": 2.7,
+        "tech": 2.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 8.09,
-          "range52": 9.64,
-          "momentum": 4.0
+          "dip": 7.935,
+          "range52": 9.61,
+          "momentum": 2.98
         }
       },
       "price": {
         "ticker": "SLV",
         "name": "iShares Silver Trust",
         "exchange": "PCX",
-        "price": 46.48,
-        "change_pct": -16.22,
-        "dip30": 16.18,
-        "range52pct": 3.6,
+        "price": 46.65,
+        "change_pct": -14.42,
+        "dip30": 15.87,
+        "range52pct": 3.9,
         "h52": 109.83,
         "l52": 44.11,
-        "mom5": 2.0,
-        "volume": 16180112,
+        "mom5": 4.04,
+        "volume": 11677616,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:23.218180"
+      "updated_at": "2026-11-12T02:21:09.818492"
     },
     {
-      "ticker": "SOXX",
-      "name": "iShares Semiconductor ETF",
-      "risk": "etf",
-      "score": {
-        "total": 4.2,
-        "tech": 2.7,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 10,
-          "range52": 5.470000000000001,
-          "momentum": 6.53
-        }
-      },
-      "price": {
-        "ticker": "SOXX",
-        "name": "iShares Semiconductor ETF",
-        "exchange": "NGM",
-        "price": 146.59,
-        "change_pct": -22.5,
-        "dip30": 25.4,
-        "range52pct": 45.3,
-        "h52": 218.65,
-        "l52": 86.81,
-        "mom5": -3.06,
-        "volume": 36447896,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:23.796485"
-    },
-    {
-      "ticker": "GOOGL",
-      "name": "Alphabet Inc.",
+      "ticker": "ARM",
+      "name": "Arm Holdings plc",
       "risk": "speculative",
       "score": {
         "total": 4.2,
@@ -650,94 +551,61 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 9.385,
-          "range52": 8.790000000000001,
-          "momentum": 3.495
+          "dip": 10,
+          "range52": 7.07,
+          "momentum": 4.785
         }
       },
       "price": {
-        "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
+        "ticker": "ARM",
+        "name": "Arm Holdings plc",
         "exchange": "NMS",
-        "price": 287.38,
-        "change_pct": -15.7,
-        "dip30": 18.77,
-        "range52pct": 12.1,
-        "h52": 408.61,
-        "l52": 270.7,
-        "mom5": 3.01,
-        "volume": 28318760,
+        "price": 203.36,
+        "change_pct": -29.79,
+        "dip30": 33.86,
+        "range52pct": 29.3,
+        "h52": 452.7,
+        "l52": 100.02,
+        "mom5": 0.43,
+        "volume": 6736054,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:52.511289"
+      "updated_at": "2026-11-12T02:22:45.850396"
     },
     {
-      "ticker": "XLK",
-      "name": "State Street Technology Select Sector SPDR ETF",
+      "ticker": "SOXX",
+      "name": "iShares Semiconductor ETF",
       "risk": "etf",
       "score": {
         "total": 4.1,
-        "tech": 2.3,
+        "tech": 2.5,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 8.19,
-          "range52": 4.4799999999999995,
-          "momentum": 6.525
+          "dip": 10,
+          "range52": 4.8,
+          "momentum": 4.87
         }
       },
       "price": {
-        "ticker": "XLK",
-        "name": "State Street Technology Select Sector SPDR ETF",
-        "exchange": "PCX",
-        "price": 168.91,
-        "change_pct": -13.16,
-        "dip30": 16.38,
-        "range52pct": 55.2,
-        "h52": 203.25,
-        "l52": 126.68,
-        "mom5": -3.05,
-        "volume": 10398178,
+        "ticker": "SOXX",
+        "name": "iShares Semiconductor ETF",
+        "exchange": "NGM",
+        "price": 155.4,
+        "change_pct": -18.02,
+        "dip30": 20.92,
+        "range52pct": 52.0,
+        "h52": 218.65,
+        "l52": 86.81,
+        "mom5": 0.26,
+        "volume": 48930559,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:24.372032"
-    },
-    {
-      "ticker": "ARKK",
-      "name": "ARK Innovation ETF",
-      "risk": "etf",
-      "score": {
-        "total": 4.1,
-        "tech": 2.4,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 8.45,
-          "range52": 5.5600000000000005,
-          "momentum": 6.18
-        }
-      },
-      "price": {
-        "ticker": "ARKK",
-        "name": "ARK Innovation ETF",
-        "exchange": "BTS",
-        "price": 77.1,
-        "change_pct": -13.81,
-        "dip30": 16.9,
-        "range52pct": 44.4,
-        "h52": 94.82,
-        "l52": 62.95,
-        "mom5": -2.36,
-        "volume": 3995501,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:26.070565"
+      "updated_at": "2026-11-12T02:21:10.514466"
     },
     {
       "ticker": "IBIT",
@@ -745,36 +613,36 @@
       "risk": "etf",
       "score": {
         "total": 4.1,
-        "tech": 2.4,
+        "tech": 2.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 7.085,
-          "range52": 6.69,
-          "momentum": 6.925
+          "dip": 6.505,
+          "range52": 6.4799999999999995,
+          "momentum": 7.055
         }
       },
       "price": {
         "ticker": "IBIT",
         "name": "iShares Bitcoin Trust ETF",
         "exchange": "NGM",
-        "price": 41.68,
-        "change_pct": -11.94,
-        "dip30": 14.17,
-        "range52pct": 33.1,
+        "price": 42.24,
+        "change_pct": -10.77,
+        "dip30": 13.01,
+        "range52pct": 35.2,
         "h52": 59.56,
         "l52": 32.84,
-        "mom5": -3.85,
-        "volume": 39312806,
+        "mom5": -4.11,
+        "volume": 42042496,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:26.624088"
+      "updated_at": "2026-11-12T02:21:13.793971"
     },
     {
-      "ticker": "NFLX",
-      "name": "Netflix, Inc.",
+      "ticker": "GOOGL",
+      "name": "Alphabet Inc.",
       "risk": "speculative",
       "score": {
         "total": 4.1,
@@ -782,32 +650,32 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.44,
-          "range52": 9.66,
-          "momentum": 4.26
+          "dip": 8.525,
+          "range52": 8.35,
+          "momentum": 2.605
         }
       },
       "price": {
-        "ticker": "NFLX",
-        "name": "Netflix, Inc.",
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
         "exchange": "NMS",
-        "price": 63.26,
-        "change_pct": -10.01,
-        "dip30": 12.88,
-        "range52pct": 3.4,
-        "h52": 116.73,
-        "l52": 61.39,
-        "mom5": 1.48,
-        "volume": 27258336,
+        "price": 293.45,
+        "change_pct": -14.71,
+        "dip30": 17.05,
+        "range52pct": 16.5,
+        "h52": 408.61,
+        "l52": 270.7,
+        "mom5": 4.79,
+        "volume": 24971153,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:25.611461"
+      "updated_at": "2026-11-12T02:21:40.036217"
     },
     {
-      "ticker": "ADBE",
-      "name": "Adobe Inc.",
+      "ticker": "META",
+      "name": "Meta Platforms, Inc.",
       "risk": "speculative",
       "score": {
         "total": 4.1,
@@ -815,197 +683,131 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 6.255,
-          "range52": 7.3,
-          "momentum": 7.9350000000000005
-        }
-      },
-      "price": {
-        "ticker": "ADBE",
-        "name": "Adobe Inc.",
-        "exchange": "NMS",
-        "price": 236.7,
-        "change_pct": 1.51,
-        "dip30": 12.51,
-        "range52pct": 27.0,
-        "h52": 362.71,
-        "l52": 190.12,
-        "mom5": -5.87,
-        "volume": 2947973,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:39.645709"
-    },
-    {
-      "ticker": "PLTR",
-      "name": "Palantir Technologies Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 4.1,
-        "tech": 2.6,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 9.62,
-          "range52": 4.14,
-          "momentum": 7.67
-        }
-      },
-      "price": {
-        "ticker": "PLTR",
-        "name": "Palantir Technologies Inc.",
-        "exchange": "NMS",
-        "price": 168.82,
-        "change_pct": -9.71,
-        "dip30": 19.24,
-        "range52pct": 58.6,
-        "h52": 212.94,
-        "l52": 106.37,
-        "mom5": -5.34,
-        "volume": 19535617,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:53.759516"
-    },
-    {
-      "ticker": "TSM",
-      "name": "Taiwan Semiconductor Manufacturing Company Limited",
-      "risk": "speculative",
-      "score": {
-        "total": 4.1,
-        "tech": 2.3,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 9.195,
-          "range52": 4.12,
-          "momentum": 5.27
-        }
-      },
-      "price": {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing Company Limited",
-        "exchange": "NYQ",
-        "price": 396.48,
-        "change_pct": -13.23,
-        "dip30": 18.39,
-        "range52pct": 58.8,
-        "h52": 487.47,
-        "l52": 266.82,
-        "mom5": -0.54,
-        "volume": 14288484,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:22:03.151710"
-    },
-    {
-      "ticker": "META",
-      "name": "Meta Platforms, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 4.0,
-        "tech": 2.0,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 7.94,
-          "range52": 5.33,
-          "momentum": 2.145
+          "dip": 8.77,
+          "range52": 5.82,
+          "momentum": 4.375
         }
       },
       "price": {
         "ticker": "META",
         "name": "Meta Platforms, Inc.",
         "exchange": "NMS",
-        "price": 641.39,
-        "change_pct": -13.18,
-        "dip30": 15.88,
-        "range52pct": 46.7,
+        "price": 628.77,
+        "change_pct": -13.29,
+        "dip30": 17.54,
+        "range52pct": 41.8,
         "h52": 779.82,
         "l52": 520.26,
-        "mom5": 5.71,
-        "volume": 13007238,
+        "mom5": 1.25,
+        "volume": 15429277,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:57.493226"
+      "updated_at": "2026-11-12T02:21:44.743681"
     },
     {
-      "ticker": "AVGO",
-      "name": "Broadcom Inc.",
+      "ticker": "NFLX",
+      "name": "Netflix, Inc.",
       "risk": "speculative",
       "score": {
-        "total": 4.0,
-        "tech": 2.1,
+        "total": 4.1,
+        "tech": 2.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 5.915,
-          "range52": 7.94,
-          "momentum": 3.4850000000000003
+          "dip": 5.555,
+          "range52": 9.43,
+          "momentum": 4.115
         }
       },
       "price": {
-        "ticker": "AVGO",
-        "name": "Broadcom Inc.",
+        "ticker": "NFLX",
+        "name": "Netflix, Inc.",
         "exchange": "NMS",
-        "price": 331.98,
-        "change_pct": -6.51,
-        "dip30": 11.83,
-        "range52pct": 20.6,
-        "h52": 495.0,
-        "l52": 289.77,
-        "mom5": 3.03,
-        "volume": 28299731,
+        "price": 64.54,
+        "change_pct": -7.24,
+        "dip30": 11.11,
+        "range52pct": 5.7,
+        "h52": 116.73,
+        "l52": 61.39,
+        "mom5": 1.77,
+        "volume": 28965110,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:11.578726"
+      "updated_at": "2026-11-12T02:22:12.923116"
     },
     {
-      "ticker": "CRM",
-      "name": "Salesforce, Inc.",
+      "ticker": "ADBE",
+      "name": "Adobe Inc.",
       "risk": "speculative",
+      "score": {
+        "total": 4.1,
+        "tech": 2.3,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 6.09,
+          "range52": 7.25,
+          "momentum": 6.735
+        }
+      },
+      "price": {
+        "ticker": "ADBE",
+        "name": "Adobe Inc.",
+        "exchange": "NMS",
+        "price": 237.6,
+        "change_pct": -0.98,
+        "dip30": 12.18,
+        "range52pct": 27.5,
+        "h52": 362.71,
+        "l52": 190.12,
+        "mom5": -3.47,
+        "volume": 4093100,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:27.142998"
+    },
+    {
+      "ticker": "ARKK",
+      "name": "ARK Innovation ETF",
+      "risk": "etf",
       "score": {
         "total": 4.0,
         "tech": 2.3,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 7.355,
-          "range52": 4.529999999999999,
-          "momentum": 7.805
+          "dip": 7.71,
+          "range52": 5.13,
+          "momentum": 6.15
         }
       },
       "price": {
-        "ticker": "CRM",
-        "name": "Salesforce, Inc.",
-        "exchange": "NYQ",
-        "price": 213.48,
-        "change_pct": -5.25,
-        "dip30": 14.71,
-        "range52pct": 54.7,
-        "h52": 269.11,
-        "l52": 146.32,
-        "mom5": -5.61,
-        "volume": 7855247,
+        "ticker": "ARKK",
+        "name": "ARK Innovation ETF",
+        "exchange": "BTS",
+        "price": 78.47,
+        "change_pct": -11.93,
+        "dip30": 15.42,
+        "range52pct": 48.7,
+        "h52": 94.82,
+        "l52": 62.95,
+        "mom5": -2.3,
+        "volume": 5188491,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:30.277089"
+      "updated_at": "2026-11-12T02:21:13.182472"
     },
     {
-      "ticker": "SNOW",
-      "name": "Snowflake Inc.",
+      "ticker": "ORCL",
+      "name": "Oracle Corporation",
       "risk": "speculative",
       "score": {
         "total": 4.0,
@@ -1013,32 +815,98 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 9.91,
-          "range52": 3.3400000000000007,
-          "momentum": 4.125
+          "dip": 5.66,
+          "range52": 8.64,
+          "momentum": 4.13
+        }
+      },
+      "price": {
+        "ticker": "ORCL",
+        "name": "Oracle Corporation",
+        "exchange": "NYQ",
+        "price": 128.38,
+        "change_pct": -6.5,
+        "dip30": 11.32,
+        "range52pct": 13.6,
+        "h52": 250.25,
+        "l52": 109.21,
+        "mom5": 1.74,
+        "volume": 38102515,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:22.515677"
+    },
+    {
+      "ticker": "SNOW",
+      "name": "Snowflake Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 4.0,
+        "tech": 2.1,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 9.17,
+          "range52": 3.13,
+          "momentum": 3.955
         }
       },
       "price": {
         "ticker": "SNOW",
         "name": "Snowflake Inc.",
         "exchange": "NYQ",
-        "price": 295.76,
-        "change_pct": -10.46,
-        "dip30": 19.82,
-        "range52pct": 66.6,
+        "price": 301.22,
+        "change_pct": -11.29,
+        "dip30": 18.34,
+        "range52pct": 68.7,
         "h52": 384.56,
         "l52": 118.3,
-        "mom5": 1.75,
-        "volume": 3814881,
+        "mom5": 2.09,
+        "volume": 4960953,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:49.064396"
+      "updated_at": "2026-11-12T02:22:36.453395"
     },
     {
-      "ticker": "QQQ",
-      "name": "Invesco QQQ Trust",
+      "ticker": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 4.0,
+        "tech": 2.2,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 8.765,
+          "range52": 3.8,
+          "momentum": 5.855
+        }
+      },
+      "price": {
+        "ticker": "PLTR",
+        "name": "Palantir Technologies Inc.",
+        "exchange": "NMS",
+        "price": 172.4,
+        "change_pct": -7.83,
+        "dip30": 17.53,
+        "range52pct": 62.0,
+        "h52": 212.94,
+        "l52": 106.37,
+        "mom5": -1.71,
+        "volume": 15882727,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:41.159774"
+    },
+    {
+      "ticker": "GLD",
+      "name": "SPDR Gold Shares",
       "risk": "etf",
       "score": {
         "total": 3.9,
@@ -1046,164 +914,164 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 5.59,
-          "range52": 4.25,
-          "momentum": 5.465
-        }
-      },
-      "price": {
-        "ticker": "QQQ",
-        "name": "Invesco QQQ Trust",
-        "exchange": "NGM",
-        "price": 674.76,
-        "change_pct": -8.56,
-        "dip30": 11.18,
-        "range52pct": 57.5,
-        "h52": 762.86,
-        "l52": 555.6,
-        "mom5": -0.93,
-        "volume": 38579087,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:19.121801"
-    },
-    {
-      "ticker": "XLE",
-      "name": "State Street Energy Select Sector SPDR ETF",
-      "risk": "etf",
-      "score": {
-        "total": 3.9,
-        "tech": 1.9,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 5.575,
-          "range52": 3.0099999999999993,
-          "momentum": 8.745000000000001
-        }
-      },
-      "price": {
-        "ticker": "XLE",
-        "name": "State Street Energy Select Sector SPDR ETF",
-        "exchange": "PCX",
-        "price": 62.21,
-        "change_pct": 1.09,
-        "dip30": 11.15,
-        "range52pct": 69.9,
-        "h52": 70.15,
-        "l52": 43.77,
-        "mom5": -7.49,
-        "volume": 33142701,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:25.515819"
-    },
-    {
-      "ticker": "TSLA",
-      "name": "Tesla, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 3.9,
-        "tech": 1.9,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 3.395,
-          "range52": 5.91,
-          "momentum": 7.975
-        }
-      },
-      "price": {
-        "ticker": "TSLA",
-        "name": "Tesla, Inc.",
-        "exchange": "NMS",
-        "price": 379.78,
-        "change_pct": 7.64,
-        "dip30": 6.79,
-        "range52pct": 40.9,
-        "h52": 498.83,
-        "l52": 297.38,
-        "mom5": -5.95,
-        "volume": 23901976,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:02.213325"
-    },
-    {
-      "ticker": "AMD",
-      "name": "Advanced Micro Devices, Inc.",
-      "risk": "speculative",
-      "score": {
-        "total": 3.9,
-        "tech": 1.9,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 10,
-          "range52": 3.05,
-          "momentum": 0
-        }
-      },
-      "price": {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices, Inc.",
-        "exchange": "NMS",
-        "price": 515.21,
-        "change_pct": -15.2,
-        "dip30": 20.67,
-        "range52pct": 69.5,
-        "h52": 658.52,
-        "l52": 188.22,
-        "mom5": 10.36,
-        "volume": 46958570,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:21:20.970444"
-    },
-    {
-      "ticker": "GLD",
-      "name": "SPDR Gold Shares",
-      "risk": "etf",
-      "score": {
-        "total": 3.8,
-        "tech": 1.7,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 1.98,
-          "range52": 9.05,
-          "momentum": 3.935
+          "dip": 2.525,
+          "range52": 9.32,
+          "momentum": 4.175
         }
       },
       "price": {
         "ticker": "GLD",
         "name": "SPDR Gold Shares",
         "exchange": "PCX",
-        "price": 369.36,
-        "change_pct": -3.53,
-        "dip30": 3.96,
-        "range52pct": 9.5,
+        "price": 365.17,
+        "change_pct": -4.11,
+        "dip30": 5.05,
+        "range52pct": 6.8,
         "h52": 509.7,
         "l52": 354.67,
-        "mom5": 2.13,
-        "volume": 7836697,
+        "mom5": 1.65,
+        "volume": 5741895,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:22.667025"
+      "updated_at": "2026-11-12T02:21:09.194886"
     },
     {
-      "ticker": "VWO",
-      "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
+      "ticker": "XLK",
+      "name": "State Street Technology Select Sector SPDR ETF",
+      "risk": "etf",
+      "score": {
+        "total": 3.9,
+        "tech": 1.9,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 6.84,
+          "range52": 3.7700000000000005,
+          "momentum": 5.61
+        }
+      },
+      "price": {
+        "ticker": "XLK",
+        "name": "State Street Technology Select Sector SPDR ETF",
+        "exchange": "PCX",
+        "price": 174.36,
+        "change_pct": -10.93,
+        "dip30": 13.68,
+        "range52pct": 62.3,
+        "h52": 203.25,
+        "l52": 126.68,
+        "mom5": -1.22,
+        "volume": 14848634,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:11.206943"
+    },
+    {
+      "ticker": "AVGO",
+      "name": "Broadcom Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.9,
+        "tech": 1.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 4.155,
+          "range52": 7.3,
+          "momentum": 3.0300000000000002
+        }
+      },
+      "price": {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "exchange": "NMS",
+        "price": 345.22,
+        "change_pct": -1.7,
+        "dip30": 8.31,
+        "range52pct": 27.0,
+        "h52": 495.0,
+        "l52": 289.77,
+        "mom5": 3.94,
+        "volume": 32713658,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:58.797587"
+    },
+    {
+      "ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.9,
+        "tech": 1.9,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 6.45,
+          "range52": 4.16,
+          "momentum": 5.945
+        }
+      },
+      "price": {
+        "ticker": "CRM",
+        "name": "Salesforce, Inc.",
+        "exchange": "NYQ",
+        "price": 218.01,
+        "change_pct": -5.04,
+        "dip30": 12.9,
+        "range52pct": 58.4,
+        "h52": 269.11,
+        "l52": 146.32,
+        "mom5": -1.89,
+        "volume": 6202474,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:17.756305"
+    },
+    {
+      "ticker": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "risk": "speculative",
+      "score": {
+        "total": 3.9,
+        "tech": 1.8,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 7.455,
+          "range52": 3.3599999999999994,
+          "momentum": 3.9450000000000003
+        }
+      },
+      "price": {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Company Limited",
+        "exchange": "NYQ",
+        "price": 413.35,
+        "change_pct": -9.39,
+        "dip30": 14.91,
+        "range52pct": 66.4,
+        "h52": 487.47,
+        "l52": 266.82,
+        "mom5": 2.11,
+        "volume": 14230560,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:50.498798"
+    },
+    {
+      "ticker": "QQQ",
+      "name": "Invesco QQQ Trust",
       "risk": "etf",
       "score": {
         "total": 3.8,
@@ -1211,28 +1079,61 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 3.405,
-          "range52": 5.41,
-          "momentum": 4.29
+          "dip": 4.56,
+          "range52": 3.5,
+          "momentum": 4.63
         }
       },
       "price": {
-        "ticker": "VWO",
-        "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
-        "exchange": "PCX",
-        "price": 56.49,
-        "change_pct": -5.25,
-        "dip30": 6.81,
-        "range52pct": 45.9,
-        "h52": 61.54,
-        "l52": 52.2,
-        "mom5": 1.42,
-        "volume": 18836258,
+        "ticker": "QQQ",
+        "name": "Invesco QQQ Trust",
+        "exchange": "NGM",
+        "price": 690.38,
+        "change_pct": -6.68,
+        "dip30": 9.12,
+        "range52pct": 65.0,
+        "h52": 762.86,
+        "l52": 555.6,
+        "mom5": 0.74,
+        "volume": 42821615,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:28.931289"
+      "updated_at": "2026-11-12T02:21:05.415597"
+    },
+    {
+      "ticker": "XLE",
+      "name": "State Street Energy Select Sector SPDR ETF",
+      "risk": "etf",
+      "score": {
+        "total": 3.8,
+        "tech": 1.6,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 4.75,
+          "range52": 2.5700000000000003,
+          "momentum": 7.48
+        }
+      },
+      "price": {
+        "ticker": "XLE",
+        "name": "State Street Energy Select Sector SPDR ETF",
+        "exchange": "PCX",
+        "price": 63.37,
+        "change_pct": 3.04,
+        "dip30": 9.5,
+        "range52pct": 74.3,
+        "h52": 70.15,
+        "l52": 43.77,
+        "mom5": -4.96,
+        "volume": 24315031,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:12.474695"
     },
     {
       "ticker": "BND",
@@ -1240,32 +1141,32 @@
       "risk": "etf",
       "score": {
         "total": 3.7,
-        "tech": 1.3,
+        "tech": 1.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.365,
-          "range52": 7.35,
-          "momentum": 5.14
+          "dip": 0.385,
+          "range52": 7.4,
+          "momentum": 5.07
         }
       },
       "price": {
         "ticker": "BND",
         "name": "Vanguard Total Bond Market Index Fund ETF Shares",
         "exchange": "NGM",
-        "price": 71.13,
-        "change_pct": 1.28,
-        "dip30": 0.73,
-        "range52pct": 26.5,
+        "price": 71.1,
+        "change_pct": 1.35,
+        "dip30": 0.77,
+        "range52pct": 26.0,
         "h52": 75.23,
         "l52": 69.65,
-        "mom5": -0.28,
-        "volume": 11306999,
+        "mom5": -0.14,
+        "volume": 6334022,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:27.198541"
+      "updated_at": "2026-11-12T02:21:14.422865"
     },
     {
       "ticker": "AGG",
@@ -1273,230 +1174,197 @@
       "risk": "etf",
       "score": {
         "total": 3.7,
-        "tech": 1.3,
+        "tech": 1.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.385,
-          "range52": 7.32,
-          "momentum": 5.145
+          "dip": 0.405,
+          "range52": 7.38,
+          "momentum": 5.05
         }
       },
       "price": {
         "ticker": "AGG",
         "name": "iShares Core U.S. Aggregate Bond ETF",
         "exchange": "PCX",
-        "price": 95.88,
-        "change_pct": 1.35,
-        "dip30": 0.77,
-        "range52pct": 26.8,
+        "price": 95.84,
+        "change_pct": 1.38,
+        "dip30": 0.81,
+        "range52pct": 26.2,
         "h52": 101.46,
         "l52": 93.84,
-        "mom5": -0.29,
-        "volume": 8275225,
+        "mom5": -0.1,
+        "volume": 5341645,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:27.764594"
+      "updated_at": "2026-11-12T02:21:15.069462"
     },
     {
-      "ticker": "VOO",
-      "name": "Vanguard S&P 500 ETF",
+      "ticker": "VWO",
+      "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
       "risk": "etf",
       "score": {
-        "total": 3.6,
-        "tech": 0.9,
+        "total": 3.7,
+        "tech": 1.2,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.865,
-          "range52": 2.0700000000000003,
-          "momentum": 5.13
+          "dip": 2.805,
+          "range52": 4.63,
+          "momentum": 3.3
         }
       },
       "price": {
-        "ticker": "VOO",
-        "name": "Vanguard S&P 500 ETF",
+        "ticker": "VWO",
+        "name": "Vanguard FTSE Emerging Markets Index Fund ETF Shares",
         "exchange": "PCX",
-        "price": 689.5,
-        "change_pct": -1.84,
-        "dip30": 3.73,
-        "range52pct": 79.3,
-        "h52": 718.47,
-        "l52": 578.46,
-        "mom5": -0.26,
-        "volume": 6138833,
+        "price": 57.22,
+        "change_pct": -3.52,
+        "dip30": 5.61,
+        "range52pct": 53.7,
+        "h52": 61.54,
+        "l52": 52.2,
+        "mom5": 3.4,
+        "volume": 13458154,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:18.556791"
+      "updated_at": "2026-11-12T02:21:16.325540"
     },
     {
-      "ticker": "VTI",
-      "name": "Vanguard Morningstar Total Stock Market ETF",
-      "risk": "etf",
-      "score": {
-        "total": 3.6,
-        "tech": 0.9,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 1.7,
-          "range52": 2.0799999999999996,
-          "momentum": 5.06
-        }
-      },
-      "price": {
-        "ticker": "VTI",
-        "name": "Vanguard Morningstar Total Stock Market ETF",
-        "exchange": "PCX",
-        "price": 369.55,
-        "change_pct": -1.52,
-        "dip30": 3.4,
-        "range52pct": 79.2,
-        "h52": 385.12,
-        "l52": 310.4,
-        "mom5": -0.12,
-        "volume": 3518806,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:19.693501"
-    },
-    {
-      "ticker": "SPY",
-      "name": "State Street SPDR S&P 500 ETF Trust",
-      "risk": "etf",
-      "score": {
-        "total": 3.6,
-        "tech": 0.9,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 1.87,
-          "range52": 2.0799999999999996,
-          "momentum": 5.145
-        }
-      },
-      "price": {
-        "ticker": "SPY",
-        "name": "State Street SPDR S&P 500 ETF Trust",
-        "exchange": "PCX",
-        "price": 749.92,
-        "change_pct": -1.87,
-        "dip30": 3.74,
-        "range52pct": 79.2,
-        "h52": 781.62,
-        "l52": 629.28,
-        "mom5": -0.29,
-        "volume": 39682369,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:20.285601"
-    },
-    {
-      "ticker": "IVV",
-      "name": "iShares Core S&P 500 ETF",
-      "risk": "etf",
-      "score": {
-        "total": 3.6,
-        "tech": 0.9,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 1.865,
-          "range52": 2.0700000000000003,
-          "momentum": 5.13
-        }
-      },
-      "price": {
-        "ticker": "IVV",
-        "name": "iShares Core S&P 500 ETF",
-        "exchange": "PCX",
-        "price": 753.37,
-        "change_pct": -1.84,
-        "dip30": 3.73,
-        "range52pct": 79.3,
-        "h52": 785.03,
-        "l52": 632.14,
-        "mom5": -0.26,
-        "volume": 3167484,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:20:20.848537"
-    },
-    {
-      "ticker": "JPM",
-      "name": "JPMorgan Chase & Co.",
+      "ticker": "TSLA",
+      "name": "Tesla, Inc.",
       "risk": "speculative",
       "score": {
-        "total": 3.6,
-        "tech": 0.9,
+        "total": 3.7,
+        "tech": 1.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.425,
-          "range52": 2.8,
-          "momentum": 4.78
+          "dip": 2.04,
+          "range52": 5.36,
+          "momentum": 5.96
         }
       },
       "price": {
-        "ticker": "JPM",
-        "name": "JPMorgan Chase & Co.",
-        "exchange": "NYQ",
-        "price": 342.07,
-        "change_pct": 2.12,
-        "dip30": 2.85,
-        "range52pct": 72.0,
-        "h52": 366.5,
-        "l52": 279.1,
-        "mom5": 0.44,
-        "volume": 4881432,
+        "ticker": "TSLA",
+        "name": "Tesla, Inc.",
+        "exchange": "NMS",
+        "price": 390.84,
+        "change_pct": 10.15,
+        "dip30": 4.08,
+        "range52pct": 46.4,
+        "h52": 498.83,
+        "l52": 297.38,
+        "mom5": -1.92,
+        "volume": 27590811,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:07.897738"
+      "updated_at": "2026-11-12T02:21:49.432077"
+    },
+    {
+      "ticker": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.7,
+        "tech": 1.4,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 7.43,
+          "range52": 2.25,
+          "momentum": 0
+        }
+      },
+      "price": {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices, Inc.",
+        "exchange": "NMS",
+        "price": 552.9,
+        "change_pct": -9.62,
+        "dip30": 14.86,
+        "range52pct": 77.5,
+        "h52": 658.52,
+        "l52": 188.22,
+        "mom5": 14.26,
+        "volume": 43171056,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:22:08.205162"
     },
     {
       "ticker": "UNH",
       "name": "UnitedHealth Group Incorporated",
       "risk": "speculative",
       "score": {
-        "total": 3.6,
-        "tech": 1.0,
+        "total": 3.7,
+        "tech": 1.1,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 2.335,
-          "range52": 2.75,
-          "momentum": 4.415
+          "dip": 2.595,
+          "range52": 2.85,
+          "momentum": 5.185
         }
       },
       "price": {
         "ticker": "UNH",
         "name": "UnitedHealth Group Incorporated",
         "exchange": "NYQ",
-        "price": 405.12,
-        "change_pct": 8.05,
-        "dip30": 4.67,
-        "range52pct": 72.5,
+        "price": 402.94,
+        "change_pct": 9.77,
+        "dip30": 5.19,
+        "range52pct": 71.5,
         "h52": 461.62,
         "l52": 255.97,
-        "mom5": 1.17,
-        "volume": 4450578,
+        "mom5": -0.37,
+        "volume": 4121144,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:22.769586"
+      "updated_at": "2026-11-12T02:23:09.232896"
+    },
+    {
+      "ticker": "MSFT",
+      "name": "Microsoft Corporation",
+      "risk": "speculative",
+      "score": {
+        "total": 3.6,
+        "tech": 1.1,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 3.12,
+          "range52": 1.8099999999999994,
+          "momentum": 4.985
+        }
+      },
+      "price": {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "exchange": "NMS",
+        "price": 521.12,
+        "change_pct": 1.6,
+        "dip30": 6.24,
+        "range52pct": 81.9,
+        "h52": 559.15,
+        "l52": 349.2,
+        "mom5": 0.03,
+        "volume": 28565538,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:25.874333"
     },
     {
       "ticker": "WMT",
@@ -1504,65 +1372,164 @@
       "risk": "speculative",
       "score": {
         "total": 3.6,
-        "tech": 1.0,
+        "tech": 0.9,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.4,
-          "range52": 2.65,
-          "momentum": 5.84
+          "dip": 1.355,
+          "range52": 2.62,
+          "momentum": 4.675
         }
       },
       "price": {
         "ticker": "WMT",
         "name": "Walmart Inc.",
         "exchange": "NMS",
-        "price": 125.55,
-        "change_pct": 17.56,
-        "dip30": 2.8,
-        "range52pct": 73.5,
+        "price": 125.67,
+        "change_pct": 20.93,
+        "dip30": 2.71,
+        "range52pct": 73.8,
         "h52": 135.16,
         "l52": 98.88,
-        "mom5": -1.68,
-        "volume": 17716792,
+        "mom5": 0.65,
+        "volume": 20100824,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:36.854561"
+      "updated_at": "2026-11-12T02:23:23.270318"
     },
     {
-      "ticker": "XLF",
-      "name": "State Street Financial Select Sector SPDR ETF",
+      "ticker": "VOO",
+      "name": "Vanguard S&P 500 ETF",
       "risk": "etf",
       "score": {
         "total": 3.5,
-        "tech": 0.6,
+        "tech": 0.7,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.77,
-          "range52": 1.4099999999999995,
-          "momentum": 4.365
+          "dip": 1.245,
+          "range52": 1.4400000000000006,
+          "momentum": 4.655
         }
       },
       "price": {
-        "ticker": "XLF",
-        "name": "State Street Financial Select Sector SPDR ETF",
+        "ticker": "VOO",
+        "name": "Vanguard S&P 500 ETF",
         "exchange": "PCX",
-        "price": 58.29,
-        "change_pct": 7.92,
-        "dip30": 1.54,
-        "range52pct": 85.9,
-        "h52": 60.04,
-        "l52": 47.67,
-        "mom5": 1.27,
-        "volume": 29741298,
+        "price": 698.35,
+        "change_pct": -0.36,
+        "dip30": 2.49,
+        "range52pct": 85.6,
+        "h52": 718.47,
+        "l52": 578.46,
+        "mom5": 0.69,
+        "volume": 4788649,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:24.938914"
+      "updated_at": "2026-11-12T02:21:04.789875"
+    },
+    {
+      "ticker": "VTI",
+      "name": "Vanguard Morningstar Total Stock Market ETF",
+      "risk": "etf",
+      "score": {
+        "total": 3.5,
+        "tech": 0.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 1.085,
+          "range52": 1.45,
+          "momentum": 4.59
+        }
+      },
+      "price": {
+        "ticker": "VTI",
+        "name": "Vanguard Morningstar Total Stock Market ETF",
+        "exchange": "PCX",
+        "price": 374.25,
+        "change_pct": 0.0,
+        "dip30": 2.17,
+        "range52pct": 85.5,
+        "h52": 385.12,
+        "l52": 310.4,
+        "mom5": 0.82,
+        "volume": 2615913,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:06.047809"
+    },
+    {
+      "ticker": "SPY",
+      "name": "State Street SPDR S&P 500 ETF Trust",
+      "risk": "etf",
+      "score": {
+        "total": 3.5,
+        "tech": 0.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 1.235,
+          "range52": 1.4299999999999997,
+          "momentum": 4.64
+        }
+      },
+      "price": {
+        "ticker": "SPY",
+        "name": "State Street SPDR S&P 500 ETF Trust",
+        "exchange": "PCX",
+        "price": 759.81,
+        "change_pct": -0.37,
+        "dip30": 2.47,
+        "range52pct": 85.7,
+        "h52": 781.62,
+        "l52": 629.28,
+        "mom5": 0.72,
+        "volume": 37707134,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:06.680159"
+    },
+    {
+      "ticker": "IVV",
+      "name": "iShares Core S&P 500 ETF",
+      "risk": "etf",
+      "score": {
+        "total": 3.5,
+        "tech": 0.7,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 1.245,
+          "range52": 1.4400000000000006,
+          "momentum": 4.655
+        }
+      },
+      "price": {
+        "ticker": "IVV",
+        "name": "iShares Core S&P 500 ETF",
+        "exchange": "PCX",
+        "price": 763.08,
+        "change_pct": -0.36,
+        "dip30": 2.49,
+        "range52pct": 85.6,
+        "h52": 785.03,
+        "l52": 632.14,
+        "mom5": 0.69,
+        "volume": 4494467,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:07.311762"
     },
     {
       "ticker": "VNQ",
@@ -1574,8 +1541,8 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.485,
-          "range52": 3.1599999999999993,
+          "dip": 0.515,
+          "range52": 3.2,
           "momentum": 3.94
         }
       },
@@ -1583,52 +1550,52 @@
         "ticker": "VNQ",
         "name": "Vanguard Real Estate Index Fund ETF Shares",
         "exchange": "PCX",
-        "price": 97.08,
-        "change_pct": 7.24,
-        "dip30": 0.97,
-        "range52pct": 68.4,
+        "price": 97.02,
+        "change_pct": 8.25,
+        "dip30": 1.03,
+        "range52pct": 68.0,
         "h52": 101.8,
         "l52": 86.84,
         "mom5": 2.12,
-        "volume": 2477496,
+        "volume": 3052595,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:28.366983"
+      "updated_at": "2026-11-12T02:21:15.702164"
     },
     {
-      "ticker": "MSFT",
-      "name": "Microsoft Corporation",
+      "ticker": "JPM",
+      "name": "JPMorgan Chase & Co.",
       "risk": "speculative",
       "score": {
         "total": 3.5,
-        "tech": 0.6,
+        "tech": 0.8,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 2.035,
-          "range52": 1.2400000000000007,
-          "momentum": 2.435
+          "dip": 1.24,
+          "range52": 2.6400000000000006,
+          "momentum": 4.2
         }
       },
       "price": {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "exchange": "NMS",
-        "price": 533.16,
-        "change_pct": 4.75,
-        "dip30": 4.07,
-        "range52pct": 87.6,
-        "h52": 559.15,
-        "l52": 349.2,
-        "mom5": 5.13,
-        "volume": 26910016,
+        "ticker": "JPM",
+        "name": "JPMorgan Chase & Co.",
+        "exchange": "NYQ",
+        "price": 343.39,
+        "change_pct": 3.8,
+        "dip30": 2.48,
+        "range52pct": 73.6,
+        "h52": 366.5,
+        "l52": 279.1,
+        "mom5": 1.6,
+        "volume": 4425641,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:38.385536"
+      "updated_at": "2026-11-12T02:22:55.167747"
     },
     {
       "ticker": "V",
@@ -1636,65 +1603,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.5,
-        "tech": 0.8,
+        "tech": 0.7,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 1.555,
-          "range52": 1.3,
-          "momentum": 5.295
+          "dip": 1.26,
+          "range52": 1.1200000000000003,
+          "momentum": 4.39
         }
       },
       "price": {
         "ticker": "V",
         "name": "Visa Inc.",
         "exchange": "NYQ",
-        "price": 423.0,
-        "change_pct": 15.61,
-        "dip30": 3.11,
-        "range52pct": 87.0,
+        "price": 425.55,
+        "change_pct": 18.43,
+        "dip30": 2.52,
+        "range52pct": 88.8,
         "h52": 442.23,
         "l52": 293.89,
-        "mom5": -0.59,
-        "volume": 5581730,
+        "mom5": 1.22,
+        "volume": 4512595,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:12.560111"
-    },
-    {
-      "ticker": "MA",
-      "name": "Mastercard Incorporated",
-      "risk": "speculative",
-      "score": {
-        "total": 3.5,
-        "tech": 0.7,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 1.03,
-          "range52": 1.0599999999999994,
-          "momentum": 4.945
-        }
-      },
-      "price": {
-        "ticker": "MA",
-        "name": "Mastercard Incorporated",
-        "exchange": "NYQ",
-        "price": 658.84,
-        "change_pct": 16.9,
-        "dip30": 2.06,
-        "range52pct": 89.4,
-        "h52": 681.99,
-        "l52": 464.52,
-        "mom5": 0.11,
-        "volume": 2132760,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:22:17.258308"
+      "updated_at": "2026-11-12T02:22:59.863023"
     },
     {
       "ticker": "HD",
@@ -1702,32 +1636,32 @@
       "risk": "speculative",
       "score": {
         "total": 3.5,
-        "tech": 0.8,
+        "tech": 0.7,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.625,
-          "range52": 3.87,
-          "momentum": 3.5549999999999997
+          "dip": 0.58,
+          "range52": 3.84,
+          "momentum": 2.355
         }
       },
       "price": {
         "ticker": "HD",
         "name": "The Home Depot, Inc.",
         "exchange": "NYQ",
-        "price": 351.0,
-        "change_pct": 21.86,
-        "dip30": 1.25,
-        "range52pct": 61.3,
+        "price": 351.31,
+        "change_pct": 23.49,
+        "dip30": 1.16,
+        "range52pct": 61.6,
         "h52": 397.63,
         "l52": 277.15,
-        "mom5": 2.89,
-        "volume": 3730406,
+        "mom5": 5.29,
+        "volume": 3202185,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:27.449599"
+      "updated_at": "2026-11-12T02:23:13.927737"
     },
     {
       "ticker": "SCHD",
@@ -1735,32 +1669,32 @@
       "risk": "etf",
       "score": {
         "total": 3.4,
-        "tech": 0.6,
+        "tech": 0.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.525,
-          "range52": 0.5599999999999994,
-          "momentum": 5.095
+          "dip": 0.26,
+          "range52": 0.3700000000000003,
+          "momentum": 4.34
         }
       },
       "price": {
         "ticker": "SCHD",
         "name": "Schwab U.S. Dividend Equity ETF",
         "exchange": "PCX",
-        "price": 35.83,
-        "change_pct": 9.07,
-        "dip30": 1.05,
-        "range52pct": 94.4,
+        "price": 36.02,
+        "change_pct": 10.73,
+        "dip30": 0.52,
+        "range52pct": 96.3,
         "h52": 36.38,
         "l52": 26.6,
-        "mom5": -0.19,
-        "volume": 28110162,
+        "mom5": 1.32,
+        "volume": 24333800,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:21.420455"
+      "updated_at": "2026-11-12T02:21:07.935828"
     },
     {
       "ticker": "VIG",
@@ -1768,65 +1702,98 @@
       "risk": "etf",
       "score": {
         "total": 3.4,
-        "tech": 0.6,
+        "tech": 0.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.555,
-          "range52": 0.8099999999999994,
-          "momentum": 4.67
+          "dip": 0.17,
+          "range52": 0.35999999999999943,
+          "momentum": 4.115
         }
       },
       "price": {
         "ticker": "VIG",
         "name": "Vanguard Dividend Appreciation Index Fund ETF Shares",
         "exchange": "PCX",
-        "price": 249.89,
-        "change_pct": 6.27,
-        "dip30": 1.11,
-        "range52pct": 91.9,
+        "price": 251.84,
+        "change_pct": 7.94,
+        "dip30": 0.34,
+        "range52pct": 96.4,
         "h52": 253.42,
         "l52": 210.01,
-        "mom5": 0.66,
-        "volume": 921776,
+        "mom5": 1.77,
+        "volume": 943881,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:21.994794"
+      "updated_at": "2026-11-12T02:21:08.577950"
     },
     {
-      "ticker": "AAPL",
-      "name": "Apple Inc.",
-      "risk": "speculative",
+      "ticker": "XLF",
+      "name": "State Street Financial Select Sector SPDR ETF",
+      "risk": "etf",
       "score": {
         "total": 3.4,
-        "tech": 0.4,
+        "tech": 0.5,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.31,
-          "range52": 0.6099999999999994,
-          "momentum": 3.495
+          "dip": 0.48,
+          "range52": 1.1400000000000006,
+          "momentum": 3.74
         }
       },
       "price": {
-        "ticker": "AAPL",
-        "name": "Apple Inc.",
-        "exchange": "NMS",
-        "price": 348.51,
-        "change_pct": 5.8,
-        "dip30": 0.62,
-        "range52pct": 93.9,
-        "h52": 355.38,
-        "l52": 243.42,
-        "mom5": 3.01,
-        "volume": 29726781,
+        "ticker": "XLF",
+        "name": "State Street Financial Select Sector SPDR ETF",
+        "exchange": "PCX",
+        "price": 58.63,
+        "change_pct": 9.79,
+        "dip30": 0.96,
+        "range52pct": 88.6,
+        "h52": 60.04,
+        "l52": 47.67,
+        "mom5": 2.52,
+        "volume": 25181563,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:33.692539"
+      "updated_at": "2026-11-12T02:21:11.839727"
+    },
+    {
+      "ticker": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "risk": "speculative",
+      "score": {
+        "total": 3.4,
+        "tech": 0.6,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 0.87,
+          "range52": 2.3099999999999996,
+          "momentum": 1.915
+        }
+      },
+      "price": {
+        "ticker": "AMZN",
+        "name": "Amazon.com, Inc.",
+        "exchange": "NMS",
+        "price": 266.17,
+        "change_pct": 6.83,
+        "dip30": 1.74,
+        "range52pct": 76.9,
+        "h52": 287.2,
+        "l52": 196.0,
+        "mom5": 6.17,
+        "volume": 37223624,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:21:35.379833"
     },
     {
       "ticker": "LLY",
@@ -1838,61 +1805,61 @@
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.505,
-          "range52": 0.3400000000000006,
-          "momentum": 4.245
+          "dip": -0.175,
+          "range52": 0.25999999999999945,
+          "momentum": 4.01
         }
       },
       "price": {
         "ticker": "LLY",
         "name": "Eli Lilly and Company",
         "exchange": "NYQ",
-        "price": 1432.29,
-        "change_pct": 20.91,
-        "dip30": -1.01,
-        "range52pct": 96.6,
+        "price": 1437.29,
+        "change_pct": 24.22,
+        "dip30": -0.35,
+        "range52pct": 97.4,
         "h52": 1453.0,
         "l52": 850.51,
-        "mom5": 1.51,
-        "volume": 2824400,
+        "mom5": 1.98,
+        "volume": 1865138,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:16.333964"
+      "updated_at": "2026-11-12T02:22:03.525067"
     },
     {
-      "ticker": "COST",
-      "name": "Costco Wholesale Corporation",
+      "ticker": "MA",
+      "name": "Mastercard Incorporated",
       "risk": "speculative",
       "score": {
         "total": 3.4,
-        "tech": 0.4,
+        "tech": 0.6,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": 0.0,
-          "range52": 1.2,
-          "momentum": 3.77
+          "dip": 0.89,
+          "range52": 0.9799999999999998,
+          "momentum": 3.955
         }
       },
       "price": {
-        "ticker": "COST",
-        "name": "Costco Wholesale Corporation",
-        "exchange": "NMS",
-        "price": 1066.14,
-        "change_pct": 15.31,
-        "dip30": 0.0,
-        "range52pct": 88.0,
-        "h52": 1096.5,
-        "l52": 844.06,
-        "mom5": 2.46,
-        "volume": 1561079,
+        "ticker": "MA",
+        "name": "Mastercard Incorporated",
+        "exchange": "NYQ",
+        "price": 660.73,
+        "change_pct": 19.81,
+        "dip30": 1.78,
+        "range52pct": 90.2,
+        "h52": 681.99,
+        "l52": 464.52,
+        "mom5": 2.09,
+        "volume": 2371937,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:32.131147"
+      "updated_at": "2026-11-12T02:23:04.543069"
     },
     {
       "ticker": "PG",
@@ -1900,131 +1867,65 @@
       "risk": "speculative",
       "score": {
         "total": 3.4,
-        "tech": 0.3,
+        "tech": 0.4,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.1,
-          "range52": 0.5700000000000003,
-          "momentum": 3.44
+          "dip": 0.295,
+          "range52": 0.8700000000000003,
+          "momentum": 3.27
         }
       },
       "price": {
         "ticker": "PG",
         "name": "The Procter & Gamble Company",
         "exchange": "NYQ",
-        "price": 168.66,
-        "change_pct": 13.71,
-        "dip30": -0.2,
-        "range52pct": 94.3,
+        "price": 167.67,
+        "change_pct": 15.41,
+        "dip30": 0.59,
+        "range52pct": 91.3,
         "h52": 170.52,
         "l52": 137.62,
-        "mom5": 3.12,
-        "volume": 8409304,
+        "mom5": 3.46,
+        "volume": 7522381,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:22:41.547220"
+      "updated_at": "2026-11-12T02:23:27.986004"
     },
     {
-      "ticker": "JNJ",
-      "name": "Johnson & Johnson",
-      "risk": "speculative",
-      "score": {
-        "total": 3.4,
-        "tech": 0.3,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": 0.235,
-          "range52": 0.25999999999999945,
-          "momentum": 3.1100000000000003
-        }
-      },
-      "price": {
-        "ticker": "JNJ",
-        "name": "Johnson & Johnson",
-        "exchange": "NYQ",
-        "price": 280.78,
-        "change_pct": 4.94,
-        "dip30": 0.47,
-        "range52pct": 97.4,
-        "h52": 283.25,
-        "l52": 189.05,
-        "mom5": 3.78,
-        "volume": 7350117,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:22:46.214469"
-    },
-    {
-      "ticker": "KO",
-      "name": "The Coca-Cola Company",
-      "risk": "speculative",
-      "score": {
-        "total": 3.4,
-        "tech": 0.3,
-        "fund": 5.0,
-        "analyst": 5.0,
-        "detail": {
-          "dip": -0.46,
-          "range52": 0.15999999999999942,
-          "momentum": 4.4350000000000005
-        }
-      },
-      "price": {
-        "ticker": "KO",
-        "name": "The Coca-Cola Company",
-        "exchange": "NYQ",
-        "price": 96.91,
-        "change_pct": 11.6,
-        "dip30": -0.92,
-        "range52pct": 98.4,
-        "h52": 97.39,
-        "l52": 67.27,
-        "mom5": 1.13,
-        "volume": 16765208,
-        "market_cap": 0
-      },
-      "fundamentals": {},
-      "narrative": null,
-      "updated_at": "2026-11-11T01:22:50.914740"
-    },
-    {
-      "ticker": "AMZN",
-      "name": "Amazon.com, Inc.",
+      "ticker": "AAPL",
+      "name": "Apple Inc.",
       "risk": "speculative",
       "score": {
         "total": 3.3,
-        "tech": 0.1,
+        "tech": 0.0,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.74,
-          "range52": 1.7900000000000005,
-          "momentum": 0
+          "dip": -0.705,
+          "range52": 0.020000000000000285,
+          "momentum": 1.4249999999999998
         }
       },
       "price": {
-        "ticker": "AMZN",
-        "name": "Amazon.com, Inc.",
+        "ticker": "AAPL",
+        "name": "Apple Inc.",
         "exchange": "NMS",
-        "price": 270.87,
-        "change_pct": 9.81,
-        "dip30": -1.48,
-        "range52pct": 82.1,
-        "h52": 287.2,
-        "l52": 196.0,
-        "mom5": 10.28,
-        "volume": 38874955,
+        "price": 355.63,
+        "change_pct": 6.79,
+        "dip30": -1.41,
+        "range52pct": 99.8,
+        "h52": 355.9,
+        "l52": 243.42,
+        "mom5": 7.15,
+        "volume": 34023762,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:20:47.809977"
+      "updated_at": "2026-11-12T02:21:21.118402"
     },
     {
       "ticker": "BRK-B",
@@ -2032,32 +1933,131 @@
       "risk": "speculative",
       "score": {
         "total": 3.3,
-        "tech": 0.2,
+        "tech": 0.1,
         "fund": 5.0,
         "analyst": 5.0,
         "detail": {
-          "dip": -0.365,
-          "range52": 0.25,
-          "momentum": 2.55
+          "dip": -0.42,
+          "range52": 0.020000000000000285,
+          "momentum": 2.2
         }
       },
       "price": {
         "ticker": "BRK-B",
         "name": "Berkshire Hathaway Inc.",
         "exchange": "NYQ",
-        "price": 583.34,
-        "change_pct": 16.12,
-        "dip30": -0.73,
-        "range52pct": 97.5,
-        "h52": 586.41,
+        "price": 588.24,
+        "change_pct": 18.13,
+        "dip30": -0.84,
+        "range52pct": 99.8,
+        "h52": 588.48,
         "l52": 464.01,
-        "mom5": 4.9,
-        "volume": 4628045,
+        "mom5": 5.6,
+        "volume": 5091790,
         "market_cap": 0
       },
       "fundamentals": {},
       "narrative": null,
-      "updated_at": "2026-11-11T01:21:06.879680"
+      "updated_at": "2026-11-12T02:21:54.135194"
+    },
+    {
+      "ticker": "COST",
+      "name": "Costco Wholesale Corporation",
+      "risk": "speculative",
+      "score": {
+        "total": 3.3,
+        "tech": 0.0,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": -1.005,
+          "range52": 0.35,
+          "momentum": 1.645
+        }
+      },
+      "price": {
+        "ticker": "COST",
+        "name": "Costco Wholesale Corporation",
+        "exchange": "NMS",
+        "price": 1087.61,
+        "change_pct": 19.47,
+        "dip30": -2.01,
+        "range52pct": 96.5,
+        "h52": 1096.5,
+        "l52": 844.06,
+        "mom5": 6.71,
+        "volume": 2245564,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:23:18.590432"
+    },
+    {
+      "ticker": "JNJ",
+      "name": "Johnson & Johnson",
+      "risk": "speculative",
+      "score": {
+        "total": 3.3,
+        "tech": 0.3,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": 0.3,
+          "range52": 0.30999999999999944,
+          "momentum": 2.325
+        }
+      },
+      "price": {
+        "ticker": "JNJ",
+        "name": "Johnson & Johnson",
+        "exchange": "NYQ",
+        "price": 280.41,
+        "change_pct": 5.92,
+        "dip30": 0.6,
+        "range52pct": 96.9,
+        "h52": 283.25,
+        "l52": 193.07,
+        "mom5": 5.35,
+        "volume": 5383980,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:23:32.727264"
+    },
+    {
+      "ticker": "KO",
+      "name": "The Coca-Cola Company",
+      "risk": "speculative",
+      "score": {
+        "total": 3.3,
+        "tech": 0.2,
+        "fund": 5.0,
+        "analyst": 5.0,
+        "detail": {
+          "dip": -0.34,
+          "range52": 0.07999999999999971,
+          "momentum": 3.54
+        }
+      },
+      "price": {
+        "ticker": "KO",
+        "name": "The Coca-Cola Company",
+        "exchange": "NYQ",
+        "price": 97.57,
+        "change_pct": 13.35,
+        "dip30": -0.68,
+        "range52pct": 99.2,
+        "h52": 97.82,
+        "l52": 67.27,
+        "mom5": 2.92,
+        "volume": 15020354,
+        "market_cap": 0
+      },
+      "fundamentals": {},
+      "narrative": null,
+      "updated_at": "2026-11-12T02:23:37.508201"
     }
   ]
 }
